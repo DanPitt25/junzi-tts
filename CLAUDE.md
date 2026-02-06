@@ -1,5 +1,9 @@
 # Claude Code Instructions for Junzi
 
+## Git Commits
+
+Do NOT add Co-Authored-By lines to commit messages. Just write the commit message.
+
 ## IMPORTANT: Do NOT run the server yourself!
 
 The user runs the server manually. Do not use `python3 server.py` or try to start/restart the server. Just make changes to the code and let the user test.

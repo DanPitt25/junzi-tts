@@ -305,7 +305,7 @@ def create_app() -> web.Application:
 
 
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8765))
+    port = int(os.environ.get("PORT", 8080))
     print(f"""
 ╔══════════════════════════════════════════════════════════════╗
 ║          Classical Chinese Reader - Server                   ║
