@@ -1,0 +1,88 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "3",
+    "title": "Zhun",
+    "slug": "zhun",
+    "passages": [
+      {
+        "ref": "3:1",
+        "zh": "屯：元亨，利貞，勿用有攸往，利建侯。",
+        "en": "Zhun (indicates that in the case which it presupposes) there will be great progress and success, and the advantage will come from being correct and firm. (But) any movement in advance should not be (lightly) undertaken. There will be advantage in appointing feudal princes."
+      },
+      {
+        "ref": "3:2",
+        "zh": "屯，剛柔始交而難生，動乎險中，大亨貞。雷雨之動滿盈，天造草昧，宜建侯而不寧。",
+        "en": "In Zhun we have the strong (Qian) and the weak (Kun) commencing their intercourse, and difficulties arising. Movement in the midst of peril gives rise to 'great progress and success, (through) firm correctness.' By the action of the thunder and rain, (which are symbols of Kan and Zhen), all (between heaven and earth) is filled up. But the condition of the time is full of irregularity and obscurity. Feudal princes should be established, but the feeling that rest and peace have been secured should not be indulged (even then)."
+      },
+      {
+        "ref": "3:3",
+        "zh": "雲，雷，屯；君子以經綸。",
+        "en": "(The trigram representing) clouds and (that representing) thunder form Zhun. The superior man, in accordance with this, (adjusts his measures of government) as in sorting the threads of the warp and woof."
+      },
+      {
+        "ref": "3:4",
+        "zh": "初九：磐桓；利居貞，利建侯。",
+        "en": "The first NINE, undivided, shows the difficulty (its subject has) in advancing. It will be advantageous for him to abide correct and firm; advantageous (also) to be made a feudal ruler."
+      },
+      {
+        "ref": "3:5",
+        "zh": "雖磐桓，志行正也。以貴下賤，大得民也。",
+        "en": "Although 'there is a difficulty in advancing,' the mind (of the subject of the line) is set on doing what is correct. While noble, he humbles himself to the mean, and grandly gains the people."
+      },
+      {
+        "ref": "3:6",
+        "zh": "六二：屯如邅如，乘馬班如。匪寇婚媾，女子貞不字，十年乃字。",
+        "en": "The second SIX, divided, shows (its subject) distressed and obliged to return; (even) the horses of her chariot (also) seem to be retreating. (But) not by a spoiler (is she assailed), but by one who seeks her to be his wife. The young lady maintains her firm correctness, and declines a union. After ten years she will be united, and have children."
+      },
+      {
+        "ref": "3:7",
+        "zh": "六二之難，乘剛也。十年乃字，反常也。",
+        "en": "The difficulty (to the subject of) the second six, (divided), arises from, its place over the undivided line below it. 'The union and children after ten years' shows things resuming their regular course."
+      },
+      {
+        "ref": "3:8",
+        "zh": "六三：即鹿无虞，惟入于林中，君子幾不如舍，往吝。",
+        "en": "The third SIX, divided, shows one following the deer without (the guidance of) the forester, and only finding himself in the midst of the forest. The superior man, acquainted with the secret risks, thinks it better to give up the chase. If he went forward, he would regret it."
+      },
+      {
+        "ref": "3:9",
+        "zh": "即鹿无虞，以縱禽也。君子舍之，往吝窮也。",
+        "en": "'One pursues the deer without the (guidance of the) forester:' - (he does so) in (his eagerness to) follow the game. 'The superior man gives up the chase, (knowing that) if he go forward he will regret it:' - he would be reduced to extremity."
+      },
+      {
+        "ref": "3:10",
+        "zh": "六四：乘馬班如，求婚媾，往吉，无不利。",
+        "en": "The fourth SIX, divided, shows (its subject as a lady), the horses of whose chariot appear in retreat. She seeks, however, (the help of) him who seeks her to be his wife. Advance will be fortunate; all will turn out advantageously."
+      },
+      {
+        "ref": "3:11",
+        "zh": "求而往，明也。",
+        "en": "'Going forward after such a search (for a helper)' shows intelligence."
+      },
+      {
+        "ref": "3:12",
+        "zh": "九五：屯其膏，小貞吉，大貞凶。",
+        "en": "The fifth NINE, undivided, shows the difficulties in the way of (its subject's) dispensing the rich favours that might be expected from him. With firmness and correctness there will be good fortune in small things; (even) with them in great things there will be evil."
+      },
+      {
+        "ref": "3:13",
+        "zh": "屯其膏，施未光也。",
+        "en": "'Difficulty is experienced (by the subject of the fifth line) in bestowing his rich favours:' - the extent to which they reach will not yet be conspicuous."
+      },
+      {
+        "ref": "3:14",
+        "zh": "上六：乘馬班如，泣血漣如。",
+        "en": "The topmost SIX, divided, shows (its subject) with the horses of his chariot obliged to retreat, and weeping tears of blood in streams."
+      },
+      {
+        "ref": "3:15",
+        "zh": "泣血漣如，何可長也。",
+        "en": "'He weeps tears of blood in streams:' - how can the state (thus emblemed) continue long?"
+      }
+    ]
+  }
+}

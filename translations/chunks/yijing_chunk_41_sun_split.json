@@ -1,0 +1,123 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "41",
+    "title": "Sun",
+    "slug": "sun",
+    "passages": [
+      {
+        "ref": "41:1",
+        "zh": "損：有孚，元吉，无咎，可貞，利有攸往。",
+        "en": "In (what is denoted by) Sun, if there be sincerity (in him who employs it), there will be great good fortune:--freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made."
+      },
+      {
+        "ref": "41:2",
+        "zh": "曷之用，二簋可用享。",
+        "en": "In what shall this (sincerity in the exercise of Sun) be employed? (Even) in sacrifice two baskets of grain, (though there be nothing else), may be presented."
+      },
+      {
+        "ref": "41:3",
+        "zh": "損，損下益上，其道上行。",
+        "en": "In Sun (we see) the lower (trigram) diminished, and the upper added to. (But) the method (of action) implied in this operates also above (or, mounts upwards (also) and operates)."
+      },
+      {
+        "ref": "41:4",
+        "zh": "損而有孚，元吉，无咎，可貞，利有攸往。",
+        "en": "'If there be sincerity in this method of diminution, there will be great good fortune; freedom from error; firmness and correctness that can be maintained; and advantage in every movement that shall be made."
+      },
+      {
+        "ref": "41:5",
+        "zh": "曷之用？",
+        "en": "In what shall this (sincerity in the exercise of Sun) be employed?"
+      },
+      {
+        "ref": "41:6",
+        "zh": "二簋可用享；二簋應有時。",
+        "en": "(Even) in sacrifice, two baskets of grain, (though there be nothing else), may be presented:' - for these two baskets there ought to be the fitting time."
+      },
+      {
+        "ref": "41:7",
+        "zh": "損剛益柔有時，損益盈虛，與時偕行。",
+        "en": "There is a time when the strong should be diminished, and the weak should be strengthened. Diminution and increase, overflowing and emptiness: - these take place in harmony with the conditions of the time."
+      },
+      {
+        "ref": "41:8",
+        "zh": "山下有澤，損；",
+        "en": "(The trigram representing) a mountain and beneath it that for the waters of a marsh form Sun."
+      },
+      {
+        "ref": "41:9",
+        "zh": "君子以懲忿窒欲。",
+        "en": "The superior man, in accordance with this, restrains his wrath and represses his desires."
+      },
+      {
+        "ref": "41:10",
+        "zh": "初九：巳事遄往，无咎，酌損之。",
+        "en": "The first NINE, undivided, shows its subject suspending his own affairs, and hurrying away (to help the subject of the fourth line). He will commit no error, but let him consider how far he should contribute of what is his (for the other)."
+      },
+      {
+        "ref": "41:11",
+        "zh": "巳事遄往，尚合志也。",
+        "en": "'He suspends his own affairs and hurries away (to help the subject of the fourth line):' - the (subject of that) upper (line) mingles his wishes with his."
+      },
+      {
+        "ref": "41:12",
+        "zh": "九二：利貞，征凶，弗損，益之。",
+        "en": "The second NINE, undivided, shows that it will be advantageous for its subject to maintain a firm correctness, and that action on his part will be evil. He can give increase (to his correlate) without taking from himself."
+      },
+      {
+        "ref": "41:13",
+        "zh": "九二利貞，中以為志也。",
+        "en": "'It will be advantageous for (the subject of) the second NINE, (undivided), to maintain his firm correctness:' - his central position gives its character to his aim."
+      },
+      {
+        "ref": "41:14",
+        "zh": "六三：三人行，則損一人；",
+        "en": "The third SIX, divided, shows how of three men walking together, the number is diminished by one;"
+      },
+      {
+        "ref": "41:15",
+        "zh": "一人行，則得其友。",
+        "en": "and how one, walking, finds his friend."
+      },
+      {
+        "ref": "41:16",
+        "zh": "一人行，三則疑也。",
+        "en": "'One man, walking,' (finds his friend): - when three are together, doubts rise among them."
+      },
+      {
+        "ref": "41:17",
+        "zh": "六四：損其疾，使遄有喜，无咎。",
+        "en": "The fourth SIX, divided, shows its subject diminishing the ailment under which he labours by making (the subject of the first line) hasten (to his help), and make him glad. There will be no error."
+      },
+      {
+        "ref": "41:18",
+        "zh": "損其疾，亦可喜也。",
+        "en": "'He diminishes the ailment under which he labours:' - this is matter for joy."
+      },
+      {
+        "ref": "41:19",
+        "zh": "六五：或益之，十朋之龜弗克違，元吉。",
+        "en": "The fifth SIX, divided, shows parties adding to (the stores of) its subject ten pairs of tortoise shells, and accepting no refusal. There will be great good fortune."
+      },
+      {
+        "ref": "41:20",
+        "zh": "六五元吉，自上佑也。",
+        "en": "'The great good fortune attached to the fifth six, (divided),' is due to the blessing from above."
+      },
+      {
+        "ref": "41:21",
+        "zh": "上九：弗損益之，无咎，貞吉，有攸往，得臣无家。",
+        "en": "The topmost NINE, undivided, shows its subject giving increase to others without taking from himself. There will be no error. With firm correctness there will be good fortune. There will be advantage in every movement that shall be made. He will find ministers more than can be counted by their clans."
+      },
+      {
+        "ref": "41:22",
+        "zh": "弗損益之，大得志也。",
+        "en": "'He gives increase to others without taking from what is his own:' - he obtains his wish on a grand scale."
+      }
+    ]
+  }
+}

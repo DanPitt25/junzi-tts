@@ -1,0 +1,33 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "29",
+    "title": "Chapter 29",
+    "slug": "chapter-29",
+    "passages": [
+      {
+        "ref": "29:1",
+        "zh": "將欲取天下而為之，吾見其不得已。",
+        "en": "(Taking no action) If any one should wish to get the kingdom for himself, and to effect this by what he does, I see that he will not succeed."
+      },
+      {
+        "ref": "29:2",
+        "zh": "天下神器，不可為也，為者敗之，執者失之。",
+        "en": "The kingdom is a spirit-like thing, and cannot be got by active doing. He who would so win it destroys it; he who would hold it in his grasp loses it."
+      },
+      {
+        "ref": "29:3",
+        "zh": "故物或行或隨；或歔或吹；或強或羸；或挫或隳。",
+        "en": "The course and nature of things is such that what was in front is now behind; what warmed anon we freezing find. Strength is of weakness oft the spoil; the store in ruins mocks our toil."
+      },
+      {
+        "ref": "29:4",
+        "zh": "是以聖人去甚，去奢，去泰。",
+        "en": "Hence the sage puts away excessive effort, extravagance, and easy indulgence."
+      }
+    ]
+  }
+}

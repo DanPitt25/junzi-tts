@@ -1,0 +1,48 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "53",
+    "title": "Jian2",
+    "slug": "jian2",
+    "passages": [
+      {
+        "ref": "53:1",
+        "zh": "蹇，難也，險在前也。",
+        "en": "Jian denotes difficulty. There is (the trigram expressive of) perilousness in front."
+      },
+      {
+        "ref": "53:2",
+        "zh": "見險而能止，知矣哉！",
+        "en": "When one, seeing the peril, can arrest his steps (in accordance with the significance of the lower trigram), is he not wise?"
+      },
+      {
+        "ref": "53:3",
+        "zh": "蹇利西南，往得中也；",
+        "en": "(The language of) Jian, that 'advantage will be found in the south-west,' refers to the (strong fifth line) advanced and in the central place."
+      },
+      {
+        "ref": "53:4",
+        "zh": "不利東北，其道窮也。",
+        "en": "That 'there will be no advantage in the north-east,' intimates that the way (of dealing with the Jian state) is exhausted."
+      },
+      {
+        "ref": "53:5",
+        "zh": "利見大人，往有功也。",
+        "en": "That 'it will be advantageous to see the great man,' intimates that advance will lead to achievement."
+      },
+      {
+        "ref": "53:6",
+        "zh": "當位貞吉，以正邦也。",
+        "en": "That the places (of the different lines after the first) are those appropriate to them indicates firm correctness and good fortune, with which the regions (of the kingdom) are brought to their normal state."
+      },
+      {
+        "ref": "53:7",
+        "zh": "蹇之時用大矣哉！",
+        "en": "Great indeed is the work to be done in the time of Jian!"
+      }
+    ]
+  }
+}

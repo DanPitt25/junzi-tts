@@ -1,0 +1,33 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "47",
+    "title": "Chapter 47",
+    "slug": "chapter-47",
+    "passages": [
+      {
+        "ref": "47:1",
+        "zh": "不出戶知天下；",
+        "en": "(Surveying what is far-off) Without going outside his door, one understands (all that takes place) under the sky;"
+      },
+      {
+        "ref": "47:2",
+        "zh": "不闚牖見天道。",
+        "en": "without looking out from his window, one sees the Dao of Heaven."
+      },
+      {
+        "ref": "47:3",
+        "zh": "其出彌遠，其知彌少。",
+        "en": "The farther that one goes out (from himself), the less he knows."
+      },
+      {
+        "ref": "47:4",
+        "zh": "是以聖人不行而知，不見而名，不為而成。",
+        "en": "Therefore the sages got their knowledge without travelling; gave their (right) names to things without seeing them; and accomplished their ends without any purpose of doing so."
+      }
+    ]
+  }
+}

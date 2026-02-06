@@ -1,0 +1,488 @@
+{
+  "id": "analects",
+  "title": "論語",
+  "titleEn": "Analects",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "13",
+    "title": "Zi Lu",
+    "slug": "zi-lu",
+    "passages": [
+      {
+        "ref": "13:1",
+        "zh": "子路問政。",
+        "en": "Zi Lu asked about government."
+      },
+      {
+        "ref": "13:2",
+        "zh": "子曰：「先之，勞之。」",
+        "en": "The Master said, \"Go before the people with your example, and be laborious in their affairs.\""
+      },
+      {
+        "ref": "13:3",
+        "zh": "請益。曰：「無倦。」",
+        "en": "He requested further instruction, and was answered, \"Be not weary (in these things).\""
+      },
+      {
+        "ref": "13:4",
+        "zh": "仲弓為季氏宰，問政。",
+        "en": "Zhong Gong, being chief minister to the head of the Ji family, asked about government."
+      },
+      {
+        "ref": "13:5",
+        "zh": "子曰：「先有司，赦小過，舉賢才。」",
+        "en": "The Master said, \"Employ first the services of your various officers, pardon small faults, and raise to office men of virtue and talents.\""
+      },
+      {
+        "ref": "13:6",
+        "zh": "曰：「焉知賢才而舉之？」",
+        "en": "Zhong Gong said, \"How shall I know the men of virtue and talent, so that I may raise them to office?\""
+      },
+      {
+        "ref": "13:7",
+        "zh": "曰：「舉爾所知。爾所不知，人其舍諸？」",
+        "en": "He was answered, \"Raise to office those whom you know. As to those whom you do not know, will others neglect them?\""
+      },
+      {
+        "ref": "13:8",
+        "zh": "子路曰：「衛君待子而為政，子將奚先？」",
+        "en": "Zi Lu said, \"The ruler of Wei has been waiting for you, in order with you to administer the government. What will you consider the first thing to be done?\""
+      },
+      {
+        "ref": "13:9",
+        "zh": "子曰：「必也正名乎！」",
+        "en": "The Master replied, \"What is necessary is to rectify names.\""
+      },
+      {
+        "ref": "13:10",
+        "zh": "子路曰：「有是哉，子之迂也！奚其正？」",
+        "en": "\"So! indeed!\" said Zi Lu. \"You are wide of the mark! Why must there be such rectification?\""
+      },
+      {
+        "ref": "13:11",
+        "zh": "子曰：「野哉由也！君子於其所不知，蓋闕如也。",
+        "en": "The Master said, \"How uncultivated you are, You! A superior man, in regard to what he does not know, shows a cautious reserve."
+      },
+      {
+        "ref": "13:12",
+        "zh": "名不正，則言不順；",
+        "en": "If names be not correct, language is not in accordance with the truth of things."
+      },
+      {
+        "ref": "13:13",
+        "zh": "言不順，則事不成；",
+        "en": "If language be not in accordance with the truth of things, affairs cannot be carried on to success."
+      },
+      {
+        "ref": "13:14",
+        "zh": "事不成，則禮樂不興；",
+        "en": "When affairs cannot be carried on to success, proprieties and music will not flourish."
+      },
+      {
+        "ref": "13:15",
+        "zh": "禮樂不興，則刑罰不中；",
+        "en": "When proprieties and music do not flourish, punishments will not be properly awarded."
+      },
+      {
+        "ref": "13:16",
+        "zh": "刑罰不中，則民無所措手足。",
+        "en": "When punishments are not properly awarded, the people do not know how to move hand or foot."
+      },
+      {
+        "ref": "13:17",
+        "zh": "故君子名之必可言也，言之必可行也。",
+        "en": "Therefore a superior man considers it necessary that the names he uses may be spoken appropriately, and also that what he speaks may be carried out appropriately."
+      },
+      {
+        "ref": "13:18",
+        "zh": "君子於其言，無所苟而已矣。」",
+        "en": "What the superior man requires is just that in his words there may be nothing incorrect.\""
+      },
+      {
+        "ref": "13:19",
+        "zh": "樊遲請學稼，子曰：「吾不如老農。」",
+        "en": "Fan Chi requested to be taught husbandry. The Master said, \"I am not so good for that as an old husbandman.\""
+      },
+      {
+        "ref": "13:20",
+        "zh": "請學為圃。曰：「吾不如老圃。」",
+        "en": "He requested also to be taught gardening, and was answered, \"I am not so good for that as an old gardener.\""
+      },
+      {
+        "ref": "13:21",
+        "zh": "樊遲出。",
+        "en": "Fan Chi having gone out,"
+      },
+      {
+        "ref": "13:22",
+        "zh": "子曰：「小人哉，樊須也！",
+        "en": "the Master said, \"A small man, indeed, is Fan Xu!"
+      },
+      {
+        "ref": "13:23",
+        "zh": "上好禮，則民莫敢不敬；",
+        "en": "If a superior man love propriety, the people will not dare not to be reverent."
+      },
+      {
+        "ref": "13:24",
+        "zh": "上好義，則民莫敢不服；",
+        "en": "If he love righteousness, the people will not dare not to submit to his example."
+      },
+      {
+        "ref": "13:25",
+        "zh": "上好信，則民莫敢不用情。",
+        "en": "If he love good faith, the people will not dare not to be sincere."
+      },
+      {
+        "ref": "13:26",
+        "zh": "夫如是，則四方之民襁負其子而至矣，焉用稼？」",
+        "en": "Now, when these things obtain, the people from all quarters will come to him, bearing their children on their backs - what need has he of a knowledge of husbandry?\""
+      },
+      {
+        "ref": "13:27",
+        "zh": "子曰：「誦詩三百，授之以政，不達；",
+        "en": "The Master said, \"Though a man may be able to recite the three hundred odes, yet if, when intrusted with a governmental charge, he knows not how to act,"
+      },
+      {
+        "ref": "13:28",
+        "zh": "使於四方，不能專對；",
+        "en": "or if, when sent to any quarter on a mission, he cannot give his replies unassisted,"
+      },
+      {
+        "ref": "13:29",
+        "zh": "雖多，亦奚以為？」",
+        "en": "notwithstanding the extent of his learning, of what practical use is it?\""
+      },
+      {
+        "ref": "13:30",
+        "zh": "子曰：「其身正，不令而行；",
+        "en": "The Master said, \"When a prince's personal conduct is correct, his government is effective without the issuing of orders."
+      },
+      {
+        "ref": "13:31",
+        "zh": "其身不正，雖令不從。」",
+        "en": "If his personal conduct is not correct, he may issue orders, but they will not be followed.\""
+      },
+      {
+        "ref": "13:32",
+        "zh": "子曰：「魯衛之政，兄弟也。」",
+        "en": "The Master said, \"The governments of Lu and Wei are brothers.\""
+      },
+      {
+        "ref": "13:33",
+        "zh": "子謂衛公子荊，「善居室。",
+        "en": "The Master said of Jing, a scion of the ducal family of Wei, that he knew the economy of a family well."
+      },
+      {
+        "ref": "13:34",
+        "zh": "始有，曰：『苟合矣。』",
+        "en": "When he began to have means, he said, \"Ha! here is a collection!\""
+      },
+      {
+        "ref": "13:35",
+        "zh": "少有，曰：『苟完矣。』",
+        "en": "When they were a little increased, he said, \"Ha! this is complete!\""
+      },
+      {
+        "ref": "13:36",
+        "zh": "富有，曰：『苟美矣。』」",
+        "en": "When he had become rich, he said, \"Ha! this is admirable!\""
+      },
+      {
+        "ref": "13:37",
+        "zh": "子適衛，冉有僕。",
+        "en": "When the Master went to Wei, Ran You acted as driver of his carriage."
+      },
+      {
+        "ref": "13:38",
+        "zh": "子曰：「庶矣哉！」",
+        "en": "The Master observed, \"How numerous are the people!\""
+      },
+      {
+        "ref": "13:39",
+        "zh": "冉有曰：「既庶矣。又何加焉？」曰：「富之。」",
+        "en": "You said, \"Since they are thus numerous, what more shall be done for them?\" \"Enrich them,\" was the reply."
+      },
+      {
+        "ref": "13:40",
+        "zh": "曰：「既富矣，又何加焉？」子曰：「教之。」",
+        "en": "\"And when they have been enriched, what more shall be done?\" The Master said, \"Teach them.\""
+      },
+      {
+        "ref": "13:41",
+        "zh": "子曰：「苟有用我者。期月而已可也，三年有成。」",
+        "en": "The Master said, \"If there were (any of the princes) who would employ me, in the course of twelve months, I should have done something considerable. In three years, the government would be perfected.\""
+      },
+      {
+        "ref": "13:42",
+        "zh": "子曰：「善人為邦百年，亦可以勝殘去殺矣。誠哉是言也！」",
+        "en": "The Master said, \"'If good men were to govern a country in succession for a hundred years, they would be able to transform the violently bad, and dispense with capital punishments.' True indeed is this saying!\""
+      },
+      {
+        "ref": "13:43",
+        "zh": "子曰：「如有王者，必世而後仁。」",
+        "en": "The Master said, \"If a truly royal ruler were to arise, it would still require a generation, and then virtue would prevail.\""
+      },
+      {
+        "ref": "13:44",
+        "zh": "子曰：「苟正其身矣，於從政乎何有？",
+        "en": "The Master said, \"If a minister make his own conduct correct, what difficulty will he have in assisting in government?"
+      },
+      {
+        "ref": "13:45",
+        "zh": "不能正其身，如正人何？」",
+        "en": "If he cannot rectify himself, what has he to do with rectifying others?\""
+      },
+      {
+        "ref": "13:46",
+        "zh": "冉子退朝。子曰：「何晏也？」",
+        "en": "The disciple Ran returning from the court, the Master said to him, \"How are you so late?\""
+      },
+      {
+        "ref": "13:47",
+        "zh": "對曰：「有政。」",
+        "en": "He replied, \"We had government business.\""
+      },
+      {
+        "ref": "13:48",
+        "zh": "子曰：「其事也。如有政，雖不吾以，吾其與聞之。」",
+        "en": "The Master said, \"It must have been family affairs. If there had been government business, though I am not now in office, I should have been consulted about it.\""
+      },
+      {
+        "ref": "13:49",
+        "zh": "定公問：「一言而可以興邦，有諸？」",
+        "en": "The Duke Ding asked whether there was a single sentence which could make a country prosperous."
+      },
+      {
+        "ref": "13:50",
+        "zh": "孔子對曰：「言不可以若是其幾也。",
+        "en": "Confucius replied, \"Such an effect cannot be expected from one sentence."
+      },
+      {
+        "ref": "13:51",
+        "zh": "人之言曰：『為君難，為臣不易。』",
+        "en": "There is a saying, however, which people have - 'To be a prince is difficult; to be a minister is not easy.'"
+      },
+      {
+        "ref": "13:52",
+        "zh": "如知為君之難也，不幾乎一言而興邦乎？」",
+        "en": "If a ruler knows this - the difficulty of being a prince - may there not be expected from this one sentence the prosperity of his country?\""
+      },
+      {
+        "ref": "13:53",
+        "zh": "曰：「一言而喪邦，有諸？」",
+        "en": "The duke then said, \"Is there a single sentence which can ruin a country?\""
+      },
+      {
+        "ref": "13:54",
+        "zh": "孔子對曰：「言不可以若是其幾也。",
+        "en": "Confucius replied, \"Such an effect as that cannot be expected from one sentence."
+      },
+      {
+        "ref": "13:55",
+        "zh": "人之言曰：『予無樂乎為君，唯其言而莫予違也。』",
+        "en": "There is, however, the saying which people have - 'I have no pleasure in being a prince, but only in that no one can offer any opposition to what I say!'"
+      },
+      {
+        "ref": "13:56",
+        "zh": "如其善而莫之違也，不亦善乎？",
+        "en": "If a ruler's words be good, is it not also good that no one oppose them?"
+      },
+      {
+        "ref": "13:57",
+        "zh": "如不善而莫之違也，不幾乎一言而喪邦乎？」",
+        "en": "But if they are not good, and no one opposes them, may there not be expected from this one sentence the ruin of his country?\""
+      },
+      {
+        "ref": "13:58",
+        "zh": "葉公問政。",
+        "en": "The duke of She asked about government."
+      },
+      {
+        "ref": "13:59",
+        "zh": "子曰：「近者說，遠者來。」",
+        "en": "The Master said, \"Good government obtains, when those who are near are made happy, and those who are far off are attracted.\""
+      },
+      {
+        "ref": "13:60",
+        "zh": "子夏為莒父宰，問政。",
+        "en": "Zi Xia, being governor of Ju Fu, asked about government."
+      },
+      {
+        "ref": "13:61",
+        "zh": "子曰：「無欲速，無見小利。",
+        "en": "The Master said, \"Do not be desirous to have things done quickly; do not look at small advantages."
+      },
+      {
+        "ref": "13:62",
+        "zh": "欲速，則不達；見小利，則大事不成。」",
+        "en": "Desire to have things done quickly prevents their being done thoroughly. Looking at small advantages prevents great affairs from being accomplished.\""
+      },
+      {
+        "ref": "13:63",
+        "zh": "葉公語孔子曰：「吾黨有直躬者，其父攘羊，而子證之。」",
+        "en": "The Duke of She informed Confucius, saying, \"Among us here there are those who may be styled upright in their conduct. If their father have stolen a sheep, they will bear witness to the fact.\""
+      },
+      {
+        "ref": "13:64",
+        "zh": "孔子曰：「吾黨之直者異於是。父為子隱，子為父隱，直在其中矣。」",
+        "en": "Confucius said, \"Among us, in our part of the country, those who are upright are different from this. The father conceals the misconduct of the son, and the son conceals the misconduct of the father. Uprightness is to be found in this.\""
+      },
+      {
+        "ref": "13:65",
+        "zh": "樊遲問仁。",
+        "en": "Fan Chi asked about perfect virtue."
+      },
+      {
+        "ref": "13:66",
+        "zh": "子曰：「居處恭，執事敬，與人忠。雖之夷狄，不可棄也。」",
+        "en": "The Master said, \"It is, in retirement, to be sedately grave; in the management of business, to be reverently attentive; in intercourse with others, to be strictly sincere. Though a man go among rude, uncultivated tribes, these qualities may not be neglected.\""
+      },
+      {
+        "ref": "13:67",
+        "zh": "子貢問曰：「何如斯可謂之士矣？」",
+        "en": "Zi Gong asked, saying, \"What qualities must a man possess to entitle him to be called an officer?\""
+      },
+      {
+        "ref": "13:68",
+        "zh": "子曰：「行己有恥，使於四方，不辱君命，可謂士矣。」",
+        "en": "The Master said, \"He who in his conduct of himself maintains a sense of shame, and when sent to any quarter will not disgrace his prince's commission, deserves to be called an officer.\""
+      },
+      {
+        "ref": "13:69",
+        "zh": "曰：「敢問其次。」",
+        "en": "Zi Gong pursued, \"I venture to ask who may be placed in the next lower rank?\""
+      },
+      {
+        "ref": "13:70",
+        "zh": "曰：「宗族稱孝焉，鄉黨稱弟焉。」",
+        "en": "And he was told, \"He whom the circle of his relatives pronounce to be filial, whom his fellow villagers and neighbors pronounce to be fraternal.\""
+      },
+      {
+        "ref": "13:71",
+        "zh": "曰：「敢問其次。」",
+        "en": "Again the disciple asked, \"I venture to ask about the class still next in order.\""
+      },
+      {
+        "ref": "13:72",
+        "zh": "曰：「言必信，行必果，硜硜然小人哉！抑亦可以為次矣。」",
+        "en": "The Master said, \"They are determined to be sincere in what they say, and to carry out what they do. They are obstinate little men. Yet perhaps they may make the next class.\""
+      },
+      {
+        "ref": "13:73",
+        "zh": "曰：「今之從政者何如？」",
+        "en": "Zi Gong finally inquired, \"Of what sort are those of the present day, who engage in government?\""
+      },
+      {
+        "ref": "13:74",
+        "zh": "子曰：「噫！斗筲之人，何足算也。」",
+        "en": "The Master said \"Pooh! they are so many pecks and hampers, not worth being taken into account.\""
+      },
+      {
+        "ref": "13:75",
+        "zh": "子曰：「不得中行而與之，必也狂狷乎！",
+        "en": "The Master said, \"Since I cannot get men pursuing the due medium, to whom I might communicate my instructions, I must find the ardent and the cautiously-decided."
+      },
+      {
+        "ref": "13:76",
+        "zh": "狂者進取，狷者有所不為也。」",
+        "en": "The ardent will advance and lay hold of truth; the cautiously-decided will keep themselves from what is wrong.\""
+      },
+      {
+        "ref": "13:77",
+        "zh": "子曰：「南人有言曰：『人而無恆，不可以作巫醫。』善夫！」",
+        "en": "The Master said, \"The people of the south have a saying - 'A man without constancy cannot be either a wizard or a doctor.' Good!"
+      },
+      {
+        "ref": "13:78",
+        "zh": "「不恆其德，或承之羞。」",
+        "en": "Inconstant in his virtue, he will be visited with disgrace.\""
+      },
+      {
+        "ref": "13:79",
+        "zh": "子曰：「不占而已矣。」",
+        "en": "The Master said, \"This arises simply from not attending to the prognostication.\""
+      },
+      {
+        "ref": "13:80",
+        "zh": "子曰：「君子和而不同，小人同而不和。」",
+        "en": "The Master said, \"The superior man is affable, but not adulatory; the mean man is adulatory, but not affable.\""
+      },
+      {
+        "ref": "13:81",
+        "zh": "子貢問曰：「鄉人皆好之，何如？」",
+        "en": "Zi Gong asked, saying, \"What do you say of a man who is loved by all the people of his neighborhood?\""
+      },
+      {
+        "ref": "13:82",
+        "zh": "子曰：「未可也。」",
+        "en": "The Master replied, \"We may not for that accord our approval of him.\""
+      },
+      {
+        "ref": "13:83",
+        "zh": "「鄉人皆惡之，何如？」",
+        "en": "\"And what do you say of him who is hated by all the people of his neighborhood?\""
+      },
+      {
+        "ref": "13:84",
+        "zh": "子曰：「未可也。不如鄉人之善者好之，其不善者惡之。」",
+        "en": "The Master said, \"We may not for that conclude that he is bad. It is better than either of these cases that the good in the neighborhood love him, and the bad hate him.\""
+      },
+      {
+        "ref": "13:85",
+        "zh": "子曰：「君子易事而難說也：說之不以道，不說也；",
+        "en": "The Master said, \"The superior man is easy to serve and difficult to please. If you try to please him in any way which is not accordant with right, he will not be pleased."
+      },
+      {
+        "ref": "13:86",
+        "zh": "及其使人也，器之。",
+        "en": "But in his employment of men, he uses them according to their capacity."
+      },
+      {
+        "ref": "13:87",
+        "zh": "小人難事而易說也：說之雖不以道，說也；",
+        "en": "The mean man is difficult to serve, and easy to please. If you try to please him, though it be in a way which is not accordant with right, he may be pleased."
+      },
+      {
+        "ref": "13:88",
+        "zh": "及其使人也，求備焉。」",
+        "en": "But in his employment of men, he wishes them to be equal to everything.\""
+      },
+      {
+        "ref": "13:89",
+        "zh": "子曰：「君子泰而不驕，小人驕而不泰。」",
+        "en": "The Master said, \"The superior man has a dignified ease without pride. The mean man has pride without a dignified ease.\""
+      },
+      {
+        "ref": "13:90",
+        "zh": "子曰：「剛毅、木訥，近仁。」",
+        "en": "The Master said, \"The firm, the enduring, the simple, and the modest are near to virtue.\""
+      },
+      {
+        "ref": "13:91",
+        "zh": "子路問曰：「何如斯可謂之士矣？」",
+        "en": "Zi Lu asked, saying, \"What qualities must a man possess to entitle him to be called a scholar?\""
+      },
+      {
+        "ref": "13:92",
+        "zh": "子曰：「切切、偲偲、怡怡如也，可謂士矣。",
+        "en": "The Master said, \"He must be thus: earnest, urgent, and bland - among his friends, earnest and urgent; among his brethren, bland.\""
+      },
+      {
+        "ref": "13:93",
+        "zh": "朋友切切、偲偲，兄弟怡怡。」",
+        "en": "Among his friends, earnest and urgent; among his brethren, bland."
+      },
+      {
+        "ref": "13:94",
+        "zh": "子曰：「善人教民七年，亦可以即戎矣。」",
+        "en": "The Master said, \"Let a good man teach the people seven years, and they may then likewise be employed in war.\""
+      },
+      {
+        "ref": "13:95",
+        "zh": "子曰：「以不教民戰，是謂棄之。」",
+        "en": "The Master said, \"To lead an uninstructed people to war, is to throw them away.\""
+      }
+    ]
+  }
+}

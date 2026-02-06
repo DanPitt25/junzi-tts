@@ -1,0 +1,83 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "20",
+    "title": "Chapter 20",
+    "slug": "chapter-20",
+    "passages": [
+      {
+        "ref": "20:1",
+        "zh": "絕學無憂，唯之與阿，相去幾何？",
+        "en": "(Being different from ordinary men) When we renounce learning we have no troubles. The (ready) 'yes,' and (flattering) 'yea;' small is the difference they display."
+      },
+      {
+        "ref": "20:2",
+        "zh": "善之與惡，相去若何？",
+        "en": "But mark their issues, good and ill; what space the gulf between shall fill?"
+      },
+      {
+        "ref": "20:3",
+        "zh": "人之所畏，不可不畏。",
+        "en": "What all men fear is indeed to be feared;"
+      },
+      {
+        "ref": "20:4",
+        "zh": "荒兮其未央哉！",
+        "en": "but how wide and without end is the range of questions (asking to be discussed)!"
+      },
+      {
+        "ref": "20:5",
+        "zh": "衆人熙熙，如享太牢，如春登臺。",
+        "en": "The multitude of men look satisfied and pleased; as if enjoying a full banquet, as if mounted on a tower in spring."
+      },
+      {
+        "ref": "20:6",
+        "zh": "我獨怕兮其未兆；",
+        "en": "I alone seem listless and still, my desires having as yet given no indication of their presence."
+      },
+      {
+        "ref": "20:7",
+        "zh": "如嬰兒之未孩；",
+        "en": "I am like an infant which has not yet smiled."
+      },
+      {
+        "ref": "20:8",
+        "zh": "儽儽兮若無所歸。",
+        "en": "I look dejected and forlorn, as if I had no home to go to."
+      },
+      {
+        "ref": "20:9",
+        "zh": "衆人皆有餘，而我獨若遺。",
+        "en": "The multitude of men all have enough and to spare. I alone seem to have lost everything."
+      },
+      {
+        "ref": "20:10",
+        "zh": "我愚人之心也哉！",
+        "en": "My mind is that of a stupid man;"
+      },
+      {
+        "ref": "20:11",
+        "zh": "沌沌兮，俗人昭昭，我獨若昏。",
+        "en": "I am in a state of chaos. Ordinary men look bright and intelligent, while I alone seem to be benighted."
+      },
+      {
+        "ref": "20:12",
+        "zh": "俗人察察，我獨悶悶。",
+        "en": "They look full of discrimination, while I alone am dull and confused."
+      },
+      {
+        "ref": "20:13",
+        "zh": "澹兮其若海，飂兮若無止，衆人皆有以，而我獨頑似鄙。",
+        "en": "I seem to be carried about as on the sea, drifting as if I had nowhere to rest. All men have their spheres of action, while I alone seem dull and incapable, like a rude borderer."
+      },
+      {
+        "ref": "20:14",
+        "zh": "我獨異於人，而貴食母。",
+        "en": "(Thus) I alone am different from other men, but I value the nursing-mother (the Dao)."
+      }
+    ]
+  }
+}

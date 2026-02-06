@@ -1,0 +1,113 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "26",
+    "title": "Da Xu",
+    "slug": "da-xu",
+    "passages": [
+      {
+        "ref": "26:1",
+        "zh": "大畜：利貞，不家食吉，利涉大川。",
+        "en": "Under the conditions of Da Xu it will be advantageous to be firm and correct. (If its subject do not seek to) enjoy his revenues in his own family (without taking service at court), there will be good fortune. It will be advantageous for him to cross the great stream."
+      },
+      {
+        "ref": "26:2",
+        "zh": "大畜，剛健篤實輝光，日新其德，剛上而尚賢。",
+        "en": "In (the trigrams composing) Da Xu we have (the attributes) of the greatest strength and of substantial solidity, which emit a brilliant light; and indicate a daily renewal of his virtue (by the subject of it). The strong line is in the highest place, and suggests the value set on talents and virtue;"
+      },
+      {
+        "ref": "26:3",
+        "zh": "能止健，大正也。",
+        "en": "there is power (in the upper trigram) to keep the strongest in restraint: - all this shows 'the great correctness' (required in the hexagram)."
+      },
+      {
+        "ref": "26:4",
+        "zh": "不家食吉，養賢也。",
+        "en": "'The good fortune attached to the subject's not seeking to enjoy his revenues in his own family' shows how talents and virtue are nourished."
+      },
+      {
+        "ref": "26:5",
+        "zh": "利涉大川，應乎天也。",
+        "en": "'It will be advantageous to cross the great stream:' - (the fifth line, representing the ruler,) is responded to by (the second, the central line of Qian, representing) Heaven."
+      },
+      {
+        "ref": "26:6",
+        "zh": "天在山中，大畜；",
+        "en": "(The trigram representing) a mountain, and in the midst of it that (representing) heaven, form Da Xu."
+      },
+      {
+        "ref": "26:7",
+        "zh": "君子以多識前言往行，以畜其德。",
+        "en": "The superior man, in accordance with this, stores largely in his memory the words and deeds of former men, to subserve the accumulation of his virtue."
+      },
+      {
+        "ref": "26:8",
+        "zh": "初九：有厲利已。",
+        "en": "The first NINE, undivided, shows its subject in a position of peril. It will be advantageous for him to stop his advance."
+      },
+      {
+        "ref": "26:9",
+        "zh": "有厲利已，不犯災也。",
+        "en": "'He is in a position of peril; it will be advantageous for him to stop his advance:' - he should not rashly expose himself to calamity."
+      },
+      {
+        "ref": "26:10",
+        "zh": "九二：輿說輹。",
+        "en": "The second NINE, undivided, shows a carriage with the strap under it removed."
+      },
+      {
+        "ref": "26:11",
+        "zh": "輿說輹，中无尤也。",
+        "en": "'(He is as) a carriage from which the strap under it has been removed:' - being in the central position, he will incur no blame."
+      },
+      {
+        "ref": "26:12",
+        "zh": "九三：良馬逐，利艱貞。",
+        "en": "The third NINE, undivided, shows its subject urging his way with good horses. It will be advantageous for him to realise the difficulty (of his course), and to be firm and correct,"
+      },
+      {
+        "ref": "26:13",
+        "zh": "曰閑輿衛，利有攸往。",
+        "en": "exercising himself daily in his charioteering and methods of defence; then there will be advantage in whatever direction he may advance."
+      },
+      {
+        "ref": "26:14",
+        "zh": "利有攸往，上合志也。",
+        "en": "'There will be advantage in whatever direction he may advance:' - (the subject of) the topmost line is of the same mind with him."
+      },
+      {
+        "ref": "26:15",
+        "zh": "六四：童牛之牿，元吉。",
+        "en": "The fourth six, divided, shows the young bull, (and yet) having the piece of wood over his horns. There will be great good fortune."
+      },
+      {
+        "ref": "26:16",
+        "zh": "六四元吉，有喜也。",
+        "en": "'The great good fortune indicated by the fourth six, (divided),' shows that there is occasion for joy."
+      },
+      {
+        "ref": "26:17",
+        "zh": "六五：豶豕之牙，吉。",
+        "en": "The fifth six, divided, shows the teeth of a castrated hog. There will be good fortune."
+      },
+      {
+        "ref": "26:18",
+        "zh": "六五之吉，有慶也。",
+        "en": "'The good fortune indicated by the fifth six, (divided),' shows that there is occasion for congratulation."
+      },
+      {
+        "ref": "26:19",
+        "zh": "上九：何天之衢，亨。",
+        "en": "The sixth NINE, undivided, shows its subject (as) in command of the firmament of heaven. There will be progress."
+      },
+      {
+        "ref": "26:20",
+        "zh": "何天之衢，道大行也。",
+        "en": "'In command of the firmament of heaven:' - the way is grandly open for movement."
+      }
+    ]
+  }
+}

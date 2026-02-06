@@ -1,0 +1,43 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "33",
+    "title": "Chapter 33",
+    "slug": "chapter-33",
+    "passages": [
+      {
+        "ref": "33:1",
+        "zh": "知人者智，自知者明。",
+        "en": "(Discriminating between attributes) He who knows other men is discerning; he who knows himself is intelligent."
+      },
+      {
+        "ref": "33:2",
+        "zh": "勝人者有力，自勝者強。",
+        "en": "He who overcomes others is strong; he who overcomes himself is mighty."
+      },
+      {
+        "ref": "33:3",
+        "zh": "知足者富。",
+        "en": "He who is satisfied with his lot is rich;"
+      },
+      {
+        "ref": "33:4",
+        "zh": "強行者有志。",
+        "en": "he who goes on acting with energy has a (firm) will."
+      },
+      {
+        "ref": "33:5",
+        "zh": "不失其所者久。",
+        "en": "He who does not fail in the requirements of his position, continues long;"
+      },
+      {
+        "ref": "33:6",
+        "zh": "死而不亡者壽。",
+        "en": "he who dies and yet does not perish, has longevity."
+      }
+    ]
+  }
+}

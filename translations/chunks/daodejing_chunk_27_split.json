@@ -1,0 +1,38 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "27",
+    "title": "Chapter 27",
+    "slug": "chapter-27",
+    "passages": [
+      {
+        "ref": "27:1",
+        "zh": "善行無轍迹，善言無瑕讁；善數不用籌策；善閉無關楗而不可開，善結無繩約而不可解。",
+        "en": "(Dexterity in using the Dao) The skilful traveller leaves no traces of his wheels or footsteps; the skilful speaker says nothing that can be found fault with or blamed; the skilful reckoner uses no tallies; the skilful closer needs no bolts or bars, while to open what he has shut will be impossible; the skilful binder uses no strings or knots, while to unloose what he has bound will be impossible."
+      },
+      {
+        "ref": "27:2",
+        "zh": "是以聖人常善救人，故無棄人；常善救物，故無棄物。",
+        "en": "In the same way the sage is always skilful at saving men, and so he does not cast away any man; he is always skilful at saving things, and so he does not cast away anything."
+      },
+      {
+        "ref": "27:3",
+        "zh": "是謂襲明。",
+        "en": "This is called 'Hiding the light of his procedure.'"
+      },
+      {
+        "ref": "27:4",
+        "zh": "故善人者，不善人之師；不善人者，善人之資。",
+        "en": "Therefore the man of skill is a master (to be looked up to) by him who has not the skill; and he who has not the skill is the helper of (the reputation of) him who has the skill."
+      },
+      {
+        "ref": "27:5",
+        "zh": "不貴其師，不愛其資，雖智大迷，是謂要妙。",
+        "en": "If the one did not honour his master, and the other did not rejoice in his helper, an (observer), though intelligent, might greatly err about them. This is called 'The utmost degree of mystery.'"
+      }
+    ]
+  }
+}

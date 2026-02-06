@@ -1,0 +1,108 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "30",
+    "title": "Li",
+    "slug": "li",
+    "passages": [
+      {
+        "ref": "30:1",
+        "zh": "離：利貞，亨。",
+        "en": "Li indicates that, (in regard to what it denotes), it will be advantageous to be firm and correct, and that thus there will be free course and success."
+      },
+      {
+        "ref": "30:2",
+        "zh": "畜牝牛，吉。",
+        "en": "Let (its subject) also nourish (a docility like that of) the cow, and there will be good fortune."
+      },
+      {
+        "ref": "30:3",
+        "zh": "離，麗也；",
+        "en": "Li means being attached to."
+      },
+      {
+        "ref": "30:4",
+        "zh": "日月麗乎天，百穀草木麗乎土，重明以麗乎正，乃化成天下。",
+        "en": "The sun and moon have their place in the sky. All the grains, grass, and trees have their place on the earth. The double brightness (of the two trigrams) adheres to what is correct, and the result is the transforming and perfecting all under the sky."
+      },
+      {
+        "ref": "30:5",
+        "zh": "柔麗乎中正，故亨；",
+        "en": "The weak (second line) occupies the middle and correct position, and gives the indication of 'a free and successful course;'"
+      },
+      {
+        "ref": "30:6",
+        "zh": "是以畜牝牛吉也。",
+        "en": "and, moreover, 'nourishing (docility like that of) the cow' will lead to good fortune."
+      },
+      {
+        "ref": "30:7",
+        "zh": "明兩作離，大人以繼明照于四方。",
+        "en": "(The trigram for) brightness, repeated, forms Li. The great man, in accordance with this, cultivates more and more his brilliant (virtue), and diffuses its brightness over the four quarters (of the land)."
+      },
+      {
+        "ref": "30:8",
+        "zh": "初九：履錯然，敬之无咎。",
+        "en": "The first NINE, undivided, shows one ready to move with confused steps. But he treads at the same time reverently, and there will be no mistake."
+      },
+      {
+        "ref": "30:9",
+        "zh": "履錯之敬，以辟咎也。",
+        "en": "'The reverent attention directed to his confused steps' is the way by which error is avoided."
+      },
+      {
+        "ref": "30:10",
+        "zh": "六二：黃離，元吉。",
+        "en": "The second SIX, divided, shows its subject in his place in yellow. There will be great good fortune."
+      },
+      {
+        "ref": "30:11",
+        "zh": "黃離元吉，得中道也。",
+        "en": "'The great good fortune (from the subject of the second line) occupying his place in yellow' is owing to his holding the course of the due mean."
+      },
+      {
+        "ref": "30:12",
+        "zh": "九三：日昃之離，不鼓缶而歌，則大耋之嗟，凶。",
+        "en": "The third NINE, undivided, shows its subject in a position like that of the declining sun. Instead of playing on his instrument of earthenware, and singing to it, he utters the groans of an old man of eighty. There will be evil."
+      },
+      {
+        "ref": "30:13",
+        "zh": "日昃之離，何可久也。",
+        "en": "'A position like that of the declining sun:' - how can it continue long?"
+      },
+      {
+        "ref": "30:14",
+        "zh": "九四：突如其來如，焚如，死如，棄如。",
+        "en": "The fourth NINE, undivided, shows the manner of its subject's coming. How abrupt it is, as with fire, with death, to be rejected (by all)!"
+      },
+      {
+        "ref": "30:15",
+        "zh": "突如其來如，无所容也。",
+        "en": "'How abrupt is the manner of his coming!' - none can bear with him."
+      },
+      {
+        "ref": "30:16",
+        "zh": "六五：出涕沱若，戚嗟若，吉。",
+        "en": "The fifth SIX, divided, shows its subject as one with tears flowing in torrents, and groaning in sorrow. There will be good fortune."
+      },
+      {
+        "ref": "30:17",
+        "zh": "六五之吉，離王公也。",
+        "en": "'The good fortune attached to the fifth SIX, divided),' is due to its occupying the place of a king or a prince."
+      },
+      {
+        "ref": "30:18",
+        "zh": "上九：王用出征，有嘉折首，獲匪其醜，无咎。",
+        "en": "The topmost NINE, undivided, shows the king employing its subject in his punitive expeditions. Achieving admirable (merit), he breaks (only) the chiefs (of the rebels). Where his prisoners were not their associates, he does not punish. There will be no error."
+      },
+      {
+        "ref": "30:19",
+        "zh": "王用出征，以正邦也。",
+        "en": "'The king employs him in his punitive expeditions:' - the object is to bring the regions to a correct state."
+      }
+    ]
+  }
+}

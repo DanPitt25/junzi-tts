@@ -1,0 +1,108 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "64",
+    "title": "Wei Ji",
+    "slug": "wei-ji",
+    "passages": [
+      {
+        "ref": "64:1",
+        "zh": "未濟：亨，小狐汔濟，濡其尾，无攸利。",
+        "en": "Wei Ji intimates progress and success (in the circumstances which it implies). (We see) a young fox that has nearly crossed (the stream), when its tail gets immersed. There will be no advantage in any way."
+      },
+      {
+        "ref": "64:2",
+        "zh": "未濟，亨；柔得中也。",
+        "en": "'Wei Ji intimates progress and success (in the circumstances which it implies):' - the weak (fifth) line is in the centre."
+      },
+      {
+        "ref": "64:3",
+        "zh": "小狐汔濟，未出中也。",
+        "en": "'The young fox has nearly crossed the stream:' - but he has not yet escaped from the midst (of the danger and calamity)."
+      },
+      {
+        "ref": "64:4",
+        "zh": "濡其尾，无攸利；不續終也。",
+        "en": "'Its tail gets immersed. There will be no advantage in any way:' - there is not at the end a continuance (of the purpose) at the beginning."
+      },
+      {
+        "ref": "64:5",
+        "zh": "雖不當位，剛柔應也。",
+        "en": "Although the places (of the different lines) are not those appropriate to them, yet a strong (line) and a weak (line always) respond to each other."
+      },
+      {
+        "ref": "64:6",
+        "zh": "火在水上，未濟；",
+        "en": "(The trigram representing) water and that for fire above it form Wei Ji."
+      },
+      {
+        "ref": "64:7",
+        "zh": "君子以慎辨物居方。",
+        "en": "The superior man, in accordance with this, carefully discriminates among (the qualities of) things, and the (different) positions they (naturally) occupy."
+      },
+      {
+        "ref": "64:8",
+        "zh": "初六：濡其尾，吝。",
+        "en": "The first SIX, divided, shows its subject (like a fox) whose tail gets immersed. There will be occasion for regret."
+      },
+      {
+        "ref": "64:9",
+        "zh": "濡其尾，亦不知極也。",
+        "en": "'His tail gets immersed:' - this is the very height of ignorance."
+      },
+      {
+        "ref": "64:10",
+        "zh": "九二：曳其輪，貞吉。",
+        "en": "The second NINE, undivided, shows its subject dragging back his (carriage-) wheel. With firmness and correctness there will be good fortune."
+      },
+      {
+        "ref": "64:11",
+        "zh": "九二貞吉，中以行正也。",
+        "en": "'The second NINE, (undivided), shows good fortune arising from being firm and correct:' - it is in the central place, and the action of its subject thereby becomes correct."
+      },
+      {
+        "ref": "64:12",
+        "zh": "六三：未濟，征凶，利涉大川。",
+        "en": "The third SIX, divided, shows its subject, with (the state of things) not yet remedied, advancing on; which will lead to evil. But there will be advantage in (trying to) cross the great stream."
+      },
+      {
+        "ref": "64:13",
+        "zh": "未濟征凶，位不當也。",
+        "en": "'(The state of things is) not yet remedied. Advancing will lead to evil:' - the place (of the line) is not that appropriate for it."
+      },
+      {
+        "ref": "64:14",
+        "zh": "九四：貞吉，悔亡，震用伐鬼方，三年有賞于大國。",
+        "en": "The fourth NINE, undivided, shows its subject by firm correctness obtaining good fortune, so that all occasion for repentance disappears. Let him stir himself up, as if he were invading the Demon region, where for three years rewards will come to him (and his troops) from the great kingdom."
+      },
+      {
+        "ref": "64:15",
+        "zh": "貞吉悔亡，志行也。",
+        "en": "(By firm correctness there is good fortune, and cause for repentance disappears:' - the aim (of the subject of the line) is carried into effect."
+      },
+      {
+        "ref": "64:16",
+        "zh": "六五：貞吉，无悔，君子之光，有孚，吉。",
+        "en": "The fifth SIX, divided, shows its subject by firm correctness obtaining good fortune, and having no occasion for repentance. (We see in him) the brightness of a superior man, and the possession of sincerity. There will be good fortune."
+      },
+      {
+        "ref": "64:17",
+        "zh": "君子之光，其暉吉也。",
+        "en": "'(We see) the brightness of a superior man: - 'the diffusion of that brightness tends to good fortune."
+      },
+      {
+        "ref": "64:18",
+        "zh": "上九：有孚于飲酒，无咎，濡其首，有孚失是。",
+        "en": "The topmost NINE, undivided, shows its subject full of confidence and therefore feasting (quietly). There will be no error. (If he) cherish this confidence, till he (is like the fox who) gets his head immersed, it will fail of what is right."
+      },
+      {
+        "ref": "64:19",
+        "zh": "飲酒濡首，亦不知節也。",
+        "en": "'He drinks and gets his head immersed:' - he does not know how to submit to the (proper) regulations."
+      }
+    ]
+  }
+}

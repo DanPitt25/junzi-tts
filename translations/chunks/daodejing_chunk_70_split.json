@@ -1,0 +1,43 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "70",
+    "title": "Chapter 70",
+    "slug": "chapter-70",
+    "passages": [
+      {
+        "ref": "70:1",
+        "zh": "吾言甚易知，甚易行。",
+        "en": "(The difficulty of being (rightly) known) My words are very easy to know, and very easy to practise;"
+      },
+      {
+        "ref": "70:2",
+        "zh": "天下莫能知，莫能行。",
+        "en": "but there is no one in the world who is able to know and able to practise them."
+      },
+      {
+        "ref": "70:3",
+        "zh": "言有宗，事有君。",
+        "en": "There is an originating and all-comprehending (principle) in my words, and an authoritative law for the things (which I enforce)."
+      },
+      {
+        "ref": "70:4",
+        "zh": "夫唯無知，是以不我知。",
+        "en": "It is because they do not know these, that men do not know me."
+      },
+      {
+        "ref": "70:5",
+        "zh": "知我者希，則我者貴。",
+        "en": "They who know me are few, and I am on that account (the more) to be prized."
+      },
+      {
+        "ref": "70:6",
+        "zh": "是以聖人被褐懷玉。",
+        "en": "It is thus that the sage wears (a poor garb of) hair cloth, while he carries his (signet of) jade in his bosom."
+      }
+    ]
+  }
+}

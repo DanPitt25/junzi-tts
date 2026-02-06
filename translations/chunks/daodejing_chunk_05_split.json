@@ -1,0 +1,38 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "5",
+    "title": "Chapter 5",
+    "slug": "chapter-5",
+    "passages": [
+      {
+        "ref": "5:1",
+        "zh": "天地不仁，以萬物為芻狗；",
+        "en": "(The use of emptiness) Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with."
+      },
+      {
+        "ref": "5:2",
+        "zh": "聖人不仁，以百姓為芻狗。",
+        "en": "The sages do not act from (any wish to be) benevolent; they deal with the people as the dogs of grass are dealt with."
+      },
+      {
+        "ref": "5:3",
+        "zh": "天地之間，其猶橐籥乎？",
+        "en": "May not the space between heaven and earth be compared to a bellows?"
+      },
+      {
+        "ref": "5:4",
+        "zh": "虛而不屈，動而愈出。",
+        "en": "'Tis emptied, yet it loses not its power; 'tis moved again, and sends forth air the more."
+      },
+      {
+        "ref": "5:5",
+        "zh": "多言數窮，不如守中。",
+        "en": "Much speech to swift exhaustion lead we see; your inner being guard, and keep it free."
+      }
+    ]
+  }
+}

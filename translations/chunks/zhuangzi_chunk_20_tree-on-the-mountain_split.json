@@ -1,0 +1,708 @@
+{
+  "id": "zhuangzi",
+  "title": "莊子",
+  "titleEn": "Zhuangzi",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "20",
+    "title": "Tree On The Mountain",
+    "slug": "tree-on-the-mountain",
+    "passages": [
+      {
+        "ref": "20:1",
+        "zh": "莊子行於山中，見大木，枝葉盛茂，伐木者止其旁而不取也。",
+        "en": "Zhuangzi was walking on a mountain, when he saw a great tree with huge branches and luxuriant foliage. A wood-cutter was resting by its side, but he would not touch it."
+      },
+      {
+        "ref": "20:2",
+        "zh": "問其故。",
+        "en": "When asked the reason, he said, that it was of no use for anything."
+      },
+      {
+        "ref": "20:3",
+        "zh": "曰：「無所可用。」",
+        "en": ""
+      },
+      {
+        "ref": "20:4",
+        "zh": "莊子曰：「此木以不材得終其天年。」",
+        "en": "Zhuangzi then said to his disciples, 'This tree, because its wood is good for nothing, will succeed in living out its natural term of years.'"
+      },
+      {
+        "ref": "20:5",
+        "zh": "夫子出於山，舍於故人之家。",
+        "en": "Having left the mountain, the Master lodged in the house of an old friend, who was glad to see him, and ordered his waiting-lad to kill a goose and boil it."
+      },
+      {
+        "ref": "20:6",
+        "zh": "故人喜，命豎子殺鴈而烹之。",
+        "en": ""
+      },
+      {
+        "ref": "20:7",
+        "zh": "豎子請曰：「其一能鳴，其一不能鳴，請奚殺？」",
+        "en": "The lad said, 'One of our geese can cackle, and the other cannot - which of them shall I kill?'"
+      },
+      {
+        "ref": "20:8",
+        "zh": "主人曰：「殺不能鳴者。」",
+        "en": "The host said, 'Kill the one that cannot cackle.'"
+      },
+      {
+        "ref": "20:9",
+        "zh": "明日，弟子問於莊子曰：「昨日山中之木，以不材得終其天年；今主人之鴈，以不材死。",
+        "en": "Next day, his disciples asked Zhuangzi, saying, 'Yesterday the tree on the mountain (you said) would live out its years because of the uselessness of its wood, and now our host's goose has died because of its want of power (to cackle)."
+      },
+      {
+        "ref": "20:10",
+        "zh": "先生將何處？」",
+        "en": "Which of these conditions, Master, would you prefer to be in?'"
+      },
+      {
+        "ref": "20:11",
+        "zh": "莊子笑曰：「周將處夫材與不材之間。",
+        "en": "Zhuangzi laughed and said, '(If I said that) I would prefer to be in a position between being fit to be useful and wanting that fitness, that would seem to be the right position, but it would not be so, for it would not put me beyond being involved in trouble."
+      },
+      {
+        "ref": "20:12",
+        "zh": "材與不材之間，似之而非也，故未免乎累。",
+        "en": ""
+      },
+      {
+        "ref": "20:13",
+        "zh": "若夫乘道德而浮游則不然。",
+        "en": "Whereas one who takes his seat on the Dao and its Attributes, and there finds his ease and enjoyment, is not exposed to such a contingency."
+      },
+      {
+        "ref": "20:14",
+        "zh": "無譽無訾，一龍一蛇，與時俱化，而無肯專為；一上一下，以和為量，浮游乎萬物之祖；物物而不物於物，則胡可得而累邪！",
+        "en": "He is above the reach both of praise and of detraction; now he (mounts aloft) like a dragon, now he (keeps beneath) like a snake; he is transformed with the (changing) character of the time, and is not willing to addict himself to any one thing; now in a high position and now in a low, he is in harmony with all his surroundings; he enjoys himself at ease with the Author of all things; he treats things as things, and is not a thing to them: where is his liability to be involved in trouble?"
+      },
+      {
+        "ref": "20:15",
+        "zh": "此黃帝、神農之法則也。",
+        "en": "This was the method of Shen Nong and Huang-Di."
+      },
+      {
+        "ref": "20:16",
+        "zh": "若夫萬物之情，人倫之傳，則不然。",
+        "en": "As to those who occupy themselves with the qualities of things, and with the teaching and practice of the human relations, it is not so with them."
+      },
+      {
+        "ref": "20:17",
+        "zh": "合則離，成則毀，廉則挫，尊則議，有為則虧，賢則謀，不肖則欺，胡可得而必乎哉？",
+        "en": "Union brings on separation; success, overthrow; sharp corners, the use of the file; honour, critical remarks; active exertion, failure; wisdom, scheming; inferiority, being despised: where is the possibility of unchangeableness in any of these conditions?"
+      },
+      {
+        "ref": "20:18",
+        "zh": "悲夫！",
+        "en": "Remember this, my disciples."
+      },
+      {
+        "ref": "20:19",
+        "zh": "弟子志之，其唯道德之鄉乎！」",
+        "en": "Let your abode be here - in the Dao and its Attributes.'"
+      },
+      {
+        "ref": "20:20",
+        "zh": "市南宜僚見魯侯，魯侯有憂色。",
+        "en": "Yi-liao, an officer of Shi-nan, having an interview with the marquis of Lu, found him looking sad."
+      },
+      {
+        "ref": "20:21",
+        "zh": "市南子曰：「君有憂色，何也？」",
+        "en": "He asked him why he was so."
+      },
+      {
+        "ref": "20:22",
+        "zh": "魯侯曰：「吾學先王之道，修先君之業，吾敬鬼尊賢，親而行之，無須臾離居，然不免於患，吾是以憂。」",
+        "en": "The marquis said, 'I have studied the ways of the former kings, and cultivated the inheritance left me by my predecessors. I reverence the spirits of the departed and honour the men of worth, doing this with personal devotion, and without the slightest intermission. Notwithstanding, I do not avoid meeting with calamity, and this it is which makes me sad.'"
+      },
+      {
+        "ref": "20:23",
+        "zh": "市南子曰：「君之除患之術淺矣。",
+        "en": "The officer said, 'The arts by which you try to remove calamity are shallow."
+      },
+      {
+        "ref": "20:24",
+        "zh": "夫豐狐文豹，棲於山林，伏於巖穴，靜也；夜行晝居，戒也；雖飢渴隱約，猶旦胥疏於江湖之上而求食焉，定也。",
+        "en": "Think of the close-furred fox and of the elegantly-spotted leopard. They lodge in the forests on the hills, and lurk in their holes among the rocks - keeping still. At night they go about, and during day remain in their lairs - so cautious are they. Even if they are suffering from hunger, thirst, and other distresses, they still keep aloof from men, seeking their food about the Jiang and the Hu - so resolute are they."
+      },
+      {
+        "ref": "20:25",
+        "zh": "然且不免於罔羅機辟之患，是何罪之有哉？",
+        "en": "Still they are not able to escape the danger of the net or the trap; and what fault is it of theirs?"
+      },
+      {
+        "ref": "20:26",
+        "zh": "其皮為之災也。",
+        "en": "It is their skins which occasion them the calamity."
+      },
+      {
+        "ref": "20:27",
+        "zh": "今魯國獨非君之皮邪？",
+        "en": "And is not the state of Lu your lordship's skin?"
+      },
+      {
+        "ref": "20:28",
+        "zh": "吾願君刳形去皮，洒心去欲，而遊於無人之野。",
+        "en": "I wish your lordship to rip your skin from your body, to cleanse your heart, to put away your desires, and to enjoy yourself where you will be without the presence of any one."
+      },
+      {
+        "ref": "20:29",
+        "zh": "南越有邑焉，名為建德之國。",
+        "en": "In the southern state of Yue, there is a district called \"the State of Established Virtue.\""
+      },
+      {
+        "ref": "20:30",
+        "zh": "其民愚而朴，少私而寡欲；知作而不知藏，與而不求其報；不知義之所適，不知禮之所將；猖狂妄行，乃蹈乎大方；其生可樂，其死可葬。",
+        "en": "The people are ignorant and simple; their object is to minimise the thought of self and make their desires few; they labour but do not lay up their gains; they give but do not seek for any return; they do not know what righteousness is required of them in any particular case, nor by what ceremonies their performances should be signalised; acting in a wild and eccentric way as if they were mad, they yet keep to the grand rules of conduct. Their birth is an occasion for joy; their death is followed by the rites of burial."
+      },
+      {
+        "ref": "20:31",
+        "zh": "吾願君去國捐俗，與道相輔而行。」",
+        "en": "I should wish your lordship to leave your state; to give up your ordinary ways, and to proceed to that country by the directest course.'"
+      },
+      {
+        "ref": "20:32",
+        "zh": "君曰：「彼其道遠而險，又有江山，我無舟車，奈何？」",
+        "en": "The ruler said, 'The way to it is distant and difficult; there are rivers and hills; and as I have neither boat nor carriage, how am I to go?'"
+      },
+      {
+        "ref": "20:33",
+        "zh": "市南子曰：「君無形倨，無留居，以為舟車。」",
+        "en": "The officer from Shi-nan rejoined, 'If your lordship abjure your personal state, and give up your wish to remain here, that will serve you for a carriage.'"
+      },
+      {
+        "ref": "20:34",
+        "zh": "君曰：「彼其道幽遠而無人，吾誰與為鄰？",
+        "en": "The ruler rejoined, 'The way to it is solitary and distant, and there are no people on it - whom shall I have as my companions?"
+      },
+      {
+        "ref": "20:35",
+        "zh": "吾無糧，我無食，安得而至焉？」",
+        "en": "I have no provisions prepared, and how shall I get food? How shall I be able to get (to the country)?'"
+      },
+      {
+        "ref": "20:36",
+        "zh": "市南子曰：「少君之費，寡君之欲，雖無糧而乃足。",
+        "en": "The officer said, 'Minimise your lordship's expenditure, and make your wants few, and though you have no provisions prepared, you will find you have enough."
+      },
+      {
+        "ref": "20:37",
+        "zh": "君其涉於江而浮於海，望之而不見其崖，愈往而不知其所窮。",
+        "en": "Wade through the rivers and float along on the sea, where however you look, you see not the shore, and, the farther you go, you do not see where your journey is to end."
+      },
+      {
+        "ref": "20:38",
+        "zh": "送君者皆自崖而反，君自此遠矣。",
+        "en": "Those who escorted you to the shore will return, and after that you will feel yourself far away."
+      },
+      {
+        "ref": "20:39",
+        "zh": "故有人者累，見有於人者憂。",
+        "en": "Thus it is that he who owns men (as their ruler) is involved in troubles, and he who is owned by men (as their ruler) suffers from sadness."
+      },
+      {
+        "ref": "20:40",
+        "zh": "故堯非有人，非見有於人也。",
+        "en": "Hence Yao would neither own men, nor be owned by them."
+      },
+      {
+        "ref": "20:41",
+        "zh": "吾願去君之累，除君之憂，而獨與道遊於大莫之國。",
+        "en": "I wish to remove your trouble, and take away your sadness, and it is only (to be done by inducing you) to enjoy yourself with the Dao in the land of Great Vacuity."
+      },
+      {
+        "ref": "20:42",
+        "zh": "方舟而濟於河，有虛船來觸舟，雖有惼心之人不怒；有一人在其上，則呼張歙之；一呼而不聞，再呼而不聞，於是三呼邪，則必以惡聲隨之。",
+        "en": "If a man is crossing a river in a boat, and another empty vessel comes into collision with it, even though he be a man of a choleric temper, he will not be angry with it. If there be a person, however, in that boat, he will bawl out to him to haul out of the way. If his shout be not heard, he will repeat it; and if the other do not then hear, he will call out a third time, following up the shout with abusive terms."
+      },
+      {
+        "ref": "20:43",
+        "zh": "向也不怒而今也怒，向也虛而今也實。",
+        "en": "Formerly he was not angry, but now he is; formerly (he thought) the boat was empty, but now there is a person in it."
+      },
+      {
+        "ref": "20:44",
+        "zh": "人能虛己以遊世，其孰能害之！」",
+        "en": "If a man can empty himself of himself, during his time in the world, who can harm him?'"
+      },
+      {
+        "ref": "20:45",
+        "zh": "北宮奢為衛靈公賦斂以為鐘，為壇乎國門之外，三月而成上下之縣。",
+        "en": "Bei-gong She was collecting taxes for duke Ling of Wei, to be employed in making (a peal of) bells. (In connexion with the work) he built an altar outside the gate of the suburban wall; and in three months the bells were completed, even to the suspending of the upper and lower (tiers)."
+      },
+      {
+        "ref": "20:46",
+        "zh": "王子慶忌見而問焉，曰：「子何術之設？」",
+        "en": "The king's son Qing-ji saw them, and asked what arts he had employed in the making of them."
+      },
+      {
+        "ref": "20:47",
+        "zh": "奢曰：「一之間，無敢設也。",
+        "en": "She replied, 'Besides my undivided attention to them, I did not venture to use any arts."
+      },
+      {
+        "ref": "20:48",
+        "zh": "奢聞之：『既彫既琢，復歸於朴。』",
+        "en": "I have heard the saying, \"After all the carving and the chiselling, let the object be to return to simplicity.\""
+      },
+      {
+        "ref": "20:49",
+        "zh": "侗乎其無識，儻乎其怠疑；萃乎芒乎，其送往而迎來；來者勿禁，往者勿止；從其彊梁，隨其曲傅，因其自窮。",
+        "en": "I was as a child who has no knowledge; I was extraordinarily slow and hesitating; they grew like the springing plants of themselves. In escorting those who went and meeting those who came, my object was neither to hinder the comers nor detain the goers. I suffered those who strongly opposed to take their way, and accepted those who did their best to come to terms. I allowed them all to do the utmost they could."
+      },
+      {
+        "ref": "20:50",
+        "zh": "故朝夕賦斂而毫毛不挫，而況有大塗者乎！」",
+        "en": "And in this way morning and evening I collected the taxes. I did not have the slightest trouble, and how much more will this be the case with those who pursue the Great Way (on a grand scale)!'"
+      },
+      {
+        "ref": "20:51",
+        "zh": "孔子圍於陳、蔡之間，七日不火食。",
+        "en": "Confucius was kept (by his enemies) in a state of siege between Chen and Cai, and for seven days had no food cooked with fire to eat."
+      },
+      {
+        "ref": "20:52",
+        "zh": "大公任往弔之，曰：「子幾死乎？」",
+        "en": "The Da-gong Ren went to condole with him, and said, 'You had nearly met with your death.'"
+      },
+      {
+        "ref": "20:53",
+        "zh": "曰：「然。」",
+        "en": "'Yes,' was the reply."
+      },
+      {
+        "ref": "20:54",
+        "zh": "「子惡死乎？」",
+        "en": "'Do you dislike death?'"
+      },
+      {
+        "ref": "20:55",
+        "zh": "曰：「然。」",
+        "en": "'I do.'"
+      },
+      {
+        "ref": "20:56",
+        "zh": "任曰：「予嘗言不死之道。",
+        "en": "Then Ren continued, 'Let me try and describe a way by which (such a) death may be avoided."
+      },
+      {
+        "ref": "20:57",
+        "zh": "東海有鳥焉，其名曰意怠。",
+        "en": "In the eastern sea there are birds which go by the name of yi-dai."
+      },
+      {
+        "ref": "20:58",
+        "zh": "其為鳥也，翂翂翐翐，而似無能；引援而飛，迫脅而棲；進不敢為前，退不敢為後；食不敢先嘗，必取其緒。",
+        "en": "They fly low and slowly as if they were deficient in power. They fly as if they were leading and assisting one another, and they press on one another when they roost. No one ventures to take the lead in going forward, or to be the last in going backwards. In eating no one ventures to take the first mouthful, but prefers the fragments left by others."
+      },
+      {
+        "ref": "20:59",
+        "zh": "是故其行列不斥，而外人卒不得害，是以免於患。",
+        "en": "In this way (the breaks in) their line are not many, and men outside them cannot harm them, so that they escape injury."
+      },
+      {
+        "ref": "20:60",
+        "zh": "直木先伐，甘井先竭。",
+        "en": "The straight tree is the first to be cut down; the well of sweet water is the first to be exhausted."
+      },
+      {
+        "ref": "20:61",
+        "zh": "子其意者飾知以驚愚，修身以明汙，昭昭乎若揭日月而行，故不免也。",
+        "en": "Your aim is to embellish your wisdom so as to startle the ignorant, and to cultivate your person to show the unsightliness of others. A light shines around you as if you were carrying with you the sun and moon, and thus it is that you do not escape such calamity."
+      },
+      {
+        "ref": "20:62",
+        "zh": "昔吾聞之大成之人曰：『自伐者無功，功成者墮，名成者虧。』",
+        "en": "Formerly I heard a highly accomplished man say, \"Those who boast have no merit. The merit which is deemed complete will begin to decay. The fame which is deemed complete will begin to wane.\""
+      },
+      {
+        "ref": "20:63",
+        "zh": "孰能去功與名而還與眾人！",
+        "en": "Who can rid himself of (the ideas of) merit and fame, and return and put himself on the level of the masses of men?"
+      },
+      {
+        "ref": "20:64",
+        "zh": "道流而不明居，得行而不名處；純純常常，乃比於狂；削跡捐勢，不為功名。",
+        "en": "The practice of the Dao flows abroad, but its master does not care to dwell where it can be seen; his attainments in it hold their course, but he does not wish to appear in its display. Always simple and commonplace, he may seem to be bereft of reason. He obliterates the traces of his action, gives up position and power, and aims not at merit and fame."
+      },
+      {
+        "ref": "20:65",
+        "zh": "是故無責於人，人亦無責焉。",
+        "en": "Therefore he does not censure men, and men do not censure him."
+      },
+      {
+        "ref": "20:66",
+        "zh": "至人不聞，子何喜哉？」",
+        "en": "The perfect man does not seek to be heard of; how is it that you delight in doing so?'"
+      },
+      {
+        "ref": "20:67",
+        "zh": "孔子曰：「善哉！」",
+        "en": "Confucius said, 'Excellent.'"
+      },
+      {
+        "ref": "20:68",
+        "zh": "辭其交遊，去其弟子，逃於大澤；衣裘褐，食杼栗；入獸不亂群，入鳥不亂行。",
+        "en": "And thereupon he took leave of his associates, forsook his disciples, retired to the neighbourhood of a great marsh, wore skins and hair cloth, and ate acorns and chestnuts. He went among animals without causing any confusion among their herds, and among birds without troubling their movements."
+      },
+      {
+        "ref": "20:69",
+        "zh": "鳥獸不惡，而況人乎！",
+        "en": "Birds and beasts did not dislike him; how much less would men do so!"
+      },
+      {
+        "ref": "20:70",
+        "zh": "孔子問子桑雽曰：「吾再逐於魯，伐樹於宋，削跡於衛，窮於商、周，圍於陳、蔡之間。",
+        "en": "Confucius asked Zi-sang Hu, saying, 'I was twice driven from Lu; the tree was felled over me in Song; I was obliged to disappear from Wei; I was reduced to extreme distress in Shang and Zhou; and I was kept in a state of siege between Chen and Cai."
+      },
+      {
+        "ref": "20:71",
+        "zh": "吾犯此數患，親交益疏，徒友益散，何與？」",
+        "en": "I have encountered these various calamities; my intimate associates are removed from me more and more; my followers and friends are more and more dispersed - why have all these things befallen me?'"
+      },
+      {
+        "ref": "20:72",
+        "zh": "子桑雽曰：「子獨不聞假人之亡與？",
+        "en": "Zi-sang Hu replied, 'Have you not heard of the flight of Lin Hui of Jia."
+      },
+      {
+        "ref": "20:73",
+        "zh": "林回棄千金之璧，負赤子而趨。",
+        "en": "He abandoned his round jade symbol of rank, worth a thousand pieces of silver, and hurried away with his infant son on his back."
+      },
+      {
+        "ref": "20:74",
+        "zh": "或曰：『為其布與？",
+        "en": "If it be asked, \"Was it because of the market value of the child?\""
+      },
+      {
+        "ref": "20:75",
+        "zh": "赤子之布寡矣。",
+        "en": "But that value was small (compared with the value of the jade token)."
+      },
+      {
+        "ref": "20:76",
+        "zh": "為其累與？",
+        "en": "If it be asked again, \"Was it because of the troubles (of his office)?\""
+      },
+      {
+        "ref": "20:77",
+        "zh": "赤子之累多矣。",
+        "en": "But the child would occasion him much more trouble."
+      },
+      {
+        "ref": "20:78",
+        "zh": "棄千金之璧，負赤子而趨，何也？』",
+        "en": "Why was it then that, abandoning the jade token, worth a thousand pieces of silver, he hurried away with the child on his back?"
+      },
+      {
+        "ref": "20:79",
+        "zh": "林回曰：『彼以利合，此以天屬也。』",
+        "en": "Lin Hui (himself) said, \"The union between me and the token rested on the ground of gain; that between me and the child was of Heaven's appointment.\""
+      },
+      {
+        "ref": "20:80",
+        "zh": "夫以利合者，迫窮禍患害相棄也；以天屬者，迫窮禍患害相收也。",
+        "en": "Where the bond of union is its profitableness, when the pressure of poverty, calamity, distress, and injury come, the parties abandon one another; when it is of Heaven's appointment, they hold in the same circumstances to one another."
+      },
+      {
+        "ref": "20:81",
+        "zh": "夫相收之與相棄亦遠矣。",
+        "en": "Now between abandoning one another, and holding to one another, the difference is great."
+      },
+      {
+        "ref": "20:82",
+        "zh": "且君子之交淡若水，小人之交甘若醴；君子淡以親，小人甘以絕。",
+        "en": "Moreover, the intercourse of superior men is tasteless as water, while that of mean men is sweet as new wine. But the tastelessness of the superior men leads on to affection, and the sweetness of the mean men to aversion."
+      },
+      {
+        "ref": "20:83",
+        "zh": "彼無故以合者，則無故以離。」",
+        "en": "The union which originates without any cause will end in separation without any cause.'"
+      },
+      {
+        "ref": "20:84",
+        "zh": "孔子曰：「敬聞命矣。」",
+        "en": "Confucius said, 'I have reverently received your instructions.'"
+      },
+      {
+        "ref": "20:85",
+        "zh": "徐行翔佯而歸，絕學捐書，弟子無挹於前，其愛益加進。",
+        "en": "And hereupon, with a slow step and an assumed air of ease, he returned to his own house. There he made an end of studying and put away his books. His disciples came no more to make their bow to him (and be taught), but their affection for him increased the more."
+      },
+      {
+        "ref": "20:86",
+        "zh": "異日，桑雽又曰：「舜之將死，真泠禹曰：『汝戒之哉！",
+        "en": "Another day Sang Hu said further to him, 'When Shun was about to die, he charged Yu, saying, 'Be upon your guard."
+      },
+      {
+        "ref": "20:87",
+        "zh": "形莫若緣，情莫若率。",
+        "en": "(The attraction of) the person is not like that of sympathy; the (power of) affection is not like the leading (of example)."
+      },
+      {
+        "ref": "20:88",
+        "zh": "緣則不離，率則不勞；不離不勞，則不求文以待形；不求文以待形，固不待物。』」",
+        "en": "Where there is sympathy, there will not be separation; where there is (the leading of) example, there will be no toil. Where there is neither separation nor toil, you will not have to seek the decoration of forms to make the person attractive, and where there is no such need of those forms, there will certainly be none for external things.'"
+      },
+      {
+        "ref": "20:89",
+        "zh": "莊子衣大布而補之，正緳係履而過魏王。",
+        "en": "Zhuangzi in a patched dress of coarse cloth, and having his shoes tied together with strings, was passing by the king of Wei."
+      },
+      {
+        "ref": "20:90",
+        "zh": "魏王曰：「何先生之憊邪？」",
+        "en": "The king said to him, 'How great, Master, is your distress?'"
+      },
+      {
+        "ref": "20:91",
+        "zh": "莊子曰：「貧也，非憊也。",
+        "en": "Zhuangzi replied, 'It is poverty, not distress!"
+      },
+      {
+        "ref": "20:92",
+        "zh": "士有道德不能行，憊也。",
+        "en": "While a scholar possesses the Dao and its Attributes, he cannot be going about in distress."
+      },
+      {
+        "ref": "20:93",
+        "zh": "衣弊履穿，貧也，非憊也，此所謂非遭時也。",
+        "en": "Tattered clothes and shoes tied on the feet are the sign of poverty, and not of distress. This is what we call not meeting with the right time."
+      },
+      {
+        "ref": "20:94",
+        "zh": "王獨不見夫騰猿乎？",
+        "en": "Has your majesty not seen the climbing monkey?"
+      },
+      {
+        "ref": "20:95",
+        "zh": "其得柟、梓、豫、章也，攬蔓其枝，而王長其間，雖羿、蓬蒙不能眄睨也。",
+        "en": "When he is among the plane trees, rottleras, oaks, and camphor trees, he grasps and twists their branches (into a screen), where he reigns quite at his ease, so that not even Yi or Peng Meng could spy him out."
+      },
+      {
+        "ref": "20:96",
+        "zh": "及其得柘、棘、枳、枸之閒也，危行側視，振動悼慄，此筋骨非有加急而不柔也，處勢不便，未足以逞其能也。",
+        "en": "When, however, he finds himself among the prickly mulberry and date trees, and other thorns, he goes cautiously, casts sidelong glances, and takes every trembling movement with apprehension - it is not that his sinews and bones are straitened, and have lost their suppleness, but the situation is unsuitable for him, and he cannot display his agility."
+      },
+      {
+        "ref": "20:97",
+        "zh": "今處昏上亂相之間，而欲無憊，奚可得邪？",
+        "en": "And now when I dwell under a benighted ruler, and seditious ministers, how is it possible for me not to be in distress?"
+      },
+      {
+        "ref": "20:98",
+        "zh": "此比干之見剖心，徵也夫！」",
+        "en": "My case might afford an illustration of the cutting out the heart of Bi-gan!'"
+      },
+      {
+        "ref": "20:99",
+        "zh": "孔子窮於陳、蔡之間，七日不火食，左據槁木，右擊槁枝，而歌猋氏之風，有其具而無其數，有其聲而無宮角，木聲與人聲，犁然有當於人心。",
+        "en": "When Confucius was reduced to great distress between Chen and Cai, and for seven days he had no cooked food to eat, he laid hold of a decayed tree with his left hand, and with his right hand tapped it with a decayed branch, singing all the while the ode of Biao-shi. He had his instrument, but the notes were not marked on it. There was a noise, but no blended melody. The sound of the wood and the voice of the man came together like the noise of the plough through the ground, yet suitably to the feelings of the disciples around."
+      },
+      {
+        "ref": "20:100",
+        "zh": "顏回端拱還目而窺之。",
+        "en": "Yan Hui, who was standing upright, with his hands crossed on his breast, rolled his eyes round to observe him."
+      },
+      {
+        "ref": "20:101",
+        "zh": "仲尼恐其廣己而造大也，愛己而造哀也，曰：「回！",
+        "en": "Zhongni, fearing that Hui would go to excess in manifesting how he honoured himself, or be plunged in sorrow through his love for him, said to him, 'Hui."
+      },
+      {
+        "ref": "20:102",
+        "zh": "無受天損易，無受人益難。",
+        "en": "Not to receive (as evils) the inflictions of Heaven is easy; not to receive (as benefits) the favours of men is difficult."
+      },
+      {
+        "ref": "20:103",
+        "zh": "無始而非卒也，人與天一也。",
+        "en": "There is no beginning which was not an end. The Human and the Heavenly may be one and the same."
+      },
+      {
+        "ref": "20:104",
+        "zh": "夫今之歌者其誰乎？」",
+        "en": "Who, for instance, is it that is now singing?'"
+      },
+      {
+        "ref": "20:105",
+        "zh": "回曰：「敢問無受天損易。」",
+        "en": "Hui said, 'I venture to ask how not to receive (as evils) the inflictions of Heaven is easy.'"
+      },
+      {
+        "ref": "20:106",
+        "zh": "仲尼曰：「飢溺寒暑，窮桎不行，天地之行也，運物之泄也，言與之偕逝之謂也。",
+        "en": "Zhongni said, 'Hunger, thirst, cold, and heat, and having one's progress entirely blocked up - these are the doings of Heaven and Earth, necessary incidents in the revolutions of things. They are occurrences of which we say that we will pass on (composedly) along with them."
+      },
+      {
+        "ref": "20:107",
+        "zh": "為人臣者，不敢去之。",
+        "en": "The minister of another does not dare to refuse his commands."
+      },
+      {
+        "ref": "20:108",
+        "zh": "執臣之道猶若是，而況乎所以待天乎！」",
+        "en": "And if he who is discharging the duty of a minister feels it necessary to act thus, how much more should we wait with ease on the commands of Heaven!'"
+      },
+      {
+        "ref": "20:109",
+        "zh": "「何謂無受人益難？」",
+        "en": "'What do you mean by saying that not to receive (as benefits) the favours of men is difficult?'"
+      },
+      {
+        "ref": "20:110",
+        "zh": "仲尼曰：「始用四達，爵祿並至而不窮，物之所利，乃非己也，吾命有在外者也。",
+        "en": "Zhongni said, 'As soon as one is employed in office, he gets forward in all directions; rank and emolument come to him together, and without end. But these advantages do not come from one's self - it is my appointed lot to have such external good."
+      },
+      {
+        "ref": "20:111",
+        "zh": "君子不為盜，賢人不為竊。",
+        "en": "The superior man is not a robber; the man of worth is no filcher."
+      },
+      {
+        "ref": "20:112",
+        "zh": "吾若取之，何哉？",
+        "en": "If I prefer such things, what am I?"
+      },
+      {
+        "ref": "20:113",
+        "zh": "故曰：鳥莫知於鷾鴯，目之所不宜處，不給視，雖落其實，棄之而走。",
+        "en": "Hence it is said, \"There is no bird wiser than the swallow.\" Where its eye lights on a place that is not suitable for it, it does not give it a second glance. Though it may drop the food from its mouth, it abandons it, and hurries off."
+      },
+      {
+        "ref": "20:114",
+        "zh": "其畏人也，而襲諸人間，社稷存焉爾。」",
+        "en": "It is afraid of men, and yet it stealthily takes up its dwelling by his; finding its protection in the altars of the Land and Grain.'"
+      },
+      {
+        "ref": "20:115",
+        "zh": "「何謂無始而非卒？」",
+        "en": "'What do you mean by saying that there is no beginning which was not an end?'"
+      },
+      {
+        "ref": "20:116",
+        "zh": "仲尼曰：「化其萬物而不知其禪之者，焉知其所終？",
+        "en": "Zhongni said, 'The change-- rise and dissolution-- of all things (continually) goes on, but we do not know who it is that maintains and continues the process. How do we know when any one begins?"
+      },
+      {
+        "ref": "20:117",
+        "zh": "焉知其所始？",
+        "en": "How do we know when he will end?"
+      },
+      {
+        "ref": "20:118",
+        "zh": "正而待之而已耳。」",
+        "en": "We have simply to wait for it, and nothing more.'"
+      },
+      {
+        "ref": "20:119",
+        "zh": "「何謂天與人一邪？」",
+        "en": "'And what do you mean by saying that the Human and the Heavenly are one and the same?'"
+      },
+      {
+        "ref": "20:120",
+        "zh": "仲尼曰：「有人，天也；有天，亦天也。",
+        "en": "Zhongni said, 'Given man, and you have Heaven; given Heaven, and you still have Heaven (and nothing more)."
+      },
+      {
+        "ref": "20:121",
+        "zh": "人之不能有天，性也，聖人晏然體逝而終矣。」",
+        "en": "That man can not have Heaven is owing to the limitation of his nature. The sagely man quietly passes away with his body, and there is an end of it.'"
+      },
+      {
+        "ref": "20:122",
+        "zh": "莊周遊乎雕陵之樊，睹一異鵲自南方來者，翼廣七尺，目大運寸，感周之顙而集於栗林。",
+        "en": "As Zhuang Zhou was rambling in the park of Diao-ling he saw a strange bird which came from the south. Its wings were seven cubits in width, and its eyes were large, an inch in circuit. It touched the forehead of Zhou as it passed him, and lighted in a grove of chestnut trees."
+      },
+      {
+        "ref": "20:123",
+        "zh": "莊周曰：「此何鳥哉？",
+        "en": "'What bird is this?' said he, 'with such great wings not to go on! and with such large eyes not to see me!'"
+      },
+      {
+        "ref": "20:124",
+        "zh": "翼殷不逝，目大不覩。」",
+        "en": ""
+      },
+      {
+        "ref": "20:125",
+        "zh": "蹇裳躩步，執彈而留之。",
+        "en": "He lifted up his skirts, and hurried with his cross-bow, waiting for (an opportunity to shoot) it."
+      },
+      {
+        "ref": "20:126",
+        "zh": "睹一蟬方得美蔭而忘其身；螳蜋執翳而搏之，見得而忘其形；異鵲從而利之，見利而忘其真。",
+        "en": "(Meanwhile) he saw a cicada, which had just alighted in a beautiful shady spot, and forgot its (care for its) body. (Just then), a preying mantis raised its feelers, and pounced on the cicada, in its eagerness for its prey, (also) forgetting (its care for) its body; while the strange bird took advantage of its opportunity to secure them both, in view of that gain forgetting its true (instinct of preservation)."
+      },
+      {
+        "ref": "20:127",
+        "zh": "莊周怵然曰：「噫！",
+        "en": "Zhuang Zhou with an emotion of pity, said, 'Ah!"
+      },
+      {
+        "ref": "20:128",
+        "zh": "物固相累，二類相召也。」",
+        "en": "So it is that things bring evil on one another, each of these creatures invited its own calamity.'"
+      },
+      {
+        "ref": "20:129",
+        "zh": "捐彈而反走，虞人逐而誶之。",
+        "en": "(With this) he put away his cross-bow, and was hurrying away back, when the forester pursued him with terms of reproach."
+      },
+      {
+        "ref": "20:130",
+        "zh": "莊周反入，三月不庭。",
+        "en": "When he returned and went into his house, he did not appear in his courtyard for three months."
+      },
+      {
+        "ref": "20:131",
+        "zh": "藺且從而問之：「夫子何為頃間甚不庭乎？」",
+        "en": "(When he came out), Lin Qie (his disciple) asked him, saying, 'Master, why have you for this some time avoided the courtyard so much?'"
+      },
+      {
+        "ref": "20:132",
+        "zh": "莊周曰：「吾守形而忘身，觀於濁水而迷於清淵。",
+        "en": "Zhuangzi replied, 'I was guarding my person, and forgot myself; I was looking at turbid water, till I mistook the clear pool."
+      },
+      {
+        "ref": "20:133",
+        "zh": "且吾聞諸夫子曰：『入其俗，從其俗。』",
+        "en": "And moreover I have heard the Master say, \"Going where certain customs prevail, you should follow those customs.\""
+      },
+      {
+        "ref": "20:134",
+        "zh": "今吾遊於雕陵而忘吾身，異鵲感吾顙，遊於栗林而忘真，栗林虞人以吾為戮，吾所以不庭也。」",
+        "en": "I was walking about in the park of Diao-ling, and forgot myself. A strange bird brushed past my forehead, and went flying about in the grove of chestnuts, where it forgot the true (art of preserving itself). The forester of the chestnut grove thought that I was a fitting object for his reproach. These are the reasons why I have avoided the courtyard.'"
+      },
+      {
+        "ref": "20:135",
+        "zh": "陽子之宋，宿於逆旅。",
+        "en": "Yang-zi, having gone to Song, passed the night in a lodging-house."
+      },
+      {
+        "ref": "20:136",
+        "zh": "逆旅有妾二人，其一人美，其一人惡，惡者貴而美者賤。",
+        "en": "The master of the house had two concubines - one beautiful, the other ugly. The ugly one was honoured, however, and the beautiful one contemned."
+      },
+      {
+        "ref": "20:137",
+        "zh": "陽子問其故，逆旅小子對曰：「其美者自美，吾不知其美也；其惡者自惡，吾不知其惡也。」",
+        "en": "Yang-zi asked the reason, and a little boy of the house replied, 'The beauty knows her beauty, and we do not recognise it. The ugly one knows her ugliness, and we do not recognise it.'"
+      },
+      {
+        "ref": "20:138",
+        "zh": "陽子曰：「弟子記之！",
+        "en": "Yang-zi said, 'Remember it, my disciples."
+      },
+      {
+        "ref": "20:139",
+        "zh": "行賢而去自賢之行，安往而不愛哉？」",
+        "en": "Act virtuously, and put away the practice of priding yourselves on your virtue. If you do this, where can you go to that you will not be loved?'"
+      }
+    ]
+  }
+}

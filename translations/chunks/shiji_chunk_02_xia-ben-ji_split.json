@@ -1,0 +1,1223 @@
+{
+  "id": "shiji",
+  "title": "史記",
+  "titleEn": "Records of the Grand Historian",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "2",
+    "title": "Xia Ben Ji",
+    "slug": "xia-ben-ji",
+    "passages": [
+      {
+        "ref": "2:1",
+        "zh": "夏禹，名曰文命。",
+        "en": "Yu of Xia was styled Wenming."
+      },
+      {
+        "ref": "2:2",
+        "zh": "禹之父曰鯀，鯀之父曰帝顓頊，顓頊之父曰昌意，昌意之父曰黃帝。",
+        "en": "Yu's father was Gun, whose father was the Emperor Zhuanxu, whose father was Changyi, whose father was Huangdi;"
+      },
+      {
+        "ref": "2:3",
+        "zh": "禹者，黃帝之玄孫而帝顓頊之孫也。",
+        "en": "so Yu was Huangdi's great-great-grandson, and Zhuanxu's grandson."
+      },
+      {
+        "ref": "2:4",
+        "zh": "禹之曾大父昌意及父鯀皆不得在帝位，為人臣。",
+        "en": "Yu's great-grandfather Changyi and his father Gun were both unable to sit on the Imperial throne, being simply officials."
+      },
+      {
+        "ref": "2:5",
+        "zh": "當帝堯之時，鴻水滔天，浩浩懷山襄陵，下民其憂。",
+        "en": "In the time of the Emperor Yao the deluge assailed the heavens, and in its vast expanse encompassed the mountains, and overtopped the hills, so that the common people were troubled about it."
+      },
+      {
+        "ref": "2:6",
+        "zh": "堯求能治水者，群臣四嶽皆曰鯀可。",
+        "en": "Yao sought for one capable of controlling the waters. All the officials and presidents of the four mountains said, 'Gun might do it.'"
+      },
+      {
+        "ref": "2:7",
+        "zh": "堯曰：「鯀為人負命毀族，不可。」",
+        "en": "Yao said, 'Gun is a man who disobeys orders, and ruins his companions. He will not do.'"
+      },
+      {
+        "ref": "2:8",
+        "zh": "四嶽曰：「等之未有賢於鯀者，願帝試之。」",
+        "en": "The president of the four mountains said, 'Among his equals there is no one so worthy as Gun; I wish your Majesty would try him.'"
+      },
+      {
+        "ref": "2:9",
+        "zh": "於是堯聽四嶽，用鯀治水。",
+        "en": "Upon which Yao, giving heed to the president of the four mountains, employed Gun to control the waters"
+      },
+      {
+        "ref": "2:10",
+        "zh": "九年而水不息，功用不成。",
+        "en": "for nine years, but the waters did not abate, and the work was unaccomplished."
+      },
+      {
+        "ref": "2:11",
+        "zh": "於是帝堯乃求人，更得舜。",
+        "en": "Then the Emperor Yao sought a man in his stead, and secured Shun."
+      },
+      {
+        "ref": "2:12",
+        "zh": "舜登用，攝行天子之政，巡狩。",
+        "en": "Shun being employed in the public service was associated with the Son of Heaven in the administration. While on a tour of inspection,"
+      },
+      {
+        "ref": "2:13",
+        "zh": "行視鯀之治水無狀，乃殛鯀於羽山以死。",
+        "en": "he saw that there was no evidence that Gun kept the waters under control, so he imprisoned him for life on Mount Yu,"
+      },
+      {
+        "ref": "2:14",
+        "zh": "天下皆以舜之誅為是。",
+        "en": "and everyone in the Empire said that Shun's decision was a just one."
+      },
+      {
+        "ref": "2:15",
+        "zh": "於是舜舉鯀子禹，而使續鯀之業。",
+        "en": "Shun then appointed Gun's son Yu to the post, and directed him to continue his father's occupation."
+      },
+      {
+        "ref": "2:16",
+        "zh": "堯崩，帝舜問四嶽曰：「有能成美堯之事者使居官？」",
+        "en": "After Yao's death, the Emperor Shun asked the presidents of the four mountains, 'is there was any one who can perfect and develop Yao's undertakings, and can be employed in an official capacity?'"
+      },
+      {
+        "ref": "2:17",
+        "zh": "皆曰：「伯禹為司空，可成美堯之功。」",
+        "en": "They all said, 'There is lord Yu, the Minister of Works; he might perfect and develop Yao's labours.'"
+      },
+      {
+        "ref": "2:18",
+        "zh": "舜曰：「嗟，然！」",
+        "en": "Shun said, 'Ah yes!"
+      },
+      {
+        "ref": "2:19",
+        "zh": "命禹：「女平水土，維是勉之。」",
+        "en": "you, Yu, have regulated the water and the land, but in this office you must exert yourself.'"
+      },
+      {
+        "ref": "2:20",
+        "zh": "禹拜稽首，讓於契、后稷、皋陶。",
+        "en": "Yu did obeisance with his head to the ground, and would have declined in favour of Xie, Prince Millet, or Gaoyao,"
+      },
+      {
+        "ref": "2:21",
+        "zh": "舜曰：「女其往視爾事矣。」",
+        "en": "but Shun said 'Go and attend to your duties.'"
+      },
+      {
+        "ref": "2:22",
+        "zh": "禹為人敏給克勤；",
+        "en": "Yu was quick, earnest, and diligent,"
+      },
+      {
+        "ref": "2:23",
+        "zh": "其德不違，其仁可親，其言可信；",
+        "en": "not deviating from virtue, kind, and lovable; his word could be depended on,"
+      },
+      {
+        "ref": "2:24",
+        "zh": "聲為律，身為度，稱以出；",
+        "en": "his voice was musical, and his body, like a balance properly adjusted,"
+      },
+      {
+        "ref": "2:25",
+        "zh": "亹亹穆穆，為綱為紀。",
+        "en": "moved unweariedly and solemnly in accordance with certain fixed rules."
+      },
+      {
+        "ref": "2:26",
+        "zh": "禹乃遂與益、后稷奉帝命，命諸侯百姓興人徒以傅土，行山表木，定高山大川。",
+        "en": "Yu, then in company with Yi and Prince Millet, having received the Emperor's orders, bade the princes and people raise a gang of men to make a division of the land, and following the line of the hills hew down the trees, and determine the characteristics of the high hills and great rivers."
+      },
+      {
+        "ref": "2:27",
+        "zh": "禹傷先人父鯀功之不成受誅，乃勞身焦思，居外十三年，過家門不敢入。",
+        "en": "Yu was grieved in that his progenitor Gun had been punished on account of his work being incomplete, so, wearied in body and distressed in mind, he lived away from his home for 13 years, passing the door of his house without daring to enter."
+      },
+      {
+        "ref": "2:28",
+        "zh": "薄衣食，致孝于鬼神。",
+        "en": "With ragged clothes and poor diet he paid his devotions to the spirits"
+      },
+      {
+        "ref": "2:29",
+        "zh": "卑宮室，致費於溝淢。",
+        "en": "until his wretched hovel fell in ruins in the ditch."
+      },
+      {
+        "ref": "2:30",
+        "zh": "陸行乘車，水行乘船，泥行乘橇，山行乘檋。",
+        "en": "When travelling along the dry land he used a carriage, on the water he used a boat, in miry places a sledge, while in going over the hills he used spikes."
+      },
+      {
+        "ref": "2:31",
+        "zh": "左準繩，右規矩，載四時，以開九州，通九道，陂九澤，度九山。",
+        "en": "On the one hand he used the marking-line, and on the other the compass and square. Working as the seasons permitted, and with a view to open up the nine provinces, he made the roads communicable, banked up the marshes, surveyed the hills,"
+      },
+      {
+        "ref": "2:32",
+        "zh": "令益予眾庶稻，可種卑溼。",
+        "en": "told Yi and his band that paddy should be planted in low damp places,"
+      },
+      {
+        "ref": "2:33",
+        "zh": "命后稷予眾庶難得之食。",
+        "en": "and directed Lord Millet and his band, when it was difficult to obtain food,"
+      },
+      {
+        "ref": "2:34",
+        "zh": "食少，調有餘相給，以均諸侯。",
+        "en": "or when food was scarce, to barter their surplus stock in exchange for what they had not, so as to put all the princes on an equal footing."
+      },
+      {
+        "ref": "2:35",
+        "zh": "禹乃行相地宜所有以貢，及山川之便利。",
+        "en": "Yu in this way worked for the mutual convenience of the respective districts as regards the distribution of the wealth and resources of the country."
+      },
+      {
+        "ref": "2:36",
+        "zh": "禹行自冀州始。",
+        "en": "Yu started from Jizhou."
+      },
+      {
+        "ref": "2:37",
+        "zh": "冀州：既載壺口，治梁及岐。",
+        "en": "He commenced his work in Jizhou at Pot's mouth, and regulated the country about the Liang and Qi mountains."
+      },
+      {
+        "ref": "2:38",
+        "zh": "既修太原，至于嶽陽。",
+        "en": "Having repaired the works at Taiyuan he went to the south of Mount Yue."
+      },
+      {
+        "ref": "2:39",
+        "zh": "覃懷致功，至於衡漳。",
+        "en": "He was successful with his labours at Tanhuai, and went to the cross-flowing stream of Zhang."
+      },
+      {
+        "ref": "2:40",
+        "zh": "其土白壤。",
+        "en": "The soil of the province was white clay."
+      },
+      {
+        "ref": "2:41",
+        "zh": "賦上上錯，田中中，常、衛既從，大陸既為。",
+        "en": "Its contribution of revenue was the first of the highest class with some admixture of the second, while its fields were the average of the middle class. The Chang and Wei rivers flowed in their proper channels, and the Dalu plain was formed."
+      },
+      {
+        "ref": "2:42",
+        "zh": "鳥夷皮服。",
+        "en": "The bird barbarians, wearing skin dresses,"
+      },
+      {
+        "ref": "2:43",
+        "zh": "夾右碣石，入于海。",
+        "en": "kept close on the right to the granite rocks until they came to the sea."
+      },
+      {
+        "ref": "2:44",
+        "zh": "濟、河維沇州：九河既道，雷夏既澤，雍、沮會同，桑土既蠶，於是民得下丘居土。",
+        "en": "The Qi and Yellow rivers formed the boundaries of Yanzhou. The nine branches of the Yellow river followed their courses, and Lei Xia was a marsh, in which the Yong and Ju streams were united. The mulberry region was supplied with silkworms, and then the people came down from the heights and occupied it."
+      },
+      {
+        "ref": "2:45",
+        "zh": "其土黑墳，草繇木條。",
+        "en": "The soil of the province was black loam, its herbage luxuriant, and trees tall."
+      },
+      {
+        "ref": "2:46",
+        "zh": "田中下，賦貞，作十有三年乃同。",
+        "en": "Its fields were the lowest of the middle class. Its contribution of revenue was fixed at what would just be deemed the correct amount, and after it had been worked for 13 years it was assimilated to the other provinces."
+      },
+      {
+        "ref": "2:47",
+        "zh": "其貢漆絲，其篚織文。",
+        "en": "Its tribute consisted of varnish and silk, and woven ornamental fabrics in baskets."
+      },
+      {
+        "ref": "2:48",
+        "zh": "浮於濟、漯，通於河。",
+        "en": "You float along the Qi and Ta and so reach the Yellow river."
+      },
+      {
+        "ref": "2:49",
+        "zh": "海岱維青州：堣夷既略，濰、淄其道。",
+        "en": "The sea and the Tai mountain formed the boundaries of Qingzhou. The territory of Yuyi was defined, and the Wei and Zi rivers flowed in their proper channels."
+      },
+      {
+        "ref": "2:50",
+        "zh": "其土白墳，海濱廣潟，厥田斥鹵。",
+        "en": "The soil of the province was white loam, and on the sea-coast were wide tracts of salt land. Its fields, which were impregnated with salt,"
+      },
+      {
+        "ref": "2:51",
+        "zh": "田上下，賦中上。",
+        "en": "were the lowest of the first class, and its contribution of revenue the highest of the second."
+      },
+      {
+        "ref": "2:52",
+        "zh": "厥貢鹽絺，海物維錯，岱畎絲、枲、鉛、松、怪石，萊夷為牧，其篚酓絲。",
+        "en": "Its tribute consisted of salt, fine cloth of dolichos fibre, and productions of the sea of various kinds, with silk, hemp, lead, pine-trees, and strange stones from the valleys of the Tai. The wild tribes of Lai were shepherds, and brought in their baskets silk from the mountain mulberry."
+      },
+      {
+        "ref": "2:53",
+        "zh": "浮於汶，通於濟。",
+        "en": "You float down the Wen, and so reach the Qi."
+      },
+      {
+        "ref": "2:54",
+        "zh": "海岱及淮維徐州：淮、沂其治，蒙、羽其藝。",
+        "en": "The sea, the Tai mountain, and the river Huai formed the boundaries of Xuzhou. The Huai and Yi rivers were regulated. The Meng and Yu mountains were made fit for cultivation."
+      },
+      {
+        "ref": "2:55",
+        "zh": "大野既都，東原底平。",
+        "en": "The waters of Daye formed a marsh, and the eastern plain became level."
+      },
+      {
+        "ref": "2:56",
+        "zh": "其土赤埴墳，草木漸包。",
+        "en": "The soil of this province was red, clayey, and rich. The grass and trees grew more and more bushy."
+      },
+      {
+        "ref": "2:57",
+        "zh": "其田上中，賦中中。",
+        "en": "Its fields were the second of the highest class, and its contribution of revenue was the average of the second."
+      },
+      {
+        "ref": "2:58",
+        "zh": "貢維土五色，羽畎夏狄，嶧陽孤桐，泗濱浮磬，淮夷蠙珠臮魚，其篚玄纖縞。",
+        "en": "Its tribute consisted of earth of different colours, the variegated pheasants from the valleys of mount Yu, the solitary dryandra from the south of mount Yi, and the floating musical stones from the banks of the Si. The wild tribes of the Huai brought oyster-pearls and fish, and their baskets were full of dark embroideries and pure white silken fabrics."
+      },
+      {
+        "ref": "2:59",
+        "zh": "浮于淮、泗，通于河。",
+        "en": "You float along the Huai and Si and so reach the Yellow river."
+      },
+      {
+        "ref": "2:60",
+        "zh": "淮海維揚州：彭蠡既都，陽鳥所居。",
+        "en": "The Huai river and the sea formed the boundaries of Yangzhou. The Pengli lake formed a reservoir of water, where the sun birds (i.e. the wild geese) settled."
+      },
+      {
+        "ref": "2:61",
+        "zh": "三江既入，震澤致定。",
+        "en": "The three large rivers entered the sea, and the shaking marsh became quite still."
+      },
+      {
+        "ref": "2:62",
+        "zh": "竹箭既布。",
+        "en": "Bamboos of different kinds were spread about,"
+      },
+      {
+        "ref": "2:63",
+        "zh": "其草惟夭，其木惟喬，其土涂泥。",
+        "en": "the grass grew luxuriantly, and the trees tall, but the soil was miry."
+      },
+      {
+        "ref": "2:64",
+        "zh": "田下下，賦下上上雜。",
+        "en": "The fields of this province were the lowest of the lowest class; its contribution of revenue was the highest of the lowest class, with a proportion of the class above."
+      },
+      {
+        "ref": "2:65",
+        "zh": "貢金三品，瑤、琨、竹箭，齒、革、羽、旄，島夷卉服，其篚織貝，其包橘、柚錫貢。",
+        "en": "Its tribute consisted of gold, silver, and copper, jasper, pearls, bamboos of various kinds, ivory, hides, feathers, and hair. The wild people of the isles brought garments of grass; their baskets were filled with woven silks and cowries, and their bundles contained small oranges and pummeloes, which were rendered when required."
+      },
+      {
+        "ref": "2:66",
+        "zh": "均江海，通淮、泗。",
+        "en": "You follow the course of the Great river and the sea, and so reach the Huai and Si rivers."
+      },
+      {
+        "ref": "2:67",
+        "zh": "荊及衡陽維荊州：江、漢朝宗于海。",
+        "en": "Mount Jing and the south of Mount Heng formed the boundaries of Jingzhou. The Great river and Han rivers paid their court to the sea."
+      },
+      {
+        "ref": "2:68",
+        "zh": "九江甚中，沱、涔已道，云土、夢為治。",
+        "en": "The nine rivers occupied all the middle of the land. The Tuo and Qian rivers flowed in their proper channels; and the land in the Yun and Meng marshes was made capable of cultivation."
+      },
+      {
+        "ref": "2:69",
+        "zh": "其土涂泥。",
+        "en": "The soil of this province was miry;"
+      },
+      {
+        "ref": "2:70",
+        "zh": "田下中，賦上下。",
+        "en": "its fields were the average of the lowest class; its contribution of revenue was the lowest of the highest class."
+      },
+      {
+        "ref": "2:71",
+        "zh": "貢羽、旄、齒、革，金三品，杶、榦、栝、柏，礪、砥、砮、丹，維箘簬、楛，三國致貢其名，包匭菁茅，其篚玄纁璣組，九江入賜大龜。",
+        "en": "Its tribute consisted of feathers, hair, ivory, hides, gold, silver, copper, woods of the wild varnish, cudrania, triloba, juniper, and cypress trees, with grindstones, whetstones, stone arrowheads, and cinnabar, likewise the Jun and Lu bamboos, and the wood of the redthorn, of which the three states brought the most noted specimens. The three ribbed rush was put in cases which were wrapped up, while the baskets were filled with dark and purple silks and strings of coarse pearls. From the country of the nine rivers the great tortoise was presented."
+      },
+      {
+        "ref": "2:72",
+        "zh": "浮于江、沱、涔、（于）漢，踰于雒，至于南河。",
+        "en": "You float down the Great river, the Tuo, the Qian, and the Han rivers, cross over to the Luo, whence you reach the southern part of the Yellow river."
+      },
+      {
+        "ref": "2:73",
+        "zh": "荊河惟豫州：伊、雒、瀍、澗既入于河，滎播既都，道荷澤，被明都。",
+        "en": "The Jing mountain and the Yellow river formed the boundaries of Yuzhou. The Yi, the Luo the Chan, and the Jian streams flowed into the Yellow river, the Yingbo waters formed a lake, and the waters of the Ke marsh were conducted to the Ming reservoir."
+      },
+      {
+        "ref": "2:74",
+        "zh": "其土壤，下土墳壚。",
+        "en": "The soil of this province was clayey, while in its lower parts it was rich, and in clods."
+      },
+      {
+        "ref": "2:75",
+        "zh": "田中上，賦雜上中。",
+        "en": "Its fields were the highest of the middle class; its contribution of revenue was the average of the highest class, with a proportion of the very highest."
+      },
+      {
+        "ref": "2:76",
+        "zh": "貢漆、絲、絺、紵，其篚纖絮，錫貢磬錯。",
+        "en": "The tribute was varnish, silk, fine cloth of dolichos fibre, and sackcloth. The baskets were filled with delicate embroidery and floss-silk, and stones for polishing musical stones were rendered when required."
+      },
+      {
+        "ref": "2:77",
+        "zh": "浮於雒，達於河。",
+        "en": "You float along the Luo until you reach the Yellow river."
+      },
+      {
+        "ref": "2:78",
+        "zh": "華陽黑水惟梁州：汶、嶓既藝，沱、涔既道，蔡、蒙旅平，和夷厎績。",
+        "en": "The south of Mount Hua and the Blackwater formed the boundaries of Liangzhou. The Min and Bo hills were cultivated. The Tuo and Qian rivers flowed in their channels, sacrifices were offered to the hills Cai and Meng on the plateaux, and the wild tribes on the He river were successfully managed."
+      },
+      {
+        "ref": "2:79",
+        "zh": "其土青驪。",
+        "en": "The soil of the province was bluish black."
+      },
+      {
+        "ref": "2:80",
+        "zh": "田下上，賦下中三錯。",
+        "en": "Its fields were the highest of the lowest class; its contribution of revenue was the average of the lowest class, with proportions of the rates above and below."
+      },
+      {
+        "ref": "2:81",
+        "zh": "貢璆、鐵、銀、鏤、砮、磬，熊、羆、狐、貍、織皮。",
+        "en": "Its tribute consisted of the best gold, iron, silver, steel, stone arrow-heads, musical stones, and nets woven from the hair of bears and foxes."
+      },
+      {
+        "ref": "2:82",
+        "zh": "西傾因桓是來，浮于潛，踰于沔，入于渭，亂于河。",
+        "en": "From Xiqing you come along the river Huan, float down the Qian, cross over to the Mian, enter the Wei, and ferry across the Yellow river."
+      },
+      {
+        "ref": "2:83",
+        "zh": "黑水西河惟雍州：弱水既西，涇屬渭汭。",
+        "en": "The Blackwater and the western bend of the Yellow river formed the boundaries of Yongzhou. The Ruo water flowed westward; the Qing,"
+      },
+      {
+        "ref": "2:84",
+        "zh": "漆、沮既從，灃水所同。",
+        "en": "the Qi, and Ju streams formed a junction with the Wei, as also did the waters of the Feng."
+      },
+      {
+        "ref": "2:85",
+        "zh": "荊、岐已旅，終南、敦物至于鳥鼠。",
+        "en": "The Jing and Qi hills were sacrificed too, and so were those of Zhongnan and Dunwu all the way to 'Bird-and-Rat' hill."
+      },
+      {
+        "ref": "2:86",
+        "zh": "原隰厎績，至于都野。",
+        "en": "Successful measures were taken with the plains and swamps as far as the Duye marsh."
+      },
+      {
+        "ref": "2:87",
+        "zh": "三危既度，三苗大序。",
+        "en": "The people of Sanwei were controlled, and the Sanmiao tribes kept in good order."
+      },
+      {
+        "ref": "2:88",
+        "zh": "其土黃壤。",
+        "en": "The soil of the province was yellow clay."
+      },
+      {
+        "ref": "2:89",
+        "zh": "田上上，賦中下。",
+        "en": "Its fields were the highest of the highest class, while its contribution of revenue was the lowest of the second."
+      },
+      {
+        "ref": "2:90",
+        "zh": "貢璆、琳、瑯玕。",
+        "en": "Its tribute was jade, topazes, and white cornelian stones."
+      },
+      {
+        "ref": "2:91",
+        "zh": "浮于積石，至于龍門西河，會于渭汭。",
+        "en": "From 'Stonepile' hill you float on to 'Dragongate' on the western branch of the Yellow river at its junction with the Wei river."
+      },
+      {
+        "ref": "2:92",
+        "zh": "織皮昆侖、析支、渠搜，西戎即序。",
+        "en": "The western Jung tribes from the Gunlun, Hsichih, and Ch'üsou mountains with their hair-cloth and furs were kept in order."
+      },
+      {
+        "ref": "2:93",
+        "zh": "道九山：汧及岐至于荊山，踰于河；",
+        "en": "Journeying over the nine mountains, you go from Qian and Qi hills to mount Jing; passing the Yellow river,"
+      },
+      {
+        "ref": "2:94",
+        "zh": "壺口、雷首至于太嶽；",
+        "en": "Pot's mouth, and Leishou you come to Taiyue;"
+      },
+      {
+        "ref": "2:95",
+        "zh": "砥柱、析城至于王屋；",
+        "en": "from Dizhu and Xicheng hills to 'King's house';"
+      },
+      {
+        "ref": "2:96",
+        "zh": "太行、常山至于碣石，入于海；",
+        "en": "from Taihang and Mount Chang to the granite rocks and the sea;"
+      },
+      {
+        "ref": "2:97",
+        "zh": "西傾、朱圉、鳥鼠至于太華；",
+        "en": "from Xiqing, Zhuyu, and 'Bird-and-Rat' hills to mount Taihua;"
+      },
+      {
+        "ref": "2:98",
+        "zh": "熊耳、外方、桐柏至于負尾；",
+        "en": "from 'Bear's-ear,' Waifang, and Tongbo hills to Fuwei;"
+      },
+      {
+        "ref": "2:99",
+        "zh": "道嶓冢，至于荊山；",
+        "en": "you journey from Bozhong to mount Jing;"
+      },
+      {
+        "ref": "2:100",
+        "zh": "內方至于大別；",
+        "en": "from Neifang to Dabie,"
+      },
+      {
+        "ref": "2:101",
+        "zh": "汶山之陽至衡山，過九江，至于敷淺原。",
+        "en": "and from the south of Mount Min to Mount Heng, and cross the nine rivers to the Fuqian plain."
+      },
+      {
+        "ref": "2:102",
+        "zh": "道九川：弱水至於合黎，餘波入于流沙。",
+        "en": "Following the course of the nine large rivers: from the Ruo river you go to Heli, whence the superfluous water flows into the Rolling sands."
+      },
+      {
+        "ref": "2:103",
+        "zh": "道黑水，至于三危，入于南海。",
+        "en": "You trace the Blackwater to Sanwei, where it enters the southern sea;"
+      },
+      {
+        "ref": "2:104",
+        "zh": "道河積石，至于龍門，南至華陰，東至砥柱，又東至于盟津，東過雒汭，至于大邳，北過降水，至于大陸，北播為九河，同為逆河，入于海。",
+        "en": "you trace the Yellow river from 'Stone-pile' to 'Dragongate,' southward to the north of Mount Hua, eastward to Dizhu, again eastward to the ford Meng, eastward you pass the junction of the Luo river to Dapei, northward past the Jiang water to Dalu, northward the stream is divided and becomes the nine rivers, reunited it forms the opposing river and flows into the sea."
+      },
+      {
+        "ref": "2:105",
+        "zh": "嶓冢道瀁，東流為漢，又東為蒼浪之水，過三澨，入于大別，南入于江，東匯澤為彭蠡，東為北江，入于海。",
+        "en": "From Bozhong you trace the course of the Yang. Flowing eastward it becomes the Han, further east it becomes the Canglang water, passing the three dykes it goes to Dabie, southward it enters the great river, eastward whirling on it forms the Pengli marsh, again eastward it forms the northern great river and enters the sea."
+      },
+      {
+        "ref": "2:106",
+        "zh": "汶山道江，東別為沱，又東至于醴，過九江，至于東陵，東迆北會于匯，東為中江，入于梅。",
+        "en": "From mount Min you trace the great river, which branching to the east becomes the Tuo, again eastward it comes to the Li, passes the nine great rivers and comes to the eastern ridge, flows eastward, winds to the north, and joins the eddies, eastward it becomes the middle great river and enters the sea."
+      },
+      {
+        "ref": "2:107",
+        "zh": "道沇水，東為濟，入于河，泆為滎，東出陶丘北，又東至于荷，又東北會于汶，又東北入于海。",
+        "en": "Tracing the course of the Yan river—it flows to the east, becomes the Qi, enters the Yellow river, flows on and becomes the Ying; eastward it comes out to the north of Taoqiu, further east flows into the Ke marsh, again north-eastward it unites with the Wen, and still further to the north-east it enters the sea."
+      },
+      {
+        "ref": "2:108",
+        "zh": "道淮自桐柏，東會于泗、沂，東入于海。",
+        "en": "Tracing the course of the Huai from Tongbo, to the eastward it unites with the Si and Yi rivers, and flowing to the east enters the sea."
+      },
+      {
+        "ref": "2:109",
+        "zh": "道渭自鳥鼠同穴，東會于灃，又東北至于涇，東過漆、沮，入于河。",
+        "en": "Tracing the course of the Wei from 'Bird-and-rat-in-the-same-hole' hill—it unites to the east with the Feng, further to the north-east it flows into the Jing, to the east passing the Qi and Ju streams it enters the Yellow river."
+      },
+      {
+        "ref": "2:110",
+        "zh": "道雒自熊耳，東北會于澗、瀍，又東會于伊，東北入于河。",
+        "en": "Tracing the course of the Luo from 'Bear's-ear' hill, on the north-east it unites with the Jian and Chan, further to the east it unites with the Yi, and to the north-east enters the Yellow river."
+      },
+      {
+        "ref": "2:111",
+        "zh": "於是九州攸同，四奧既居，九山刊旅，九川滌原，九澤既陂，四海會同。",
+        "en": "So throughout the nine provinces a similar order was effected: the four coasts were built over, the hills were cleared of their wood and sacrificed to, the streams had their sources scoured out, the marshes were well banked, and all within the four seas had access to the capital."
+      },
+      {
+        "ref": "2:112",
+        "zh": "六府甚修，眾土交正，致慎財賦，咸則三壤成賦。",
+        "en": "The six treasuries of nature were made the most of, and the various parts of the country exactly compared so that the receipt of revenue could be carefully adjusted according to their resources. The three characters of the soil were classified, and the taxation fixed."
+      },
+      {
+        "ref": "2:113",
+        "zh": "中國賜土姓：「祗臺德先，不距朕行。」",
+        "en": "The central government conferred lands and surnames. Revenue was paid to the Emperor's exalted virtue, which was set up as an example, and none opposed his Majesty's action."
+      },
+      {
+        "ref": "2:114",
+        "zh": "令天子之國以外五百里甸服：百里賦納總，二百里納銍，三百里納秸服，四百里粟，五百里米。",
+        "en": "Now beyond the Emperor's capital 500 li constituted the Imperial domain. From the first hundred li they brought, as revenue, the whole plant of the grain, from the second the ears, from the third the straw, but the people had to perform feudal services, from the fourth the grain in the husk, and from the fifth the grain cleaned."
+      },
+      {
+        "ref": "2:115",
+        "zh": "甸服外五百里侯服：百里采，二百里任國，三百里諸侯。",
+        "en": "Five hundred li beyond the Imperial domain constituted the domain of the nobles. The first hundred li formed the allotments to the feudal nobles, the second hundred those to the people employed by the State, and the other 300 those to the various princes."
+      },
+      {
+        "ref": "2:116",
+        "zh": "侯服外五百里綏服：三百里揆文教，二百里奮武衛。",
+        "en": "Five hundred li beyond the nobles' domain lay the peaceful domain. In the first 300 li they cultivated learning and the moral duties, and in the other 200 their energies lay in the direction of war and defence."
+      },
+      {
+        "ref": "2:117",
+        "zh": "綏服外五百里要服：三百里夷，二百里蔡。",
+        "en": "Five hundred li beyond the peaceful domain was the domain of restraint. The first 300 were occupied by the Yi tribes, and the other 200 by criminals undergoing the lesser banishment."
+      },
+      {
+        "ref": "2:118",
+        "zh": "要服外五百里荒服：三百里蠻，二百里流。",
+        "en": "Five hundred li beyond the domain of restraint lay the wild domain. Three hundred li were occupied by the Man tribes, and the other 200 li by criminals undergoing the greater banishment."
+      },
+      {
+        "ref": "2:119",
+        "zh": "東漸于海，西被于流沙，朔、南暨：聲教訖于四海。",
+        "en": "On the east reaching to the sea, on the west extending to the rolling sands, to the utmost limits of the north and south, Yu's fame and influence spread everywhere within the four seas,"
+      },
+      {
+        "ref": "2:120",
+        "zh": "於是帝錫禹玄圭，以告成功于天下。",
+        "en": "so the Emperor presented him with a dark-coloured sceptre, thus announcing to the empire the completion of his work."
+      },
+      {
+        "ref": "2:121",
+        "zh": "天下於是太平治。",
+        "en": "The empire was at peace and well governed."
+      },
+      {
+        "ref": "2:122",
+        "zh": "皋陶作士以理民。",
+        "en": "Gaoyao was made chief minister of state with a view to his ruling the people."
+      },
+      {
+        "ref": "2:123",
+        "zh": "帝舜朝，禹、伯夷、皋陶相與語帝前。",
+        "en": "The emperor Shun gave audience to Yu, Poyi, and Gaoyao, who addressed each other before the Emperor."
+      },
+      {
+        "ref": "2:124",
+        "zh": "皋陶述其謀曰：「信其道德，謀明輔和。」",
+        "en": "Gaoyao, setting forth his counsels, said, 'If a man sincerely follows the path of duty and virtue, his counsellors will be intelligent, and those who aid him will act in harmony.'"
+      },
+      {
+        "ref": "2:125",
+        "zh": "禹曰：「然，如何？」",
+        "en": "Yu said, 'Yes, but what do you mean?'"
+      },
+      {
+        "ref": "2:126",
+        "zh": "皋陶曰：「於！慎其身修，思長，敦序九族，眾明高翼，近可遠在已。」",
+        "en": "Gaoyao said, 'Oh! he will be careful about his personal cultivation, and will think constantly about it. Thus he will pay due regard to precedence among the nine branches of his kindred, all the intelligent will exert themselves in his service, and so from what is at hand he may attain to what is far off.'"
+      },
+      {
+        "ref": "2:127",
+        "zh": "禹拜美言，曰：「然。」",
+        "en": "Yu made obeisance at these excellent words, and said, 'It is so.'"
+      },
+      {
+        "ref": "2:128",
+        "zh": "皋陶曰：「於！在知人，在安民。」",
+        "en": "Gaoyao said 'Oh! It all lies in knowing mankind, and in quieting the people.'"
+      },
+      {
+        "ref": "2:129",
+        "zh": "禹曰：「吁！皆若是，惟帝其難之。",
+        "en": "Yu said, 'Alas! to attain to all this would be difficult even for the Emperor."
+      },
+      {
+        "ref": "2:130",
+        "zh": "知人則智，能官人；",
+        "en": "He who knows men is wise; he who can put men into the posts for which they are fit,"
+      },
+      {
+        "ref": "2:131",
+        "zh": "能安民則惠，黎民懷之。",
+        "en": "and can quiet the people, is benevolent, and the black-haired race will cherish him in their hearts."
+      },
+      {
+        "ref": "2:132",
+        "zh": "能知能惠，何憂乎驩兜，何遷乎有苗，何畏乎巧言善色佞人？」",
+        "en": "When a man can be thus wise and kind, why should he have anxiety about a Huandou? why to be removing a chief of the Miao tribes? why should he fear a man of specious words, good appearance, and artful ways?'"
+      },
+      {
+        "ref": "2:133",
+        "zh": "皋陶曰：「然，於！亦行有九德，亦言其有德。」",
+        "en": "Gaoyao said, 'Just so! there are in all nine virtues, and when we say that a man possesses these virtues it is as much as to say that he begins to do such and such things."
+      },
+      {
+        "ref": "2:134",
+        "zh": "乃言曰：「始事事，寬而栗，柔而立，願而共，治而敬，擾而毅，直而溫，簡而廉，剛而實，彊而義，章其有常，吉哉。",
+        "en": "They are liberality combined with dignity, mildness combined with firmness, bluntness combined with respect, aptness for government combined with caution, docility combined with boldness, straightforwardness combined with gentleness, easy negligence combined with discrimination, resolution combined with sincerity, and courage combined with justice. If these are apparent, and that continuously, how fortunate it will be."
+      },
+      {
+        "ref": "2:135",
+        "zh": "日宣三德，蚤夜翊明有家。",
+        "en": "He who daily displays three of these virtues could early and late support and educate a family."
+      },
+      {
+        "ref": "2:136",
+        "zh": "日嚴振敬六德，亮采有國。",
+        "en": "He who is strict and reverent in cultivating six of these virtues could brilliantly conduct the affairs of the State."
+      },
+      {
+        "ref": "2:137",
+        "zh": "翕受普施，九德咸事，俊乂在官，百吏肅謹。",
+        "en": "When such men are received and found everywhere, the possessors of those nine virtues will all be employed, and men of eminence will hold office, and the various officers will be respectful and diligent,"
+      },
+      {
+        "ref": "2:138",
+        "zh": "毋教邪淫奇謀。",
+        "en": "not teaching heretical, vicious, or strange doctrines."
+      },
+      {
+        "ref": "2:139",
+        "zh": "非其人居其官，是謂亂天事。",
+        "en": "If such men and such officers do not exist it may be said that the affairs of Heaven are in confusion."
+      },
+      {
+        "ref": "2:140",
+        "zh": "天討有罪，五刑五用哉。",
+        "en": "Heaven punishes the guilty, and the five punishments can be severally applied for that purpose."
+      },
+      {
+        "ref": "2:141",
+        "zh": "吾言厎可行乎？」",
+        "en": "Are my words sound, and can they be put in force?'"
+      },
+      {
+        "ref": "2:142",
+        "zh": "禹曰：「女言致可績行。」",
+        "en": "Yu said, 'Your words are perfect, and can be successfully put in force.'"
+      },
+      {
+        "ref": "2:143",
+        "zh": "皋陶曰：「余未有知，思贊道哉。」",
+        "en": "Gaoyao said, 'As to that I do not know, but I aim at assisting in the path of duty.'"
+      },
+      {
+        "ref": "2:144",
+        "zh": "帝舜謂禹曰：「女亦昌言。」",
+        "en": "The Emperor Shun said to Yu, 'Will you, too, make a brilliant speech?'"
+      },
+      {
+        "ref": "2:145",
+        "zh": "禹拜曰；「於，予何言！予思日孳孳。」",
+        "en": "Yu did obeisance and said, 'Ah! what can I say? I aim at being assiduous from day to day.'"
+      },
+      {
+        "ref": "2:146",
+        "zh": "皋陶難禹曰：「何謂孳孳？」",
+        "en": "Gaoyao, teasing Yu, said, 'What do you mean by being assiduous?'"
+      },
+      {
+        "ref": "2:147",
+        "zh": "禹曰：「鴻水滔天，浩浩懷山襄陵，下民皆服於水。",
+        "en": "Yu said, 'When the flood assailed the heavens, and in its vast expanse encompassed the mountains and overtopped the hills, so that the common people were overcome by the water,"
+      },
+      {
+        "ref": "2:148",
+        "zh": "予陸行乘車，水行乘舟，泥行乘橇，山行乘檋，行山刊木。",
+        "en": "I travelled on dry land in a carriage, went about on the water in a boat, in miry places I used a sledge, while in going over the hills I used spikes. All along the hills I hewed paths through the woods,"
+      },
+      {
+        "ref": "2:149",
+        "zh": "與益予眾庶稻鮮食。",
+        "en": "and together with Yi supplied the people with paddy and fresh meat."
+      },
+      {
+        "ref": "2:150",
+        "zh": "以決九川致四海，浚畎澮致之川。",
+        "en": "In order to drain the nine streams into the four seas, I deepened the channels and canals, and connected them with the rivers,"
+      },
+      {
+        "ref": "2:151",
+        "zh": "與稷予眾庶難得之食。",
+        "en": "and together with 'Millet' and the people in general when it was difficult to obtain food,"
+      },
+      {
+        "ref": "2:152",
+        "zh": "食少，調有餘補不足，徙居。",
+        "en": "and when food was scarce I bartered the surplus stock to make up for deficiencies, and removed the stores."
+      },
+      {
+        "ref": "2:153",
+        "zh": "眾民乃定，萬國為治。」",
+        "en": "Thus the people were quieted, and the various states properly governed.'"
+      },
+      {
+        "ref": "2:154",
+        "zh": "皋陶曰：「然，此而美也。」",
+        "en": "Gaoyao said, 'Yes! this was good on your part.'"
+      },
+      {
+        "ref": "2:155",
+        "zh": "禹曰：「於，帝！慎乃在位，安爾止。",
+        "en": "Yu said, 'Ah! your Majesty, carefully maintain the Throne which you occupy, and be quiet in your behaviour,"
+      },
+      {
+        "ref": "2:156",
+        "zh": "輔德，天下大應。",
+        "en": "assist virtue, and the nation will grandly respond to your pure desires."
+      },
+      {
+        "ref": "2:157",
+        "zh": "清意以昭待上帝命，天其重命用休。」",
+        "en": "It will thus be manifest that you await the decrees of the Supreme Being, and will not Heaven renew its favouring appointment by conferring blessings on you?'"
+      },
+      {
+        "ref": "2:158",
+        "zh": "帝曰：「吁，臣哉，臣哉！臣作朕股肱耳目。",
+        "en": "The Emperor said, 'Dear me! ministers! ministers! you constitute my legs and arms, my ears and eyes."
+      },
+      {
+        "ref": "2:159",
+        "zh": "予欲左右有民，女輔之。",
+        "en": "If I wish to aid and support the people, you help me to do so."
+      },
+      {
+        "ref": "2:160",
+        "zh": "余欲觀古人之象。日月星辰，作文繡服色，女明之。",
+        "en": "If I wish to see the emblematic figures of the ancients — the sun, moon, and stars — which are embroidered on the robes and coloured silks, you see them clearly for me."
+      },
+      {
+        "ref": "2:161",
+        "zh": "予欲聞六律五聲八音，來始滑，以出入五言，女聽。",
+        "en": "If I wish to hear the six pitchpipes, the five notes, and the eight musical instruments on the adjustment of which depend good government or misrule, and the consequent rise or decline of the five duties, you hear them for me."
+      },
+      {
+        "ref": "2:162",
+        "zh": "予即辟，女匡拂予。女無面諛。退而謗予。",
+        "en": "If I do wrong, you have to correct me. Do not flatter me to my face and speak evil of me behind my back."
+      },
+      {
+        "ref": "2:163",
+        "zh": "敬四輔臣。諸眾讒嬖臣，君德誠施皆清矣。」",
+        "en": "Be reverent, ye four ministers, and all ye calumniating minions of officials. If the prince's virtue is honestly displayed all men will be pure.'"
+      },
+      {
+        "ref": "2:164",
+        "zh": "禹曰：「然。帝即不時，布同善惡則毋功。」",
+        "en": "Yu said, 'Yes! should your Majesty not act thus, but equally employ the good and bad, you will gain no credit.'"
+      },
+      {
+        "ref": "2:165",
+        "zh": "帝曰：「毋若丹朱傲，維慢游是好，毋水行舟，朋淫于家，用絕其世。予不能順是。」",
+        "en": "The Emperor said, 'Do not be arrogant like Zhu of Dan, who took his pleasure only in idleness and dissipation. He would make boats go where there was no water, introduced licentious friends into his family, and thereby cut off the hereditary honours of his house. I could not follow that line of conduct.'"
+      },
+      {
+        "ref": "2:166",
+        "zh": "禹曰：「予（辛壬）娶涂山，［辛壬］癸甲，生啟予不子，以故能成水土功。",
+        "en": "Yu said, 'I was married at Tushan on the days xin and ren, and on the days gui and jia my son Qi was born. I did not treat him as a son, and therefore was able to complete my labours on the water and on land."
+      },
+      {
+        "ref": "2:167",
+        "zh": "輔成五服，至于五千里，州十二師，外薄四海，咸建五長，各道有功。",
+        "en": "I assisted, in completing the five Tenures, extending over 5000 li. In the provinces I appointed twelve tutors, and in the regions beyond to the four seas I established five presidents. These all did their duty, and achieved great results,"
+      },
+      {
+        "ref": "2:168",
+        "zh": "苗頑不即功，帝其念哉。」",
+        "en": "but the Miao tribes were obstinate, and refused to do their work. Think of this, your Majesty.'"
+      },
+      {
+        "ref": "2:169",
+        "zh": "帝曰：「道吾德，乃女功序之也。」",
+        "en": "The Emperor said, 'That my virtue is the guide is the result of your orderly arrangements.'"
+      },
+      {
+        "ref": "2:170",
+        "zh": "皋陶於是敬禹之德，令民皆則禹。",
+        "en": "Gaoyao therefore, respecting Yu's virtues, bade the people carry out as a rule his plan of preferring admonition,"
+      },
+      {
+        "ref": "2:171",
+        "zh": "不如言，刑從之。",
+        "en": "but also made use of punishments."
+      },
+      {
+        "ref": "2:172",
+        "zh": "舜德大明。",
+        "en": "Shun's virtues were very clear."
+      },
+      {
+        "ref": "2:173",
+        "zh": "於是夔行樂，祖考至，群后相讓，鳥獸翔舞，簫韶九成，鳳皇來儀，百獸率舞，百官信諧。",
+        "en": "Kui played some music; the spirits of Imperial ancestors, and hosts of nobles gave place to one another, and even birds and beasts wheeled about and danced. When the nine airs of Shun's music were played, the phoenixes came and put themselves in attitudes, the different beasts led each other on to dance, and the various officials were really in harmony."
+      },
+      {
+        "ref": "2:174",
+        "zh": "帝用此作歌曰：「陟天之命，維時維幾。」",
+        "en": "The Emperor upon this composed the following ode, 'Being set on high by the favouring appointment of Heaven, we must be careful at every moment, and in every particular.'"
+      },
+      {
+        "ref": "2:175",
+        "zh": "乃歌曰：「股肱喜哉，元首起哉，百工熙哉！」",
+        "en": "He then sang as follows, 'When the members are happy, the head is exalted, and the various kinds of work are happily performed.'"
+      },
+      {
+        "ref": "2:176",
+        "zh": "皋陶拜手稽首揚言曰：「念哉，率為興事，慎乃憲，敬哉！」",
+        "en": "Gaoyao did obeisance with his head to his hands, and then to the ground, and with a loud voice said, 'Oh! think. It is yours to lead on and originate affairs. Pay careful attention to your laws. Be cautious.'"
+      },
+      {
+        "ref": "2:177",
+        "zh": "乃更為歌曰：「元首明哉，股肱良哉，庶事康哉！」",
+        "en": "He continued his song, saying, 'When the head is intelligent, the members are good, and all business will prosper.'"
+      },
+      {
+        "ref": "2:178",
+        "zh": "（舜）又歌曰：「元首叢脞哉，股肱惰哉，萬事墮哉！」",
+        "en": "Shun again sang as follows, 'When the head is vexatious, the members are idle, and all business is ruined.'"
+      },
+      {
+        "ref": "2:179",
+        "zh": "帝拜曰：「然，往欽哉！」",
+        "en": "The Emperor bowed and said, 'Yes, go and be reverent!'"
+      },
+      {
+        "ref": "2:180",
+        "zh": "於是天下皆宗禹之明度數聲樂，為山川神主。",
+        "en": "The whole nation upon this applauded Yu's brilliant musical performance, and the divine lord of hills and streams."
+      },
+      {
+        "ref": "2:181",
+        "zh": "帝舜薦禹於天，為嗣。",
+        "en": "The Emperor Shun presented Yu to Heaven as his heir,"
+      },
+      {
+        "ref": "2:182",
+        "zh": "十七年而帝舜崩。",
+        "en": "and 17 years afterwards the Emperor Shun died."
+      },
+      {
+        "ref": "2:183",
+        "zh": "三年喪畢，禹辭辟舜之子商均於陽城。",
+        "en": "The three years' mourning being over, Yu retired before Shun's son Shangjun to the town of Yang,"
+      },
+      {
+        "ref": "2:184",
+        "zh": "天下諸侯皆去商均而朝禹。",
+        "en": "but the princes of the empire all left Shangjun, and went to Yu's court,"
+      },
+      {
+        "ref": "2:185",
+        "zh": "禹於是遂即天子位，南面朝天下，國號曰夏后，姓姒氏。",
+        "en": "and Yu accordingly occupied the Imperial throne. Facing the south he gave audience to the nation. His dynastic appellation was (Xia hou) Prince of Xia, and his surname Si."
+      },
+      {
+        "ref": "2:186",
+        "zh": "帝禹立而舉皋陶薦之，且授政焉，而皋陶卒。",
+        "en": "The Emperor Yu sat on the throne and recommended Gaoyao for promotion, transferring also the administration of affairs to him, but Gaoyao died,"
+      },
+      {
+        "ref": "2:187",
+        "zh": "封皋陶之後於英、六，或在許。",
+        "en": "and his descendants were enfeoffed with the principalities of Yingliu and Xu."
+      },
+      {
+        "ref": "2:188",
+        "zh": "而后舉益，任之政。",
+        "en": "The prince then recommended Yi for the appointment of administrator of affairs."
+      },
+      {
+        "ref": "2:189",
+        "zh": "十年，帝禹東巡狩，至于會稽而崩。",
+        "en": "Ten years elapsed, when the Emperor Yu, having gone to the east on a tour of inspection, died at Guiji,"
+      },
+      {
+        "ref": "2:190",
+        "zh": "以天下授益。",
+        "en": "and the rule of the empire was given to Yi."
+      },
+      {
+        "ref": "2:191",
+        "zh": "三年之喪畢，益讓帝禹之子啟，而辟居箕山之陽。",
+        "en": "When the three years' mourning was over, Yi resigned in favour of Yu's son Qi, and retired to the south of Mount Ji."
+      },
+      {
+        "ref": "2:192",
+        "zh": "禹子啟賢，天下屬意焉。",
+        "en": "Yu's son Qi was worthy, and the nation fixed its desires upon him,"
+      },
+      {
+        "ref": "2:193",
+        "zh": "及禹崩，雖授益，益之佐禹日淺，天下未洽。",
+        "en": "but when Yu died, although the rule was given to Yi, he supported Yu but a few days, when the nation not being content"
+      },
+      {
+        "ref": "2:194",
+        "zh": "故諸侯皆去益而朝啟，曰：「吾君帝禹之子也」。",
+        "en": "the princes all left Yi, and went to Qi's court saying, 'He is the son of our sovereign' emperor Yu."
+      },
+      {
+        "ref": "2:195",
+        "zh": "於是啟遂即天子之位，是為夏后帝啟。",
+        "en": "Qi then succeeded to the Imperial throne, and became Emperor Qi, the Prince of Xia."
+      },
+      {
+        "ref": "2:196",
+        "zh": "夏后帝啟，禹之子，其母涂山氏之女也。",
+        "en": "The Prince of Xia, Emperor Qi, was the son of Yu, his mother being the daughter of the lord of Tushan."
+      },
+      {
+        "ref": "2:197",
+        "zh": "有扈氏不服，啟伐之，大戰於甘。",
+        "en": "As the lord of Hu would not submit, Qi attacked him, and there was a great battle at Han."
+      },
+      {
+        "ref": "2:198",
+        "zh": "將戰，作甘誓，乃召六卿申之。",
+        "en": "Just before the engagement the speech at Gan was delivered to the six generals, who were summoned together;"
+      },
+      {
+        "ref": "2:199",
+        "zh": "啟曰：「嗟！六事之人，予誓告女：有扈氏威侮五行，怠棄三正，天用勦絕其命。",
+        "en": "Qi said, 'Ah! ye who are engaged in my six armies, I have a solemn announcement to make to you. The chief of Hu violently sets at naught the five human relations, and idly casts aside the three obligations of duty. Heaven will on this account oppose him and cut off the span of his life,"
+      },
+      {
+        "ref": "2:200",
+        "zh": "今予維共行天之罰。",
+        "en": "and I am now but reverently executing the punishment appointed by Heaven."
+      },
+      {
+        "ref": "2:201",
+        "zh": "左不攻于左，右不攻于右，女不共命。",
+        "en": "If you on the left do not do your work on the left, and you on the right do not do your work on the right, it will be a disregard of my orders."
+      },
+      {
+        "ref": "2:202",
+        "zh": "御非其馬之政，女不共命。",
+        "en": "If you, charioteers, do not observe the rules for the management of your horses, it will be a disregard of my orders."
+      },
+      {
+        "ref": "2:203",
+        "zh": "用命，賞于祖；不用命，僇于社，予則帑僇女。」",
+        "en": "You who obey my orders shall be rewarded in the ancestral temple, but you who disobey my orders shall be slain before the altar of the spirits of the land, and I will destroy both you and your children."
+      },
+      {
+        "ref": "2:204",
+        "zh": "遂滅有扈氏。",
+        "en": "He thereupon destroyed the chief of Hu,"
+      },
+      {
+        "ref": "2:205",
+        "zh": "天下咸朝。",
+        "en": "and the whole nation went to the court of the Prince of Xia."
+      },
+      {
+        "ref": "2:206",
+        "zh": "夏后帝啟崩，子帝太康立。",
+        "en": "Emperor Qi died, and his son Emperor Taikang (Kang the first) came to the throne."
+      },
+      {
+        "ref": "2:207",
+        "zh": "帝太康失國，昆弟五人，須于洛汭，作五子之歌。",
+        "en": "The Emperor Taikang lost his kingdom; his five brothers waited for him on the north of the Luo river, and composed the song of the five sons."
+      },
+      {
+        "ref": "2:208",
+        "zh": "太康崩，弟中康立，是為帝中康。",
+        "en": "Kang the first died, and his brother Kang the second came to the throne, that is the Emperor Kang the second."
+      },
+      {
+        "ref": "2:209",
+        "zh": "帝中康時，羲、和湎淫，廢時亂日。",
+        "en": "In the time of the Emperor Kang the second, Xi and He, indulging in wine and dissipation, neglected the seasons, and let the calendar get into confusion."
+      },
+      {
+        "ref": "2:210",
+        "zh": "胤往征之，作胤征。",
+        "en": "Yin went to punish them, and the 'punitive expedition of Yin' was composed."
+      },
+      {
+        "ref": "2:211",
+        "zh": "中康崩，子帝相立。",
+        "en": "Kang the second died, and his son Emperor Xiang came to the throne."
+      },
+      {
+        "ref": "2:212",
+        "zh": "帝相崩，子帝少康立。",
+        "en": "Emperor Xiang died, and his Son Kang the third came to the throne."
+      },
+      {
+        "ref": "2:213",
+        "zh": "帝少康崩，子帝予立。",
+        "en": "Emperor Kang the third died, and his son Emperor Chu came to the throne."
+      },
+      {
+        "ref": "2:214",
+        "zh": "帝予崩，子帝槐立。",
+        "en": "Emperor Chu died, and his son Emperor Huai came the throne."
+      },
+      {
+        "ref": "2:215",
+        "zh": "帝槐崩，子帝芒立。",
+        "en": "Emperor Huai died, and his Son Emperor Mang came to the throne."
+      },
+      {
+        "ref": "2:216",
+        "zh": "帝芒崩，子帝泄立。",
+        "en": "Emperor Mang died, and his Son Emperor Xie came to the throne."
+      },
+      {
+        "ref": "2:217",
+        "zh": "帝泄崩，子帝不降立。",
+        "en": "Emperor Xie died, and his son Emperor Bujiang came to the throne."
+      },
+      {
+        "ref": "2:218",
+        "zh": "帝不降崩，弟帝扃立。",
+        "en": "Emperor Bujiang died, and his brother Emperor Jiong came to the throne."
+      },
+      {
+        "ref": "2:219",
+        "zh": "帝扃崩，子帝廑立。",
+        "en": "Emperor Jiong died, and his Son Emperor Jin came to the throne."
+      },
+      {
+        "ref": "2:220",
+        "zh": "帝廑崩，立帝不降之子孔甲，是為帝孔甲。",
+        "en": "Emperor Jin died, and Emperor Bujiang's son Kongjia, that is Emperor Kongjia, came to the throne."
+      },
+      {
+        "ref": "2:221",
+        "zh": "帝孔甲立，好方鬼神，事淫亂。",
+        "en": "Emperor Kongjia was fond of enquiring into spiritual matters, and indulged in dissipation,"
+      },
+      {
+        "ref": "2:222",
+        "zh": "夏后氏德衰，諸侯畔之。",
+        "en": "and the virtue of the princes of Xia having degenerated, the chiefs rebelled."
+      },
+      {
+        "ref": "2:223",
+        "zh": "天降龍二，有雌雄，孔甲不能食，未得豢龍氏。",
+        "en": "Heaven sent down two dragons, a male and a female. Kongjia could not feed them, and could not obtain a dragon-keeper."
+      },
+      {
+        "ref": "2:224",
+        "zh": "陶唐既衰，其后有劉累，學擾龍于豢龍氏，以事孔甲。",
+        "en": "After the decline of Taotang (Yao) one of his descendants, Liu Lei, learnt to train dragons, and he was chosen out of the dragon-keepers to wait on Kongjia,"
+      },
+      {
+        "ref": "2:225",
+        "zh": "孔甲賜之姓曰御龍氏，受豕韋之後。",
+        "en": "who gave him the title of dragon-tamer, which was inherited by the descendants of the Shiwei."
+      },
+      {
+        "ref": "2:226",
+        "zh": "龍一雌死，以食夏后。",
+        "en": "The female dragon died, and he served it up as a meal for the Prince of Xia,"
+      },
+      {
+        "ref": "2:227",
+        "zh": "夏后使求，懼而遷去。",
+        "en": "but the latter having sent some one to look for it, he became frightened and ran away."
+      },
+      {
+        "ref": "2:228",
+        "zh": "孔甲崩，子帝皋立。",
+        "en": "Kongjia died, and his son Emperor Gao came to the throne."
+      },
+      {
+        "ref": "2:229",
+        "zh": "帝皋崩，子帝發立。",
+        "en": "Emperor Gao died, and his son Emperor Fa came to the throne."
+      },
+      {
+        "ref": "2:230",
+        "zh": "帝發崩，子帝履癸立，是為桀。",
+        "en": "Emperor Fa died, and his son Emperor Lu Gui, that is Jie, came to the throne."
+      },
+      {
+        "ref": "2:231",
+        "zh": "帝桀之時，自孔甲以來而諸侯多畔夏，桀不務德而武傷百姓，百姓弗堪。",
+        "en": "Regarding the reign of the Emperor Jie, ever since the time of Kongjia the barons had frequently rebelled. Jie of Xia did not strive after virtue, and the wars injured the people. Unable to endure their wrongs"
+      },
+      {
+        "ref": "2:232",
+        "zh": "乃召湯而囚之夏臺，已而釋之。",
+        "en": "they summoned Tang to their aid, but he was imprisoned in the tower of Xia; being afterwards released."
+      },
+      {
+        "ref": "2:233",
+        "zh": "湯修德，諸侯皆歸湯，湯遂率兵以伐夏桀。",
+        "en": "Tang cultivated virtue, and the princes all went over to him, so Tang led an army to attack Jie of Xia."
+      },
+      {
+        "ref": "2:234",
+        "zh": "桀走鳴條，遂放而死。",
+        "en": "Jie fled to Mingtiao, and was eventually driven out and slain."
+      },
+      {
+        "ref": "2:235",
+        "zh": "桀謂人曰：「吾悔不遂殺湯於夏臺，使至此。」",
+        "en": "Jie observed to someone, 'I regret that I did not take the opportunity of killing Tang in the tower of Xia, and then I should not have been brought to such a pass.'"
+      },
+      {
+        "ref": "2:236",
+        "zh": "湯乃踐天子位，代夏朝天下。",
+        "en": "Tang, being seated on the Imperial throne, superseded Xia, and gave audience to the people."
+      },
+      {
+        "ref": "2:237",
+        "zh": "湯封夏之後，至周封於杞也。",
+        "en": "Tang enfeoffed the descendants of the Xias. Until the time of the Zhou dynasty they held the principality of Qi."
+      },
+      {
+        "ref": "2:238",
+        "zh": "太史公曰：禹為姒姓，其後分封，用國為姓，故有夏后氏、有扈氏、有男氏、斟尋氏、彤城氏、褒氏、費氏、杞氏、繒氏、辛氏、冥氏、斟（氏）戈氏。",
+        "en": "[Translation not available]"
+      },
+      {
+        "ref": "2:239",
+        "zh": "孔子正夏時，學者多傳夏小正云。",
+        "en": "[Translation not available]"
+      },
+      {
+        "ref": "2:240",
+        "zh": "自虞、夏時，貢賦備矣。",
+        "en": "[Translation not available]"
+      },
+      {
+        "ref": "2:241",
+        "zh": "或言禹會諸侯江南，計功而崩，因葬焉，命曰會稽。",
+        "en": "[Translation not available]"
+      },
+      {
+        "ref": "2:242",
+        "zh": "會稽者，會計也。",
+        "en": "[Translation not available]"
+      }
+    ]
+  }
+}

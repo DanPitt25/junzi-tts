@@ -1,0 +1,38 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "81",
+    "title": "Chapter 81",
+    "slug": "chapter-81",
+    "passages": [
+      {
+        "ref": "81:1",
+        "zh": "信言不美，美言不信。",
+        "en": "(The manifestation of simplicity) Sincere words are not fine; fine words are not sincere."
+      },
+      {
+        "ref": "81:2",
+        "zh": "善者不辯，辯者不善。",
+        "en": "Those who are skilled (in the Dao) do not dispute (about it); the disputatious are not skilled in it."
+      },
+      {
+        "ref": "81:3",
+        "zh": "知者不博，博者不知。",
+        "en": "Those who know (the Dao) are not extensively learned; the extensively learned do not know it."
+      },
+      {
+        "ref": "81:4",
+        "zh": "聖人不積，既以為人己愈有，既以與人己愈多。",
+        "en": "The sage does not accumulate (for himself). The more that he expends for others, the more does he possess of his own; the more that he gives to others, the more does he have himself."
+      },
+      {
+        "ref": "81:5",
+        "zh": "天之道，利而不害；聖人之道，為而不爭。",
+        "en": "With all the sharpness of the Way of Heaven, it injures not; with all the doing in the way of the sage he does not strive."
+      }
+    ]
+  }
+}

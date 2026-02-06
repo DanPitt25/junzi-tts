@@ -1,0 +1,113 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "36",
+    "title": "Ming Yi",
+    "slug": "ming-yi",
+    "passages": [
+      {
+        "ref": "36:1",
+        "zh": "明夷：利艱貞。",
+        "en": "Ming Yi indicates that (in the circumstances which it denotes) it will be advantageous to realise the difficulty (of the position), and maintain firm correctness."
+      },
+      {
+        "ref": "36:2",
+        "zh": "明入地中，明夷。",
+        "en": "(The symbol of) the Earth and that of Brightness entering into the midst of it give the idea of Ming Yi (Brightness wounded or obscured)."
+      },
+      {
+        "ref": "36:3",
+        "zh": "內文明而外柔順，以蒙大難，文王以之。",
+        "en": "The inner (trigram) denotes being accomplished and bright; the outer, being pliant and submissive. The case of king Wen was that of one who with these qualities was yet involved in great difficulties."
+      },
+      {
+        "ref": "36:4",
+        "zh": "利艱貞，晦其明也，內難而能正其志，箕子以之。",
+        "en": "'It will be advantageous to realise the difficulty (of the position), and maintain firm correctness: - that is, (the individual concerned) should obscure his brightness. The case of the count of Ki was that of one who, amidst the difficulties of his House, was able (thus) to maintain his aim and mind correct."
+      },
+      {
+        "ref": "36:5",
+        "zh": "明入地中，明夷；",
+        "en": "(The trigram representing) the earth and that for the bright (sun) entering within it form Ming Yi."
+      },
+      {
+        "ref": "36:6",
+        "zh": "君子以蒞眾，用晦而明。",
+        "en": "The superior man, in accordance with this, conducts his management of men; - he shows his intelligence by keeping it obscured."
+      },
+      {
+        "ref": "36:7",
+        "zh": "初九：明夷于飛，垂其翼。",
+        "en": "The first NINE, undivided, shows its subject, (in the condition indicated by) Ming Yi, flying, but with drooping wings."
+      },
+      {
+        "ref": "36:8",
+        "zh": "君子于行，三日不食，有攸往，主人有言。",
+        "en": "When the superior man (is revolving) his going away, he may be for three days without eating. Wherever he goes, the people there may speak (derisively of him)."
+      },
+      {
+        "ref": "36:9",
+        "zh": "君子于行，義不食也。",
+        "en": "'The superior man (is revolving his) going away:' - (in such a case) he feels it right not to eat."
+      },
+      {
+        "ref": "36:10",
+        "zh": "六二：明夷，夷于左股，用拯馬壯，吉。",
+        "en": "The second SIX, divided, shows its subject, (in the condition indicated by) Ming Yi, wounded in the left thigh. He saves himself by the strength of a (swift) horse; and is fortunate."
+      },
+      {
+        "ref": "36:11",
+        "zh": "六二之吉，順以則也。",
+        "en": "'The good fortune of (the subject of) the second SIX, divided,' is due to the proper fashion of his acting according to his circumstances."
+      },
+      {
+        "ref": "36:12",
+        "zh": "九三：明夷于南狩，得其大首，不可疾貞。",
+        "en": "The third NINE, undivided, shows its subject, (in the condition indicated by) Ming Yi, hunting in the south, and taking the great chief (of the darkness). He should not be eager to make (all) correct (at once)."
+      },
+      {
+        "ref": "36:13",
+        "zh": "南狩之志，乃大得也。",
+        "en": "With the aim represented by 'hunting in the south' a great achievement is accomplished."
+      },
+      {
+        "ref": "36:14",
+        "zh": "六四：入于左腹，獲明夷之心，出于門庭。",
+        "en": "The fourth six, divided, shows its subject (just) entered into the left side of the belly (of the dark land). (But) he is able to carry out the mind appropriate (in the condition indicated by) Ming Yi, quitting the gate and courtyard (of the lord of darkness)."
+      },
+      {
+        "ref": "36:15",
+        "zh": "入于左腹，獲心意也。",
+        "en": "'He has (just) entered into the left side of the belly (of the dark land):' - he is still able to carry out the idea in his (inner) mind."
+      },
+      {
+        "ref": "36:16",
+        "zh": "六五：箕子之明夷，利貞。",
+        "en": "The fifth six, divided, shows how the count of Ki fulfilled the condition indicated by Ming Yi. It will be advantageous to be firm and correct."
+      },
+      {
+        "ref": "36:17",
+        "zh": "箕子之貞，明不可息也。",
+        "en": "'With the firm correctness of the count of Ki,' his brightness could not be (quite) extinguished."
+      },
+      {
+        "ref": "36:18",
+        "zh": "上六：不明晦，初登于天，後入于地。",
+        "en": "The sixth six, divided, shows the case where there is no light, but (only) obscurity. (Its subject) had at first ascended to (the top of) the sky; his future shall be to go into the earth."
+      },
+      {
+        "ref": "36:19",
+        "zh": "初登于天，照四國也。",
+        "en": "'He had at first ascended to (the top of) the sky:' - he might have enlightened the four quarters of the kingdom."
+      },
+      {
+        "ref": "36:20",
+        "zh": "後入于地，失則也。",
+        "en": "'His future shall be to go into the earth:' - he has failed to fulfil the model (of a ruler)."
+      }
+    ]
+  }
+}

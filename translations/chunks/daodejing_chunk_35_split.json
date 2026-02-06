@@ -1,0 +1,33 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "35",
+    "title": "Chapter 35",
+    "slug": "chapter-35",
+    "passages": [
+      {
+        "ref": "35:1",
+        "zh": "執大象，天下往。",
+        "en": "(The attribute of benevolence) To him who holds in his hands the Great Image (of the invisible Dao), the whole world repairs."
+      },
+      {
+        "ref": "35:2",
+        "zh": "往而不害，安平大。",
+        "en": "Men resort to him, and receive no hurt, but (find) rest, peace, and the feeling of ease."
+      },
+      {
+        "ref": "35:3",
+        "zh": "樂與餌，過客止。",
+        "en": "Music and dainties will make the passing guest stop (for a time)."
+      },
+      {
+        "ref": "35:4",
+        "zh": "道之出口，淡乎其無味，視之不足見，聽之不足聞，用之不足既。",
+        "en": "But though the Dao as it comes from the mouth, seems insipid and has no flavour, though it seems not worth being looked at or listened to, the use of it is inexhaustible."
+      }
+    ]
+  }
+}

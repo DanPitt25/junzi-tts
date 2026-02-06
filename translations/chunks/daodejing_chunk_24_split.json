@@ -1,0 +1,53 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "24",
+    "title": "Chapter 24",
+    "slug": "chapter-24",
+    "passages": [
+      {
+        "ref": "24:1",
+        "zh": "企者不立；",
+        "en": "(Painful graciousness) He who stands on his tiptoes does not stand firm;"
+      },
+      {
+        "ref": "24:2",
+        "zh": "跨者不行；",
+        "en": "he who stretches his legs does not walk (easily)."
+      },
+      {
+        "ref": "24:3",
+        "zh": "自見者不明；",
+        "en": "(So), he who displays himself does not shine;"
+      },
+      {
+        "ref": "24:4",
+        "zh": "自是者不彰；",
+        "en": "he who asserts his own views is not distinguished;"
+      },
+      {
+        "ref": "24:5",
+        "zh": "自伐者無功；",
+        "en": "he who vaunts himself does not find his merit acknowledged;"
+      },
+      {
+        "ref": "24:6",
+        "zh": "自矜者不長。",
+        "en": "he who is self-conceited has no superiority allowed to him."
+      },
+      {
+        "ref": "24:7",
+        "zh": "其在道也，曰：餘食贅行。",
+        "en": "Such conditions, viewed from the standpoint of the Dao, are like remnants of food, or a tumour on the body, which all dislike."
+      },
+      {
+        "ref": "24:8",
+        "zh": "物或惡之，故有道者不處。",
+        "en": "Hence those who pursue (the course) of the Dao do not adopt and allow them."
+      }
+    ]
+  }
+}

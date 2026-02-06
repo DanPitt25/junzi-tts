@@ -1,0 +1,238 @@
+{
+  "id": "analects",
+  "title": "論語",
+  "titleEn": "Analects",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "2",
+    "title": "Wei Zheng",
+    "slug": "wei-zheng",
+    "passages": [
+      {
+        "ref": "2:1",
+        "zh": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+        "en": "The Master said, \"He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.\""
+      },
+      {
+        "ref": "2:2",
+        "zh": "子曰：「詩三百，一言以蔽之，曰『思無邪』。」",
+        "en": "The Master said, \"In the Book of Poetry are three hundred pieces, but the design of them all may be embraced in one sentence - 'Having no depraved thoughts.'\""
+      },
+      {
+        "ref": "2:3",
+        "zh": "子曰：「道之以政，齊之以刑，民免而無恥；",
+        "en": "The Master said, \"If the people be led by laws, and uniformity sought to be given them by punishments, they will try to avoid the punishment, but have no sense of shame."
+      },
+      {
+        "ref": "2:4",
+        "zh": "道之以德，齊之以禮，有恥且格。」",
+        "en": "If they be led by virtue, and uniformity sought to be given them by the rules of propriety, they will have the sense of shame, and moreover will become good.\""
+      },
+      {
+        "ref": "2:5",
+        "zh": "子曰：「吾十有五而志于學，三十而立，四十而不惑，五十而知天命，六十而耳順，七十而從心所欲，不踰矩。」",
+        "en": "The Master said, \"At fifteen, I had my mind bent on learning. At thirty, I stood firm. At forty, I had no doubts. At fifty, I knew the decrees of Heaven. At sixty, my ear was an obedient organ for the reception of truth. At seventy, I could follow what my heart desired, without transgressing what was right.\""
+      },
+      {
+        "ref": "2:6",
+        "zh": "孟懿子問孝。子曰：「無違。」",
+        "en": "Meng Yi asked what filial piety was. The Master said, \"It is not being disobedient.\""
+      },
+      {
+        "ref": "2:7",
+        "zh": "樊遲御，子告之曰：「孟孫問孝於我，我對曰『無違』。」",
+        "en": "Soon after, as Fan Chi was driving him, the Master told him, saying, \"Meng-sun asked me what filial piety was, and I answered him, - 'not being disobedient.'\""
+      },
+      {
+        "ref": "2:8",
+        "zh": "樊遲曰：「何謂也？」",
+        "en": "Fan Chi said, \"What did you mean?\""
+      },
+      {
+        "ref": "2:9",
+        "zh": "子曰：「生事之以禮；死葬之以禮，祭之以禮。」",
+        "en": "The Master replied, \"That parents, when alive, be served according to propriety; that, when dead, they should be buried according to propriety; and that they should be sacrificed to according to propriety.\""
+      },
+      {
+        "ref": "2:10",
+        "zh": "孟武伯問孝。子曰：「父母唯其疾之憂。」",
+        "en": "Meng Wu asked what filial piety was. The Master said, \"Parents are anxious lest their children should be sick.\""
+      },
+      {
+        "ref": "2:11",
+        "zh": "子游問孝。子曰：「今之孝者，是謂能養。",
+        "en": "Zi You asked what filial piety was. The Master said, \"The filial piety nowadays means the support of one's parents."
+      },
+      {
+        "ref": "2:12",
+        "zh": "至於犬馬，皆能有養；",
+        "en": "But dogs and horses likewise are able to do something in the way of support;"
+      },
+      {
+        "ref": "2:13",
+        "zh": "不敬，何以別乎？」",
+        "en": "without reverence, what is there to distinguish the one support given from the other?\""
+      },
+      {
+        "ref": "2:14",
+        "zh": "子夏問孝。子曰：「色難。",
+        "en": "Zi Xia asked what filial piety was. The Master said, \"The difficulty is with the countenance."
+      },
+      {
+        "ref": "2:15",
+        "zh": "有事弟子服其勞，有酒食先生饌，曾是以為孝乎？」",
+        "en": "If, when their elders have any troublesome affairs, the young take the toil of them, and if, when the young have wine and food, they set them before their elders, is THIS to be considered filial piety?\""
+      },
+      {
+        "ref": "2:16",
+        "zh": "子曰：「吾與回言終日，不違如愚。",
+        "en": "The Master said, \"I have talked with Hui for a whole day, and he has not made any objection to anything I said - as if he were stupid."
+      },
+      {
+        "ref": "2:17",
+        "zh": "退而省其私，亦足以發。",
+        "en": "He has retired, and I have examined his conduct when away from me, and found him able to illustrate my teachings."
+      },
+      {
+        "ref": "2:18",
+        "zh": "回也，不愚。」",
+        "en": "Hui! - He is not stupid.\""
+      },
+      {
+        "ref": "2:19",
+        "zh": "子曰：「視其所以，觀其所由，察其所安。",
+        "en": "The Master said, \"See what a man does. Mark his motives. Examine in what things he rests."
+      },
+      {
+        "ref": "2:20",
+        "zh": "人焉廋哉？人焉廋哉？」",
+        "en": "How can a man conceal his character? How can a man conceal his character?\""
+      },
+      {
+        "ref": "2:21",
+        "zh": "子曰：「溫故而知新，可以為師矣。」",
+        "en": "The Master said, \"If a man keeps cherishing his old knowledge, so as continually to be acquiring new, he may be a teacher of others.\""
+      },
+      {
+        "ref": "2:22",
+        "zh": "子曰：「君子不器。」",
+        "en": "The Master said, \"The accomplished scholar is not a utensil.\""
+      },
+      {
+        "ref": "2:23",
+        "zh": "子貢問君子。子曰：「先行其言，而後從之。」",
+        "en": "Zi Gong asked what constituted the superior man. The Master said, \"He acts before he speaks, and afterwards speaks according to his actions.\""
+      },
+      {
+        "ref": "2:24",
+        "zh": "子曰：「君子周而不比，小人比而不周。」",
+        "en": "The Master said, \"The superior man is catholic and not partisan. The mean man is partisan and not catholic.\""
+      },
+      {
+        "ref": "2:25",
+        "zh": "子曰：「學而不思則罔，思而不學則殆。」",
+        "en": "The Master said, \"Learning without thought is labor lost; thought without learning is perilous.\""
+      },
+      {
+        "ref": "2:26",
+        "zh": "子曰：「攻乎異端，斯害也已！」",
+        "en": "The Master said, \"The study of strange doctrines is injurious indeed!\""
+      },
+      {
+        "ref": "2:27",
+        "zh": "子曰：「由！誨女知之乎？",
+        "en": "The Master said, \"You, shall I teach you what knowledge is?"
+      },
+      {
+        "ref": "2:28",
+        "zh": "知之為知之，不知為不知，是知也。」",
+        "en": "When you know a thing, to hold that you know it; and when you do not know a thing, to allow that you do not know it - this is knowledge.\""
+      },
+      {
+        "ref": "2:29",
+        "zh": "子張學干祿。子曰：「多聞闕疑，慎言其餘，則寡尤；",
+        "en": "Zi Zhang was learning with a view to official emolument. The Master said, \"Hear much and put aside the points of which you stand in doubt, while you speak cautiously at the same time of the others - then you will afford few occasions for blame."
+      },
+      {
+        "ref": "2:30",
+        "zh": "多見闕殆，慎行其餘，則寡悔。",
+        "en": "See much and put aside the things which seem perilous, while you are cautious at the same time in carrying the others into practice - then you will have few occasions for repentance."
+      },
+      {
+        "ref": "2:31",
+        "zh": "言寡尤，行寡悔，祿在其中矣。」",
+        "en": "When one gives few occasions for blame in his words, and few occasions for repentance in his conduct, he is in the way to get emolument.\""
+      },
+      {
+        "ref": "2:32",
+        "zh": "哀公問曰：「何為則民服？」",
+        "en": "The Duke Ai asked, saying, \"What should be done in order to secure the submission of the people?\""
+      },
+      {
+        "ref": "2:33",
+        "zh": "孔子對曰：「舉直錯諸枉，則民服；舉枉錯諸直，則民不服。」",
+        "en": "Confucius replied, \"Advance the upright and set aside the crooked, then the people will submit. Advance the crooked and set aside the upright, then the people will not submit.\""
+      },
+      {
+        "ref": "2:34",
+        "zh": "季康子問：「使民敬、忠以勸，如之何？」",
+        "en": "Ji Kang asked how to cause the people to reverence their ruler, to be faithful to him, and to go on to nerve themselves to virtue."
+      },
+      {
+        "ref": "2:35",
+        "zh": "子曰：「臨之以莊則敬，孝慈則忠，舉善而教不能，則勸。」",
+        "en": "The Master said, \"Let him preside over them with gravity; then they will reverence him. Let him be final and kind to all; then they will be faithful to him. Let him advance the good and teach the incompetent; then they will eagerly seek to be virtuous.\""
+      },
+      {
+        "ref": "2:36",
+        "zh": "或謂孔子曰：「子奚不為政？」",
+        "en": "Some one addressed Confucius, saying, \"Sir, why are you not engaged in the government?\""
+      },
+      {
+        "ref": "2:37",
+        "zh": "子曰：「《書》云：『孝乎惟孝、友于兄弟，施於有政。』是亦為政，奚其為為政？」",
+        "en": "The Master said, \"What does the Shu Jing say of filial piety? - 'You are filial, you discharge your brotherly duties. These qualities are displayed in government.' This then also constitutes the exercise of government. Why must there be THAT - making one be in the government?\""
+      },
+      {
+        "ref": "2:38",
+        "zh": "子曰：「人而無信，不知其可也。",
+        "en": "The Master said, \"I do not know how a man without truthfulness is to get on."
+      },
+      {
+        "ref": "2:39",
+        "zh": "大車無輗，小車無軏，其何以行之哉？」",
+        "en": "How can a large carriage be made to go without the crossbar for yoking the oxen to, or a small carriage without the arrangement for yoking the horses?\""
+      },
+      {
+        "ref": "2:40",
+        "zh": "子張問：「十世可知也？」",
+        "en": "Zi Zhang asked whether the affairs of ten ages after could be known."
+      },
+      {
+        "ref": "2:41",
+        "zh": "子曰：「殷因於夏禮，所損益，可知也；",
+        "en": "Confucius said, \"The Yin dynasty followed the regulations of the Xia; wherein it took from or added to them may be known."
+      },
+      {
+        "ref": "2:42",
+        "zh": "周因於殷禮，所損益，可知也；",
+        "en": "The Zhou dynasty has followed the regulations of Yin; wherein it took from or added to them may be known."
+      },
+      {
+        "ref": "2:43",
+        "zh": "其或繼周者，雖百世可知也。」",
+        "en": "Some other may follow the Zhou, but though it should be at the distance of a hundred ages, its affairs may be known.\""
+      },
+      {
+        "ref": "2:44",
+        "zh": "子曰：「非其鬼而祭之，諂也。",
+        "en": "The Master said, \"For a man to sacrifice to a spirit which does not belong to him is flattery."
+      },
+      {
+        "ref": "2:45",
+        "zh": "見義不為，無勇也。」",
+        "en": "To see what is right and not to do it is want of courage.\""
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "id": "analects",
+  "title": "論語",
+  "titleEn": "Analects",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "18",
+    "title": "Wei Zi",
+    "slug": "wei-zi",
+    "passages": [
+      {
+        "ref": "18:1",
+        "zh": "微子去之，箕子為之奴，比干諫而死。",
+        "en": "The Viscount of Wei withdrew from the court. The Viscount of Ji became a slave to Zhou. Bi Gan remonstrated with him and died."
+      },
+      {
+        "ref": "18:2",
+        "zh": "孔子曰：「殷有三仁焉。」",
+        "en": "Confucius said, \"The Yin dynasty possessed these three men of virtue.\""
+      },
+      {
+        "ref": "18:3",
+        "zh": "柳下惠為士師，三黜。",
+        "en": "Hui of Liu Xia, being chief criminal judge, was thrice dismissed from his office."
+      },
+      {
+        "ref": "18:4",
+        "zh": "人曰：「子未可以去乎？」",
+        "en": "Some one said to him, \"Is it not yet time for you, sir, to leave this?\""
+      },
+      {
+        "ref": "18:5",
+        "zh": "曰：「直道而事人，焉往而不三黜？",
+        "en": "He replied, \"Serving men in an upright way, where shall I go to, and not experience such a thrice-repeated dismissal?"
+      },
+      {
+        "ref": "18:6",
+        "zh": "枉道而事人，何必去父母之邦。」",
+        "en": "If I choose to serve men in a crooked way, what necessity is there for me to leave the country of my parents?\""
+      },
+      {
+        "ref": "18:7",
+        "zh": "齊景公待孔子，曰：「若季氏則吾不能，以季、孟之閒待之。」",
+        "en": "The duke Jing of Qi, with reference to the manner in which he should treat Confucius, said, \"I cannot treat him as I would the chief of the Ji family. I will treat him in a manner between that accorded to the chief of the Ji, and that given to the chief of the Meng family.\""
+      },
+      {
+        "ref": "18:8",
+        "zh": "曰：「吾老矣，不能用也。」",
+        "en": "He also said, \"I am old; I cannot use his doctrines.\""
+      },
+      {
+        "ref": "18:9",
+        "zh": "孔子行。",
+        "en": "Confucius took his departure."
+      },
+      {
+        "ref": "18:10",
+        "zh": "齊人歸女樂，季桓子受之。",
+        "en": "The people of Qi sent to Lu a present of female musicians, which Ji Huan received,"
+      },
+      {
+        "ref": "18:11",
+        "zh": "三日不朝，孔子行。",
+        "en": "and for three days no court was held. Confucius took his departure."
+      },
+      {
+        "ref": "18:12",
+        "zh": "楚狂接輿歌而過孔子曰：「鳳兮！鳳兮！何德之衰？",
+        "en": "The madman of Chu, Jie Yu, passed by Confucius, singing and saying, \"O Feng! O Feng! How is your virtue degenerated!"
+      },
+      {
+        "ref": "18:13",
+        "zh": "往者不可諫，來者猶可追。",
+        "en": "As to the past, reproof is useless; but the future may still be provided against."
+      },
+      {
+        "ref": "18:14",
+        "zh": "已而，已而！今之從政者殆而！」",
+        "en": "Give up your vain pursuit. Give up your vain pursuit. Peril awaits those who now engage in affairs of government.\""
+      },
+      {
+        "ref": "18:15",
+        "zh": "孔子下，欲與之言。",
+        "en": "Confucius alighted and wished to converse with him,"
+      },
+      {
+        "ref": "18:16",
+        "zh": "趨而辟之，不得與之言。",
+        "en": "but Jie Yu hastened away, so that he could not talk with him."
+      },
+      {
+        "ref": "18:17",
+        "zh": "長沮、桀溺耦而耕，孔子過之，使子路問津焉。",
+        "en": "Chang Zu and Jie Ni were at work in the field together, when Confucius passed by them, and sent Zi Lu to inquire for the ford."
+      },
+      {
+        "ref": "18:18",
+        "zh": "長沮曰：「夫執輿者為誰？」",
+        "en": "Chang Zu said, \"Who is he that holds the reins in the carriage there?\""
+      },
+      {
+        "ref": "18:19",
+        "zh": "子路曰：「為孔丘。」",
+        "en": "Zi Lu told him, \"It is Kong Qiu.\""
+      },
+      {
+        "ref": "18:20",
+        "zh": "曰：「是魯孔丘與？」",
+        "en": "\"Is it not Kong Qiu of Lu?\" asked he."
+      },
+      {
+        "ref": "18:21",
+        "zh": "曰：「是也。」",
+        "en": "\"Yes,\" was the reply,"
+      },
+      {
+        "ref": "18:22",
+        "zh": "曰：「是知津矣。」",
+        "en": "to which the other rejoined, \"He knows the ford.\""
+      },
+      {
+        "ref": "18:23",
+        "zh": "問於桀溺，桀溺曰：「子為誰？」",
+        "en": "Zi Lu then inquired of Jie Ni, who said to him, \"Who are you, sir?\""
+      },
+      {
+        "ref": "18:24",
+        "zh": "曰：「為仲由。」",
+        "en": "He answered, \"I am Zhong You.\""
+      },
+      {
+        "ref": "18:25",
+        "zh": "曰：「是魯孔丘之徒與？」",
+        "en": "\"Are you not the disciple of Kong Qiu of Lu?\" asked the other."
+      },
+      {
+        "ref": "18:26",
+        "zh": "對曰：「然。」",
+        "en": "\"I am,\" replied he,"
+      },
+      {
+        "ref": "18:27",
+        "zh": "曰：「滔滔者天下皆是也，而誰以易之？",
+        "en": "and then Jie Ni said to him, \"Disorder, like a swelling flood, spreads over the whole empire, and who is he that will change its state for you?"
+      },
+      {
+        "ref": "18:28",
+        "zh": "且而與其從辟人之士也，豈若從辟世之士哉？」",
+        "en": "Rather than follow one who merely withdraws from this one and that one, had you not better follow those who have withdrawn from the world altogether?\""
+      },
+      {
+        "ref": "18:29",
+        "zh": "耰而不輟。",
+        "en": "With this he fell to covering up the seed, and proceeded with his work, without stopping."
+      },
+      {
+        "ref": "18:30",
+        "zh": "子路行以告。",
+        "en": "Zi Lu went and reported their remarks,"
+      },
+      {
+        "ref": "18:31",
+        "zh": "夫子憮然曰：「鳥獸不可與同群，吾非斯人之徒與而誰與？",
+        "en": "when the Master observed with a sigh, \"It is impossible to associate with birds and beasts, as if they were the same with us. If I associate not with these people - with mankind - with whom shall I associate?"
+      },
+      {
+        "ref": "18:32",
+        "zh": "天下有道，丘不與易也。」",
+        "en": "If right principles prevailed through the empire, there would be no use for me to change its state.\""
+      },
+      {
+        "ref": "18:33",
+        "zh": "子路從而後，遇丈人，以杖荷蓧。",
+        "en": "Zi Lu, following the Master, happened to fall behind, when he met an old man, carrying across his shoulder on a staff a basket for weeds."
+      },
+      {
+        "ref": "18:34",
+        "zh": "子路問曰：「子見夫子乎？」",
+        "en": "Zi Lu said to him, \"Have you seen my master, sir?\""
+      },
+      {
+        "ref": "18:35",
+        "zh": "丈人曰：「四體不勤，五穀不分。孰為夫子？」",
+        "en": "The old man replied, \"Your four limbs are unaccustomed to toil; you cannot distinguish the five kinds of grain - who is your master?\""
+      },
+      {
+        "ref": "18:36",
+        "zh": "植其杖而芸。",
+        "en": "With this, he planted his staff in the ground, and proceeded to weed."
+      },
+      {
+        "ref": "18:37",
+        "zh": "子路拱而立。",
+        "en": "Zi Lu joined his hands across his breast, and stood before him."
+      },
+      {
+        "ref": "18:38",
+        "zh": "止子路宿，殺雞為黍而食之，見其二子焉。",
+        "en": "The old man kept Zi Lu to pass the night in his house, killed a fowl, prepared millet, and feasted him. He also introduced to him his two sons."
+      },
+      {
+        "ref": "18:39",
+        "zh": "明日，子路行以告。",
+        "en": "Next day, Zi Lu went on his way, and reported his adventure."
+      },
+      {
+        "ref": "18:40",
+        "zh": "子曰：「隱者也。」",
+        "en": "The Master said, \"He is a recluse,\""
+      },
+      {
+        "ref": "18:41",
+        "zh": "使子路反見之。",
+        "en": "and sent Zi Lu back to see him again,"
+      },
+      {
+        "ref": "18:42",
+        "zh": "至則行矣。",
+        "en": "but when he got to the place, the old man was gone."
+      },
+      {
+        "ref": "18:43",
+        "zh": "子路曰：「不仕無義。",
+        "en": "Zi Lu then said to the family, \"Not to take office is not righteous."
+      },
+      {
+        "ref": "18:44",
+        "zh": "長幼之節，不可廢也；君臣之義，如之何其廢之？",
+        "en": "If the relations between old and young may not be neglected, how is it that he sets aside the duties that should be observed between sovereign and minister?"
+      },
+      {
+        "ref": "18:45",
+        "zh": "欲潔其身，而亂大倫。",
+        "en": "Wishing to maintain his personal purity, he allows that great relation to come to confusion."
+      },
+      {
+        "ref": "18:46",
+        "zh": "君子之仕也，行其義也。",
+        "en": "A superior man takes office, and performs the righteous duties belonging to it."
+      },
+      {
+        "ref": "18:47",
+        "zh": "道之不行，已知之矣。」",
+        "en": "As to the failure of right principles to make progress, he is aware of that.\""
+      },
+      {
+        "ref": "18:48",
+        "zh": "逸民：伯夷、叔齊、虞仲、夷逸、朱張、柳下惠、少連。",
+        "en": "The men who have retired to privacy from the world have been Bo Yi, Shu Qi, Yu Zhong, Yi Yi, Zhu Zhang, Hui of Liu Xia, and Shao Lian."
+      },
+      {
+        "ref": "18:49",
+        "zh": "子曰：「不降其志，不辱其身，伯夷、叔齊與！」",
+        "en": "The Master said, \"Refusing to surrender their wills, or to submit to any taint in their persons - such, I think, were Bo Yi and Shu Qi.\""
+      },
+      {
+        "ref": "18:50",
+        "zh": "謂：「柳下惠、少連，降志辱身矣。",
+        "en": "\"It may be said of Hui of Liu Xia, and of Shao Lian, that they surrendered their wills, and submitted to taint in their persons,"
+      },
+      {
+        "ref": "18:51",
+        "zh": "言中倫，行中慮，其斯而已矣。」",
+        "en": "but their words corresponded with reason, and their actions were such as men are anxious to see. This is all that is to be remarked in them.\""
+      },
+      {
+        "ref": "18:52",
+        "zh": "謂：「虞仲、夷逸，隱居放言。",
+        "en": "\"It may be said of Yu Zhong and Yi Yi, that, while they hid themselves in their seclusion, they gave a license to their words;"
+      },
+      {
+        "ref": "18:53",
+        "zh": "身中清，廢中權。」",
+        "en": "but in their persons, they succeeded in preserving their purity, and, in their retirement, they acted according to the exigency of the times.\""
+      },
+      {
+        "ref": "18:54",
+        "zh": "「我則異於是，無可無不可。」",
+        "en": "\"I am different from all these. I have no course for which I am predetermined, and no course against which I am predetermined.\""
+      },
+      {
+        "ref": "18:55",
+        "zh": "大師摯適齊，亞飯干適楚，三飯繚適蔡，四飯缺適秦。",
+        "en": "The grand music master, Zhi, went to Qi. Gan, the master of the band at the second meal, went to Chu. Liao, the band master at the third meal, went to Cai. Que, the band master at the fourth meal, went to Qin."
+      },
+      {
+        "ref": "18:56",
+        "zh": "鼓方叔入於河，播鼗武入於漢，少師陽、擊磬襄，入於海。",
+        "en": "Fang Shu, the drum master, withdrew to the north of the river. Wu, the master of the hand drum, withdrew to the Han. Yang, the assistant music master, and Xiang, master of the musical stone, withdrew to an island in the sea."
+      },
+      {
+        "ref": "18:57",
+        "zh": "周公謂魯公曰：「君子不施其親，不使大臣怨乎不以。",
+        "en": "The duke of Zhou addressed his son, the duke of Lu, saying, \"The virtuous prince does not neglect his relations. He does not cause the great ministers to repine at his not employing them."
+      },
+      {
+        "ref": "18:58",
+        "zh": "故舊無大故，則不棄也。",
+        "en": "Without some great cause, he does not dismiss from their offices the members of old families."
+      },
+      {
+        "ref": "18:59",
+        "zh": "無求備於一人。」",
+        "en": "He does not seek in one man talents for every employment.\""
+      },
+      {
+        "ref": "18:60",
+        "zh": "周有八士：伯達、伯適、仲突、仲忽、叔夜、叔夏、季隨、季騧。",
+        "en": "To Zhou belonged the eight officers, Bo Da, Bo Kuo, Zhong Tu, Zhong Hu, Shu Ye, Shu Xia, Ji Sui, and Ji Gua."
+      }
+    ]
+  }
+}

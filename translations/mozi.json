@@ -1,0 +1,924 @@
+{
+  "id": "mozi",
+  "title": "墨子",
+  "titleEn": "Mozi",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapters": [
+    {
+      "number": "39",
+      "title": "Geng Zhu",
+      "slug": "geng-zhu",
+      "passages": [
+        {
+          "ref": "39:1",
+          "zh": "子墨子怒耕柱子，耕柱子曰：「我毋俞於人乎？」",
+          "en": "Mozi was angry with Geng Zhuzi. Geng Zhuzi said: Am I not at all better than others?"
+        },
+        {
+          "ref": "39:2",
+          "zh": "子墨子曰：「我將上大行，駕驥與羊，子將誰敺？」",
+          "en": "Mozi said: Suppose I am starting out for Tai Hang. And a horse and an ox are to pull my cart. Which of them would you urge?"
+        },
+        {
+          "ref": "39:3",
+          "zh": "耕柱子曰：「將敺驥也。」",
+          "en": "Geng Zhuzi said: \"I would urge the horse.\""
+        },
+        {
+          "ref": "39:4",
+          "zh": "子墨子曰：「何故敺驥也？」",
+          "en": "Mozi asked: Why urge the horse?"
+        },
+        {
+          "ref": "39:5",
+          "zh": "耕柱子曰：「驥足以責。」",
+          "en": "Geng Zhuzi said: \"Because the horse is capable (of better speed).\""
+        },
+        {
+          "ref": "39:6",
+          "zh": "子墨子曰：「我亦以子為足以責。」",
+          "en": "Mozi said: I also think you are capable (of better things)."
+        },
+        {
+          "ref": "39:7",
+          "zh": "巫馬子謂子墨子曰：「鬼神孰與聖人明智？」",
+          "en": "Wu Mazi questioned Mozi: \"Which are wiser, the ghosts and spirits or the sages?\""
+        },
+        {
+          "ref": "39:8",
+          "zh": "子墨子曰：「鬼神之明智於聖人，猶聰耳明目之與聾瞽也。",
+          "en": "Mozi said: The ghosts and spirits are wiser than the sages by as much as the sharp-eared and keen-sighted surpass the deaf and blind."
+        },
+        {
+          "ref": "39:9",
+          "zh": "昔者夏后開使蜚廉折金於山川，而陶鑄之於昆吾；是使翁難雉乙卜於白若之龜，曰：『鼎成三足而方』，不炊而自烹，不舉而自臧，不遷而自行，以祭於昆吾之虛，上鄉」！",
+          "en": "In ancient times, Emperor Qi of Xia commissioned Fei Lian to dig minerals in mountains and rivers and cast dings at Kun Wu. He ordered Yi to kill the pheasant to invoke the tortoise of Boruo, saying: \"Let the dings, when completed, be four-legged. Let them be able to cook automatically, without fire, to hide themselves without being lifted, and to move themselves without being carried. So that they may be used for the sacrifice at Kun Wu. May our offering be accepted!\""
+        },
+        {
+          "ref": "39:10",
+          "zh": "乙又言兆之由曰：『饗矣！逢逢白雲，一南一北，一西一東，九鼎既成，遷於三國。』",
+          "en": "Then the oracle was interpreted as saying: \"I have accepted the offering. Profuse are the white clouds: one to the south, one to the north, one to the west, one to the east. When the nine dings have been completed, they shall be given over to three empires.\""
+        },
+        {
+          "ref": "39:11",
+          "zh": "夏后氏失之，殷人受之；殷人失之，周人受之。夏后、殷、周之相受也。數百歲矣。",
+          "en": "\"When the emperor of Xia loses them the man of Yin will possess them; when the man of Yin loses them the man of Zhou will possess them.\" Now the transfer from the emperor of Xia to Yin and Zhou took many centuries."
+        },
+        {
+          "ref": "39:12",
+          "zh": "使聖人聚其良臣與其桀相而謀，豈能智數百歲之後哉！而鬼神智之。",
+          "en": "Even if the sage planned in counsel with his excellent ministers and superior assistants, could he foresee what would happen after many centuries? Yet the ghosts and spirits can."
+        },
+        {
+          "ref": "39:13",
+          "zh": "是故曰，鬼神之明智於聖人也，猶聰耳明目之與聾瞽也。」",
+          "en": "Therefore we say, the ghosts and spirits are wiser than the sages by as much as the sharp-eared and keen-sighted are than the deaf and blind."
+        },
+        {
+          "ref": "39:14",
+          "zh": "治徒娛、縣子碩問於子墨子曰：「為義孰為大務？」",
+          "en": "Zhi Tu Yu and Xian Zi Shuo asked Mozi: \"What is the greatest righteousness in conduct?\""
+        },
+        {
+          "ref": "39:15",
+          "zh": "子墨子曰：「譬若築牆然，能築者築，能實壤者實壤，能欣者欣，然後牆成也。",
+          "en": "Mozi said: It is like the building of a wall. Let those who can lay the bricks lay the bricks, let those who can fill in the mortar fill in the mortar, and let those who can carry up the material carry up the material. Then the wall can be completed."
+        },
+        {
+          "ref": "39:16",
+          "zh": "為義猶是也。能談辯者談辯，能說書者說書，能從事者從事，然後義事成也。」",
+          "en": "To do righteousness is just like this. Let those who can argue argue, let those who can expound the doctrines expound the doctrines, and let those who can administer, administer. Then righteousness is achieved."
+        },
+        {
+          "ref": "39:17",
+          "zh": "巫馬子謂子墨子曰：「子兼愛天下，未云利也；我不愛天下，未云賊也。功皆未至，子何獨自是而非我哉？」",
+          "en": "Wu Mazi said to Mozi: \"Though you love universally the world cannot be said to be benefited; though I do not love (universally) the world cannot be said to be injured. Since neither of us has accomplished anything, what makes you then praise yourself and blame me?\""
+        },
+        {
+          "ref": "39:18",
+          "zh": "子墨子曰：「今有燎者於此，一人奉水將灌之，一人摻火將益之，功皆未至，子何貴於二人？」",
+          "en": "Mozi answered: Suppose a conflagration is on. One person is fetching water to extinguish it, and another is holding some fuel to reinforce it. Neither of them has yet accomplished anything, but which one do you value?"
+        },
+        {
+          "ref": "39:19",
+          "zh": "巫馬子曰：「我是彼奉水者之意，而非夫摻火者之意。」",
+          "en": "Wu Mazi answered that he approved of the intention of the person who fetches water and disapproved of the intention of the person who holds fuel."
+        },
+        {
+          "ref": "39:20",
+          "zh": "子墨子曰：「吾亦是吾意，而非子之意也。」",
+          "en": "Mozi said: (In the same manner) do I approve of my intention and disapprove of yours."
+        },
+        {
+          "ref": "39:21",
+          "zh": "子墨子游荊耕柱子於楚，二三子過之，食之三升，客之不厚。",
+          "en": "Mozi had recommended Geng Zhuzi to Chu. Some (other) pupils visited him. They were given only three sheng (of grain) each meal and were not generously entertained."
+        },
+        {
+          "ref": "39:22",
+          "zh": "二三子復於子墨子曰：「耕柱子處楚無益矣。二三子過之，食之三升，客之不厚。」",
+          "en": "The pupils returned and reported to Mozi, saying: \"Geng Zhuzi is not profited by serving Chu. When we visited him, we were given only three sheng each meal and were not generously entertained.\""
+        },
+        {
+          "ref": "39:23",
+          "zh": "子墨子曰：「未可智也。」",
+          "en": "Mozi said: You cannot tell."
+        },
+        {
+          "ref": "39:24",
+          "zh": "毋幾何而遺十金於子墨子，曰：「後生不敢死，有十金於此，願夫子之用也。」",
+          "en": "Shortly after, (Geng Zhuzi) sent Mozi ten jin of silver, saying: \"Your junior disciple who dare not die sends herewith ten jin, which I hope you will use.\""
+        },
+        {
+          "ref": "39:25",
+          "zh": "子墨子曰：「果未可智也。」",
+          "en": "Mozi said: So, indeed, we cannot tell."
+        },
+        {
+          "ref": "39:26",
+          "zh": "巫馬子謂子墨子曰：「子之為義也，人不見而助，鬼不見而富，而子為之，有狂疾！」",
+          "en": "Wu Mazi said to Mozi: \"For all the righteousness that you do, men do not help you and ghosts do not bless you. Yet you keep on doing it. You must be demented.\""
+        },
+        {
+          "ref": "39:27",
+          "zh": "子墨子曰：「今使子有二臣於此，其一人者見子從事，不見子則不從事；其一人者見子亦從事，不見子亦從事，子誰貴於此二人？」",
+          "en": "Mozi said: Suppose you have here two employees. One of them works when he sees you but will not work when he does not see you. The other one works whether he sees you or not. Which of the two would you value?"
+        },
+        {
+          "ref": "39:28",
+          "zh": "巫馬子曰：「我貴其見我亦從事，不見我亦從事者。」",
+          "en": "Wu Mazi said that he would value him that worked whether he saw him or not."
+        },
+        {
+          "ref": "39:29",
+          "zh": "子墨子曰：「然則，是子亦貴有狂疾也。」",
+          "en": "Mozi then said: Then you are valuing him who is demented."
+        },
+        {
+          "ref": "39:30",
+          "zh": "子夏子徒問於子墨子曰：「君子有鬥乎？」",
+          "en": "A pupil of Zi Xia asked Mozi whether there could be any struggle among the superior men."
+        },
+        {
+          "ref": "39:31",
+          "zh": "子墨子曰：「君子無鬥。」",
+          "en": "Mozi said: The superior men do not struggle."
+        },
+        {
+          "ref": "39:32",
+          "zh": "子夏之徒曰：「狗豨猶有鬥，惡有士而無鬥矣？」",
+          "en": "The pupil of Zi Xia said: \"There is struggle even among the dogs and hogs, how can there be no struggle among men?\""
+        },
+        {
+          "ref": "39:33",
+          "zh": "子墨子曰：「傷矣哉！言則稱於湯文，行則譬於狗豨，傷矣哉！」",
+          "en": "Mozi said: What a shame! Tang and Wu are praised with words; but dogs and hogs are brought into comparison in conduct. What a shame!"
+        },
+        {
+          "ref": "39:34",
+          "zh": "巫馬子謂子墨子曰：「舍今之人而譽先王，是譽槁骨也。譬若匠人然，智槁木也，而不智生木。」",
+          "en": "Wu Mazi criticized Mozi, saying: \"To leave contemporaries alone and to praise the early kings is to praise rotten bones. It is like the carpenter who knows only the decaying lumber but not the living tree.\""
+        },
+        {
+          "ref": "39:35",
+          "zh": "子墨子曰：「天下之所以生者，以先王之道教也。今譽先王，是譽天下之所以生也。可譽而不譽，非仁也。」",
+          "en": "Mozi: Now the world lives because of the instructions of the early kings. And to praise the early kings is to praise the source of life to the world. Not to praise what should be praised is not magnanimous."
+        },
+        {
+          "ref": "39:36",
+          "zh": "子墨子曰：「和氏之璧，隋侯之珠，三棘六異，此諸侯之所謂良寶也。可以富國家，眾人民，治刑政，安社稷乎？曰不可。",
+          "en": "Mozi said: The jade of He, the pearl of Duke Sui, and the nine dings - these are what the feudal lords value as excellent treasures. Can they enrich the country, multiply the people, put the government in order, and place the state in safety? Of course they cannot."
+        },
+        {
+          "ref": "39:37",
+          "zh": "所謂貴良寶者，為其可以利也。而和氏之璧、隋侯之珠、三棘六異不可以利人，是非天下之良寶也。",
+          "en": "Excellent treasures are to be valued for their efficacy. Now since the jade of He, the pearl of Duke Sui, and the nine dings cannot benefit men, then they are not the excellent treasures in the world."
+        },
+        {
+          "ref": "39:38",
+          "zh": "今用義為政於國家，人民必眾，刑政必治，社稷必安。所為貴良寶者，可以利民也，而義可以利人，故曰，義天下之良寶也。」",
+          "en": "On the other hand, if righteousness is employed in the government of the state the population will be increased, the government will be in order, and the state will be secure. The excellent treasures are to be valued for their efficacy. Now righteousness can benefit men. So then righteousness is the excellent treasure of the world."
+        },
+        {
+          "ref": "39:39",
+          "zh": "葉公子高問政於仲尼曰：「善為政者若之何？」",
+          "en": "Lord Zi Gao of She asked Zhongni about government, saying: \"What is a good governor like?\""
+        },
+        {
+          "ref": "39:40",
+          "zh": "仲尼對曰：「善為政者，遠者近之，而舊者新之。」",
+          "en": "Zhongni answered him that the good governor will attract those who are distant and renew old friendships."
+        },
+        {
+          "ref": "39:41",
+          "zh": "子墨子聞之曰：「葉公子高未得其問也，仲尼亦未得其所以對也。",
+          "en": "Mozi heard of it and commented: Lord Zi Gao of She did not put the question right, neither did Zhongni give the right answer."
+        },
+        {
+          "ref": "39:42",
+          "zh": "葉公子高豈不知善為政者之遠者近也，而舊者新是哉？問所以為之若之何也。",
+          "en": "For, did not Lord Zi Gao of She understand, to be a good governor is to attract the distant and to renew the old friendships? The question was really how to do this."
+        },
+        {
+          "ref": "39:43",
+          "zh": "不以人之所不智告人，以所智告之，故葉公子高未得其問也，仲尼亦未得其所以對也。」",
+          "en": "The answer told only what the inquirer understands but did not tell what he does not understand. Therefore (I say), Lord Zi Gao of She did not put the question right, neither did Zhongni give the right answer."
+        },
+        {
+          "ref": "39:44",
+          "zh": "子墨子謂魯陽文君曰：「大國之攻小國，譬猶童子之為馬也。童子之為馬，足用而勞。",
+          "en": "Mozi said to Prince Wen of Lu Yang: The large states attacking the small states is like the boys playing horse. When the boys play horse, they merely tire out their own feet."
+        },
+        {
+          "ref": "39:45",
+          "zh": "今大國之攻小國也，攻者農夫不得耕，婦人不得織，以守為事；攻人者，亦農夫不得耕，婦人不得織，以攻為事。",
+          "en": "Now, when a large state attacks a small state the farmers of the attacked states cannot cultivate the fields and the women cannot weave. They have to go to the defence. And the farmers of the invading states cannot cultivate the fields and the women cannot weave either. They have to take part in the attack."
+        },
+        {
+          "ref": "39:46",
+          "zh": "故大國之攻小國也，譬猶童子之為馬也。」",
+          "en": "Therefore (I say) the large states attacking the small states is like the boys playing horse."
+        },
+        {
+          "ref": "39:47",
+          "zh": "子墨子曰：「言足以復行者，常之；不足以舉行者，勿常。不足以舉行而常之，是蕩口也。」",
+          "en": "Mozi said: Doctrines that can be translated into conduct may be taught frequently. Doctrines that cannot be translated into conduct may not be taught frequently. To talk frequently about what cannot be carried out is merely to wear out one's mouth."
+        },
+        {
+          "ref": "39:48",
+          "zh": "子墨子使管黔敖游高石子於衛，衛君致祿甚厚，設之於卿。",
+          "en": "Mozi sent Guan Qin Ao to recommend Gao Shizi to Wei. The lord of Wei gave him heavy emoluments and ranked him among the ministers."
+        },
+        {
+          "ref": "39:49",
+          "zh": "高石子三朝必盡言，而言無行者。去而之齊，見子墨子曰：「衛君以夫子之故，致祿甚厚，設我於卿。石三朝必盡言，而言無行，是以去之也。衛君無乃以石為狂乎？」",
+          "en": "Gao Shizi came to court three times and gave all his counsels. But none of them was carried out. So he left for Qi where he saw Mozi and said: \"On your account the lord of Wei gave me heavy emoluments and ranked me among the ministers. I went to court three times and gave all my counsels. But none of them was carried out. So I left. Wouldn't the lord of Wei think I was demented?\""
+        },
+        {
+          "ref": "39:50",
+          "zh": "子墨子曰：「去之苟道，受狂何傷！古者周公旦非關叔，辭三公東處於商蓋，人皆謂之狂。後世稱其德，揚其名，至今不息。且翟聞之為義非避毀就譽，去之苟道，受狂何傷！」",
+          "en": "Mozi said: If you left because it is in accordance with the Dao, what does it matter even if suspected of being demented? Anciently, Duke Zhou was displeased with Uncle Guan and resigned from the Duke's duties and went east to Shang Yan to live. Everybody then said he was demented. But posterity praised his virtue and exalted his name unto this day. Moreover, I have heard, to practise righteousness is not to avoid blame and seek praise. If the resignation is in accordance with the Dao, what does it matter if one is suspected of being demented?"
+        },
+        {
+          "ref": "39:51",
+          "zh": "高石子曰：「石去之，焉敢不道也。昔者夫子有言曰：『天下無道，仁士不處厚焉。』今衛君無道，而貪其祿爵，則是我為苟啗人食也。」",
+          "en": "Gao Shizi said: \"How dare Shi leave if it were not in accordance with the Dao? Formerly, Master, you have said: When there is no Dao in the world, the superior men will not stay in positions of plenty. Now the lord of Wei does not observe the Dao. If I should covet his emoluments and position then I would be living on others as a parasite.\""
+        },
+        {
+          "ref": "39:52",
+          "zh": "子墨子說，而召子禽子曰：「姑聽此乎！夫倍義而鄉祿者，我常聞之矣。倍祿而鄉義者，於高石子焉見之也。」",
+          "en": "Mozi was pleased and summoned Qinzi, telling him: Now, listen, cases of disregard of righteousness for emoluments I have heard of. But disregard of emoluments for righteousness I have seen (only) in Gao Shizi."
+        },
+        {
+          "ref": "39:53",
+          "zh": "子墨子曰：「世俗之君子，貧而謂之富，則怒，無義而謂之有義，則喜。豈不悖哉！」",
+          "en": "Mozi said: When a man calls a gentleman of the present rich while he is poor he becomes angry. Yet, when the man calls him just he will be pleased even though he is unjust. Isn't this perverse!"
+        },
+        {
+          "ref": "39:54",
+          "zh": "公孟子曰：「先人有則三而已矣。」",
+          "en": "Gong Mengzi said: \"The ancient people had their rules, and they were but three in number.\""
+        },
+        {
+          "ref": "39:55",
+          "zh": "子墨子曰：「孰先人而曰有則三而已矣？子未智人之先有。」",
+          "en": "Mozi interrupted him, saying: Which ancient people are you talking about that you say have three rules? You don't understand that people first had...."
+        },
+        {
+          "ref": "39:56",
+          "zh": "後生有反子墨子而反者，「我豈有罪哉？吾反後」。",
+          "en": "Some pupils deserted Mozi and then returned. (They said:) \"How are we to blame? We deserted late.\""
+        },
+        {
+          "ref": "39:57",
+          "zh": "子墨子曰：「是猶三軍北，失後之人求賞也。」",
+          "en": "Mozi said: This is like asking for reward for late desertion in a defeated army."
+        },
+        {
+          "ref": "39:58",
+          "zh": "公孟子曰：「君子不作，術而已。」",
+          "en": "Gong Mengzi said: \"The superior man does not create but transmits.\""
+        },
+        {
+          "ref": "39:59",
+          "zh": "子墨子曰：「不然，人之其不君子者，古之善者不誅，今也善者不作。其次不君子者，古之善者不遂，己有善則作之，欲善之自己出也。",
+          "en": "Mozi said: Not at all. The most unsuperior men do not transmit the good of old and do not create any good for the present. The less unsuperior men do not transmit the good of old, but will bring out the good which he possesses for the sake of praise."
+        },
+        {
+          "ref": "39:60",
+          "zh": "今誅而不作，是無所異於不好遂而作者矣。吾以為古之善者則誅之，今之善者則作之，欲善之益多也。」",
+          "en": "Now to transmit but not to create is not different from creating without transmitting. It seems to me what good there is of old one should transmit it; what good there is to be for the present, one should institute it, so that the good may increase all the more."
+        },
+        {
+          "ref": "39:61",
+          "zh": "巫馬子謂子墨子曰：「我與子異，我不能兼愛。我愛鄒人於越人，愛魯人於鄒人，愛我鄉人於魯人，愛我家人於鄉人，愛我親於我家人，愛我身於吾親，以為近我也。擊我則疾，擊彼則不疾於我，我何故疾者之不拂，而不疾者之拂？故有我有殺彼以我，無殺我以利。」",
+          "en": "Wu Mazi told Mozi: \"I differ from you. I cannot love universally - I love the people of Zou better than the people of Chu, the people of Lu better than the people of Zou, the people of my district better than the people of Lu, the members of my family better than the people of my district, my parents better than the other members of my family, and myself better than my parents. This, because of their nearness to me. When I am beaten I feel pain. When they are beaten the pain does not extend to me. Why should I resist what does not give me pain but not resist what gives me pain? Therefore I would rather have them killed to benefit me than to have me killed to benefit them.\""
+        },
+        {
+          "ref": "39:62",
+          "zh": "子墨子曰：「子之義將匿邪，意將以告人乎？」",
+          "en": "Mozi said: Is this view of yours to be kept secret or to be told to others?"
+        },
+        {
+          "ref": "39:63",
+          "zh": "巫馬子曰：「我何故匿我義？吾將以告人。」",
+          "en": "Wu Mazi replied: \"Why should I keep my opinion to myself? Of course I shall tell it to others.\""
+        },
+        {
+          "ref": "39:64",
+          "zh": "子墨子曰：「然則，一人說子，一人欲殺子以利己；十人說子，十人欲殺子以利己；天下說子，天下欲殺子以利己。一人不說子，一人欲殺子，以子為施不祥言者也；十人不說子，十人欲殺子，以子為施不祥言者也；天下不說子，天下欲殺子，以子為施不祥言者也。說子亦欲殺子，不說子亦欲殺子，是所謂經者口也，殺常之身者也。」",
+          "en": "Mozi said: Then if one person is pleased with you, there will be one person who will desire to kill you in order to benefit himself. If ten persons are pleased with you, there will be ten persons who will desire to kill you to benefit themselves. If (the people of) the whole world are pleased with you, the whole world will desire to kill you to benefit themselves. (On the other hand), if one person is not pleased with you there will be one person who will desire to kill you as the propagator of a wicked doctrine. If ten persons are not pleased with you there will be ten persons who will desire to kill you as the propagator of an evil doctrine. If (the people of) the whole world are not pleased with you the whole world will desire to kill you as the propagator of an evil doctrine. (So, then) those who are pleased with you desire to kill you and those who are not pleased with you also desire to kill you. This is to say, what passes out from your mouth is what kills your body."
+        },
+        {
+          "ref": "39:65",
+          "zh": "子墨子曰：「子之言惡利也？若無所利而不言，是蕩口也。」",
+          "en": "Mozi continued: Then, where, after all, does the benefit of your doctrine lie? To teach what is not profitable is merely to wear out one's mouth."
+        },
+        {
+          "ref": "39:66",
+          "zh": "子墨子謂魯陽文君曰：「今有一人於此，羊牛犓豢，維人但割而和之，食之不可勝食也。見人之作餅，則還然竊之，曰：『舍余食。』不知日月安不足乎，其有竊疾乎？」",
+          "en": "Mozi said to Prince Wen of Lu Yang: Here is a man who has such an abundance of sheep, oxen, and (other) grass-fed and grain-fed animals that he cannot eat all that the cooks prepare for him. (Yet,) when he sees a man baking cakes, he looks surprised and steals them, saying: \"Let me eat them.\" Now, is this due to an unsatisfied appetite or is he affected with kleptomania?"
+        },
+        {
+          "ref": "39:67",
+          "zh": "魯陽文君曰：「有竊疾也。」",
+          "en": "Prince Wen of Lu Yang replied that he must be suffering from kleptomania."
+        },
+        {
+          "ref": "39:68",
+          "zh": "子墨子曰：「楚四竟之田，曠蕪而不可勝辟，謼虛數千，不可勝，見宋、鄭之閒邑，則還然竊之，此與彼異乎？」",
+          "en": "Mozi said: The fields of Chu all lie in waste and cannot be exhaustively cultivated. The unoccupied land amounts to thousands (of mu) and is more than sufficient for cultivation. Yet when it saw the towns of Song and Zheng, it looked surprised and stole them. Is there any difference between this and the other (case)?"
+        },
+        {
+          "ref": "39:69",
+          "zh": "魯陽文君曰：「是猶彼也，實有竊疾也。」",
+          "en": "Prince Wen of Lu Yang replied: \"This is the same as that. It must be suffering from kleptomania (too).\""
+        },
+        {
+          "ref": "39:70",
+          "zh": "子墨子曰：「季孫紹與孟伯常治魯國之政，不能相信，而祝於叢社，曰：『苟使我和。』",
+          "en": "Mozi said: When Jisun Zhao and Meng Bo Chang were in authority in Lu they could not trust each other. So they took oath at the altar, saying: \"May we be harmonious!\""
+        },
+        {
+          "ref": "39:71",
+          "zh": "是猶弇其目，而祝於叢社曰：『苟使我皆視』。豈不繆哉！」",
+          "en": "This is like closing one's eyes and praying at the altar, \"May I be able to see everything!\" Isn't this unreason?"
+        },
+        {
+          "ref": "39:72",
+          "zh": "子墨子謂駱滑氂曰：「吾聞子好勇。」",
+          "en": "Mozi said to Lou Hua Li: I have heard you are brave."
+        },
+        {
+          "ref": "39:73",
+          "zh": "駱滑氂曰：「然，我聞其鄉有勇士焉，吾必從而殺之。」",
+          "en": "Lou Hua Li replied: \"Yes. When I hear there is a brave man somewhere I always go and kill him.\""
+        },
+        {
+          "ref": "39:74",
+          "zh": "子墨子曰：「天下莫不欲與其所好，度其所惡。今子聞其鄉有勇士焉，必從而殺之，是非好勇也，是惡勇也。」",
+          "en": "Mozi said: The whole world promotes that which it likes and destroys that which it hates. But when you hear of a brave man somewhere you must go and kill him. This is not admiration for bravery but hate for it."
+        }
+      ]
+    },
+    {
+      "number": "41",
+      "title": "Gong Meng",
+      "slug": "gong-meng",
+      "passages": [
+        {
+          "ref": "41:1",
+          "zh": "公孟子謂子墨子曰：「君子共己以待，問焉則言，不問焉則止。譬若鍾然，扣則鳴，不扣則不鳴。」",
+          "en": "Gong Mengzi said to Mozi: \"The gentleman should fold his hands on the breast in waiting. He will speak when consulted he will not speak when not consulted. He is like a bell when struck it sounds, when not struck it does not sound.\""
+        },
+        {
+          "ref": "41:2",
+          "zh": "子墨子曰：「是言有三物焉，子乃今知其一身也，又未知其所謂也。",
+          "en": "Mozi said: This idea covers three phases of which you know but one; so you do not understand what you are talking about."
+        },
+        {
+          "ref": "41:3",
+          "zh": "若大人行淫暴於國家，進而諫，則謂之不遜，因左右而獻諫，則謂之言議。此君子之所疑惑也。",
+          "en": "In the case of the ruler's committing violence in the state, to go and warn him will be called insolence, and to offer warning through those around him will be called meddling with counsel. This is where the gentleman hesitates (to speak)."
+        },
+        {
+          "ref": "41:4",
+          "zh": "若大人為政，將因於國家之難，譬若機之將發也然，君子之必以諫，然而大人之利，若此者，雖不扣必鳴者也。",
+          "en": "Now, if the ruler, in his administration, meets with some difficulty in the state resembling a machine about to shoot,... the gentleman must give warning. So the benefit to the ruler... In such cases although he is not asked he should give counsel."
+        },
+        {
+          "ref": "41:5",
+          "zh": "若大人舉不義之異行，雖得大巧之經，可行於軍旅之事，欲攻伐無罪之國，有之也，君得之，則必用之矣。以廣辟土地，著稅偽材，出必見辱，所攻者不利，而攻者亦不利，是兩不利也。若此者，雖不扣必鳴者也。",
+          "en": "Again, if the lord should launch out on some unrighteous, extraordinary enterprise; and if in possession of clever military schemes, he should attack innocent states with a view to extending his territory, collecting taxes and gathering wealth; and if in taking such a course he meet with humiliation, as it is beneficial neither to the victor nor to the vanquished -- and hence harmful to both - in such a case the gentleman must respond with counsel though he is not asked."
+        },
+        {
+          "ref": "41:6",
+          "zh": "且子曰：『君子共己待，問焉則言，不問焉則止，譬若鍾然，扣則鳴，不扣則不鳴。』今未有扣，子而言，是子之謂不扣而鳴邪？是子之所謂非君子邪？」",
+          "en": "Moreover, according to what you have said, the gentleman is to fold his hands on his breast and wait. He will speak when consulted; he will not speak when not consulted. He is like a bell; when struck it sounds, when not struck it does not sound. Now, none had asked you and yet you spoke. Is this what you call sounding without being struck? Is this what you call ungentlemanly?"
+        },
+        {
+          "ref": "41:7",
+          "zh": "公孟子謂子墨子曰：「實為善，人孰不知？譬若良玉，處而不出有餘糈。譬若美女，處而不出，人爭求之。行而自衒，人莫之取也。今子遍從人而說之，何其勞也？」",
+          "en": "Gong Mengzi said to Mozi: \"How is it possible for the people to be ignorant of what is really good? For instance, when the able fortune teller remains at home and does not go abroad, he will have grain in abundance; when the beautiful maiden remains at home and does not go abroad, people will compete in obtaining her. On the other hand if she should set forth to sell herself, none would take her. Now you go about, trying to persuade everybody, wherefore all this fuss?\""
+        },
+        {
+          "ref": "41:8",
+          "zh": "子墨子曰：「不然，夫好美者，豈曰吾族人莫之好，故不好哉？夫欲富貴者，豈曰我族人莫之欲，故不欲哉？好美、欲富貴者，不視人猶強為之。夫義，天下之大器也，何以視人必強為之？」",
+          "en": "Mozi said: In the present world of chaos those who seek the beautiful maidens are many. So, though they remain at home most people would take them. But those who seek goodness are few. Without intelligent persuasion people will not understand. Moreover, suppose here are two people good at fortune telling. One travels about to tell people's fortunes, and the other remains at home and does not go abroad. Which of these two will have more grain? Gong Mengzi said that he who travels about and tells people's fortunes will have more grain. Mozi said: So with magnanimity and righteousness. He who travels about and urges the people has more merit also. Why not, then, let us travel about and urge the people?"
+        },
+        {
+          "ref": "41:9",
+          "zh": "公孟子戴章甫，搢忽，儒服，而以見子墨子曰：「君子服然後行乎？其行然後服乎？」",
+          "en": "Gong Mengzi, wearing a ceremonial hat, carrying the officials' tablet, and in the cloak of the learned, came to see Mozi and asked: \"Does the gentleman dress in appropriate attire before acting. Or does he do his business first and then consider his attire?\""
+        },
+        {
+          "ref": "41:10",
+          "zh": "子墨子曰：「行不在服。」",
+          "en": "Mozi said: Action does not depend on attire."
+        },
+        {
+          "ref": "41:11",
+          "zh": "公孟子曰：「何以知其然也？」",
+          "en": "Gong Mengzi asked how is it possible to know."
+        },
+        {
+          "ref": "41:12",
+          "zh": "子墨子曰：「昔者，齊桓公高冠博帶，金劍木盾，以治其國，其國治。",
+          "en": "Mozi said: Formerly, Lord Huan of Qi (685-643 B.C.), wearing a high hat and a wide girdle, with a gold sword and wooden shield, governed his state. And his state became orderly."
+        },
+        {
+          "ref": "41:13",
+          "zh": "昔者，晉文公大布之衣，牂羊之裘，韋以帶劍，以治其國，其國治。",
+          "en": "Lord Wen of Jin (780-746 B.C.), wearing garments of coarse cloth and sheepskin cloak, with the sword in a leather belt, governed his state. And his state became orderly."
+        },
+        {
+          "ref": "41:14",
+          "zh": "昔者，楚莊王鮮冠組纓，縫衣博袍，以治其國，其國治。",
+          "en": "Lord Zhuang of Chu (671-626 B.C.), wearing a gaudy hat with a tassel, and a red garment and a big gown, governed his state. And his state became orderly."
+        },
+        {
+          "ref": "41:15",
+          "zh": "昔者，越王句踐剪髮文身，以治其國，其國治。",
+          "en": "Lord Gou Jian of Yue (496-465 B.C.), had his hair cut short and his body tattooed and governed his state, and his state became orderly."
+        },
+        {
+          "ref": "41:16",
+          "zh": "此四君者，其服不同，其行猶一也。翟以是知行之不在服也。」",
+          "en": "Now, these four lords differed in attire but agreed in action. I therefore know action does not depend on attire."
+        },
+        {
+          "ref": "41:17",
+          "zh": "公孟子曰：「善！吾聞之曰『宿善者不祥』，請舍忽，易章甫，復見夫子可乎？」",
+          "en": "Gong Mengzi said: \"That is fine. I have heard that it is unlucky to keep goodness in darkness. So, let me go and put away the tablet and change the hat and come back to see you. Is this all right?\""
+        },
+        {
+          "ref": "41:18",
+          "zh": "子墨子曰：「請因以相見也。若必將舍忽、易章甫，而後相見，然則行果在服也。」",
+          "en": "Mozi said: Please come out with your errand. If you have to put away the tablet and change the hat before you can see me, then, action does depend on attire."
+        },
+        {
+          "ref": "41:19",
+          "zh": "公孟子曰：「君子必古言服，然後仁。」",
+          "en": "Gong Mengzi said: \"The gentleman has to be ancient in attire and in speech before he can be magnanimous.\""
+        },
+        {
+          "ref": "41:20",
+          "zh": "子墨子曰：「昔者，商王紂，卿士費仲，為天下之暴人，箕子、微子為天下之聖人，此同言而或仁不仁也。",
+          "en": "Mozi said: In ancient times, minister Fei Zhong of Emperor Zhou of Shang was the terror of the world. While Baron Ji and Baron Wei were the sages of the world. Now these spoke the same dialect, but the latter were magnanimous and the former was wicked."
+        },
+        {
+          "ref": "41:21",
+          "zh": "周公旦為天下之聖人，關叔為天下之暴人，此同服或仁或不仁。然則不在古服與古言矣。",
+          "en": "(Later), Duke Dan of Zhou was the sage of the world and Uncle Guan was the villain of the world. Now these wore the same attire but the former was magnanimous and the latter wicked. Then, virtue evidently does not depend on the antiquity of attire and speech."
+        },
+        {
+          "ref": "41:22",
+          "zh": "且子法周而未法夏也，子之古非古也。」",
+          "en": "Moreover, you are following only Zhou and not Xia. Your antiquity does not go back far enough."
+        },
+        {
+          "ref": "41:23",
+          "zh": "公孟子謂子墨子曰：「昔者聖王之列也，上聖立為天子，其次立為卿、大夫，今孔子博於詩、書，察於禮樂，詳於萬物，若使孔子當聖王，則豈不以孔子為天子哉？」",
+          "en": "Gong Mengzi said to Mozi: \"In ancient times, in assigning ranks the sage-kings crowned the most sagacious as emperor, and appointed the others as ministers and secretaries. Now Confucius had an extensive knowledge of poetry and history, a clear understanding of ceremonial and music, and an intimate insight into many things. If it fell upon Confucius to be the sage-king, why should he not make himself emperor?\""
+        },
+        {
+          "ref": "41:24",
+          "zh": "子墨子曰：「夫知者，必尊天事鬼，愛人節用，合焉為知矣。今子曰：『孔子博於詩書，察於禮樂，詳於萬物』，而曰可以為天子，是數人之齒，而以為富。」",
+          "en": "Mozi said: The wise man should reverence Heaven and worship the spirits, love the people and economize in expenditures. Combining these we get wisdom. Now, you say, Confucius had an extensive knowledge of poetry and history, a clear understanding of ceremonials and music, and an intimate insight into many things. Therefore, you think, he should be made emperor. This is like estimating one's wealth by counting the number of notches."
+        },
+        {
+          "ref": "41:25",
+          "zh": "公孟子曰：「貧富壽夭，齰然在天，不可損益。」又曰：「君子必學。」",
+          "en": "Gong Mengzi said: \"Poverty or wealth, old age or untimely death, all are determined by Heaven and they cannot be altered.\" Again, he said: \"The superior man must learn.\""
+        },
+        {
+          "ref": "41:26",
+          "zh": "子墨子曰：「教人學而執有命，是猶命人葆而去亓冠也。」",
+          "en": "Mozi said: To hold fatalism and teach people to learn is like telling him to cover his hair and yet remove his hat."
+        },
+        {
+          "ref": "41:27",
+          "zh": "公孟子謂子墨子曰：「有義不義，無祥不祥。」",
+          "en": "Gong Mengzi said to Mozi: \"There is only righteousness and unrighteousness, but no such thing as propitiousness or unpropitiousness.\""
+        },
+        {
+          "ref": "41:28",
+          "zh": "子墨子曰：「古聖王皆以鬼神為神明，而為禍福，執有祥不祥，是以政治而國安也。",
+          "en": "Mozi said: The ancient sage-kings all regarded the ghosts and spirits as intelligent and in control of calamity and blessing. They held there was propitiousness and unpropitiousness and thereby the government was well administered and the country was secure."
+        },
+        {
+          "ref": "41:29",
+          "zh": "自桀紂以下，皆以鬼神為不神明，不能為禍福，執無祥不祥，是以政亂而國危也。",
+          "en": "From Jie and Zhou down they all regarded the ghosts and spirits as unintelligent and not in control of calamity and blessing. They held there was no propitiousness and unpropitiousness, and thereby the government became disorderly and the country in danger."
+        },
+        {
+          "ref": "41:30",
+          "zh": "故先王之書，子亦有之曰：『亓傲也，出於子，不祥。』此言為不善之有罰，為善之有賞。」",
+          "en": "So, the book of the ancient kings \"Jizi\" says, \"Pride brings calamity.\" That is to say, the evil act will be punished and the good act will be rewarded."
+        },
+        {
+          "ref": "41:31",
+          "zh": "子墨子謂公孟子曰：「喪禮，君與父母、妻、後子死，三年喪服，伯父、叔父、兄弟期，族人五月，姑、姊、舅、甥皆有數月之喪。或以不喪之閒，誦詩三百，弦詩三百，歌詩三百，舞詩三百。若用子之言，則君子何日以聽治？庶人何日以從事？」",
+          "en": "Mozi said to Gong Mengzi: According to the ceremonial for the death of the ruler, the parents, the wife, and the first-born son, there shall be mourning for three years. For the elder uncle, younger uncle, elder brother, younger brother, one year; and for cousins within the family, five months. And for the aunt, the sister, the uncle on mother's side, and the nephew on sister's side, there will be mourning of several months for each. Many also use the intervals between periods of mourning to read the Three Hundred Poems according to rhymes, to play them on the string instruments, to sing them, and to dance to them. If your counsel should be followed when can the gentleman attend to government, and when can the common man attend to work?"
+        },
+        {
+          "ref": "41:32",
+          "zh": "公孟子曰：「國亂則治之，國治則為禮樂。國治則從事，國富則為禮樂。",
+          "en": "Gong Mengzi said: \"When the country is in chaos it should be put in order; when it is in order, ceremonials and music may be pursued. When the country is poor work should be attended to; when it is rich, ceremonials and music may be pursued.\""
+        },
+        {
+          "ref": "41:33",
+          "zh": "子墨子曰：「國之治。治之廢，則國之治亦廢。國之富也，從事，故富也。從事廢，則國之富亦廢。",
+          "en": "Mozi said: A country may be orderly. But it is because it is being well governed that it is orderly. As soon as good administration is abandoned, order disappears also. A country may be rich. But it is because work is being attended to that it is rich. As soon as work is abandoned, wealth disappears also."
+        },
+        {
+          "ref": "41:34",
+          "zh": "故雖治國，勸之無饜，然後可也。今子曰：『國治，則為禮樂，亂則治之』，是譬猶噎而穿井也，死而求醫也。",
+          "en": "Therefore although a country is orderly it is necessary to encourage unceasing attention to administration. Now, you say, when the country is in order, ceremonials and music may be pursued. But put it in order when it becomes disorderly. This is similar to digging a well when some one is choked and to seeking a physician when some one is dead."
+        },
+        {
+          "ref": "41:35",
+          "zh": "古者三代暴王桀紂幽厲，薾為聲樂，不顧其民，是以身為刑僇，國為戾虛者，皆從此道也。」",
+          "en": "In ancient times, the wicked kings of the Three Dynasties, Jie, Zhou, You, and Li, revelled in music, and did not remember their people. Therefore they suffered capital punishment and brought calamity to their empire. And it was all from following this idea."
+        },
+        {
+          "ref": "41:36",
+          "zh": "公孟子曰：「無鬼神。」又曰：「君子必學祭祀。」",
+          "en": "Gong Mengzi said that there were no ghosts and spirits; again, he said that the superior man must learn sacrifice and worship."
+        },
+        {
+          "ref": "41:37",
+          "zh": "子墨子曰：「執無鬼而學祭禮，是猶無客而學客禮也，是猶無魚而為魚𦊟也。」",
+          "en": "Mozi said: To hold there are no spirits and learn sacrificial ceremonials is comparable to learning the ceremonials of hospitality while there is no guest or to making fishing nets while there are no fish."
+        },
+        {
+          "ref": "41:38",
+          "zh": "公孟子謂子墨子曰：「子以三年之喪為非，子之三日之喪亦非也。」",
+          "en": "Gong Mengzi said to Mozi: \"You think mourning for three years is wrong. Your mourning for three days is also wrong.\""
+        },
+        {
+          "ref": "41:39",
+          "zh": "子墨子曰：「子以三年之喪非三日之喪，是猶裸謂撅者不恭也。」",
+          "en": "Mozi replied: You hold mourning for three years and condemn mourning for three days. This is similar to the naked person condemning the person who lifted up his garments for indecency."
+        },
+        {
+          "ref": "41:40",
+          "zh": "公孟子謂子墨子曰：「知有賢於人，則可謂知乎？」",
+          "en": "Gong Mengzi asked Mozi whether it is wisdom when one knows something better than some other person."
+        },
+        {
+          "ref": "41:41",
+          "zh": "子墨子曰：「愚之知有以賢於人，而愚豈可謂知矣哉？」",
+          "en": "Mozi answered: A fool may know something better than some other person. Yet can the fool be said to be wise?"
+        },
+        {
+          "ref": "41:42",
+          "zh": "公孟子曰：「三年之喪，學吾之慕父母。」",
+          "en": "Gong Mengzi said: \"I mourn for three years in imitation of the affection that my son shows to his parents.\""
+        },
+        {
+          "ref": "41:43",
+          "zh": "子墨子曰：「夫嬰兒子之知，獨慕父母而已。父母不可得也，然號而不止，此亓故何也？即愚之至也。然則儒者之知，豈有以賢於嬰兒子哉？」",
+          "en": "Mozi said: But does the baby have an intelligence to love only its parents? Why, then, should it keep on crying when the parents are not to be had? It is really the extreme degree of foolishness. Thus, is the intelligence of the Confucianists any higher than that of the baby?"
+        },
+        {
+          "ref": "41:44",
+          "zh": "子墨子曰問於儒者：「何故為樂？」曰：「樂以為樂也。」",
+          "en": "Mozi asked a Confucianist why the Confucianists pursued music. He replied, music is pursued for music's sake."
+        },
+        {
+          "ref": "41:45",
+          "zh": "子墨子曰：「子未我應也。今我問曰：『何故為室？』曰：『冬避寒焉，夏避暑焉，室以為男女之別也。』則子告我為室之故矣。",
+          "en": "Mozi said: You have not yet answered me. Suppose I asked, why build houses. And you answered, it is to keep off the cold in winter, and the heat in summer, and to separate men from women. Then you would have told me the reason for building houses."
+        },
+        {
+          "ref": "41:46",
+          "zh": "今我問曰：『何故為樂？』曰：『樂以為樂也。』是猶曰『何故為室』？曰『室以為室也』。」",
+          "en": "Now I am asking why pursue music. And you answer music is pursued for music's sake. This is comparable to: \"Why build houses?\" \"Houses are built for houses' sakes.\""
+        },
+        {
+          "ref": "41:47",
+          "zh": "子墨子謂程子曰：「儒之道足以喪天下者，四政焉。儒以天為不明，以鬼為不神，天鬼不說，此足以喪天下。",
+          "en": "Mozi said to Chengzi: In the teaching of the Confucianists there are four principles sufficient to ruin the empire: The Confucianists hold Heaven is unintelligent, and the ghosts are inanimate. Heaven and spirits are displeased. This is sufficient to ruin the world."
+        },
+        {
+          "ref": "41:48",
+          "zh": "又厚葬久喪，重為棺槨，多為衣衾，送死若徙，三年哭泣，扶後起，杖後行，耳無聞，目無見，此足以喪天下。",
+          "en": "Again they (practise) elaborate funerals and extended mourning. They use several inner and outer coffins, and many pieces of shrouds. The funeral procession looks like house-moving. Crying and weeping last three years. They cannot stand up without support and cannot walk without a cane. Their ears cannot hear and their eyes cannot see. This is sufficient to ruin the world."
+        },
+        {
+          "ref": "41:49",
+          "zh": "又弦歌鼓舞，習為聲樂，此足以喪天下。",
+          "en": "And they play the string instruments and dance and sing and practise songs and music. This is sufficient to ruin the empire."
+        },
+        {
+          "ref": "41:50",
+          "zh": "又以命為有，貧富壽夭，治亂安危有極矣，不可損益也，為上者行之，必不聽治矣；為下者行之，必不從事矣，此足以喪天下。」",
+          "en": "And, finally, they suppose there is fate and that poverty or wealth, old age or untimely death, order or chaos, security or danger, are all predetermined and cannot be altered. Applying this belief, those in authority, of course, will not attend to government and those below will not attend to work. Again, this is sufficient to ruin the world."
+        },
+        {
+          "ref": "41:51",
+          "zh": "程子曰：「甚矣！先生之毀儒也。」",
+          "en": "Chengzi said: \"Sir, you are accusing the Confucianists of too much.\""
+        },
+        {
+          "ref": "41:52",
+          "zh": "子墨子曰：「儒固無此若四政者，而我言之，則是毀也。今儒固有此四政者，而我言之，則非毀也，告聞也。」",
+          "en": "Mozi said: If the Confucianists hold nothing like these four principles and yet I say they do then it is false accusation. Now that the Confucianists do hold these four principles and I say so, then it is not accusation, but information."
+        },
+        {
+          "ref": "41:53",
+          "zh": "程子無辭而出。子墨子曰：「迷之！」",
+          "en": "Chengzi had nothing more to say and went out. Mozi called him back."
+        },
+        {
+          "ref": "41:54",
+          "zh": "反，後坐，進復曰：「鄉者先生之言有可聞者焉，若先生之言，則是不譽禹，不毀桀紂也。」",
+          "en": "After being seated he continued: \"What you, sir, have just said is not without fault. For according to what you have said, there will be no praise of Yu or blame of Jie and Zhou.\""
+        },
+        {
+          "ref": "41:55",
+          "zh": "子墨子曰：「不然，夫應孰辭，稱議而為之，敏也。厚攻則厚吾，薄攻則薄吾。應孰辭而稱議，是猶荷轅而擊蛾也。」",
+          "en": "Mozi replied: Not at all. You are only cleverly criticizing me according to traditional notions. When attack is heavy defence must be strong. When attack is light defence must be light. To criticize according to traditional notions is similar to trying to kill a moth with a thill."
+        },
+        {
+          "ref": "41:56",
+          "zh": "子墨子與程子辯，稱於孔子。程子曰：「非儒，何故稱於孔子也？」",
+          "en": "In a discussion with Chengzi, Mozi cited Confucius. Chengzi said, \"You condemn Confucianism - why is it that you cite Confucius?\""
+        },
+        {
+          "ref": "41:57",
+          "zh": "子墨子曰：「是亦當而不可易者也。今鳥聞熱旱之憂則高，魚聞熱旱之憂則下，當此雖禹湯為之謀，必不能易矣。鳥魚可謂愚矣，禹湯猶云因焉。今翟曾無稱於孔子乎？」",
+          "en": "Mozi said: This has reference to what is right and cannot be altered. When the bird becomes aware of the danger of heat and of drought, it flies high. When the fish becomes aware of the danger of heat and of drought, it swims low. In such circumstances even the deliberations of Yu and Tang cannot differ from this. The bird and the fish may be said to be unintelligent. Yet, in some instances, even Yu and Tang would follow them. Should I never cite Confucius?"
+        },
+        {
+          "ref": "41:58",
+          "zh": "有游於子墨子之門者，身體強良，思慮徇通，欲使隨而學。子墨子曰：「姑學乎，吾將仕子。」勸於善言而學。",
+          "en": "A man visited Mozi's school. He was physically well built and mentally brilliant. Desiring to have him in his school, Mozi told him to come and study and that he would make him an official. Persuaded by such an attractive promise, he came to study."
+        },
+        {
+          "ref": "41:59",
+          "zh": "其年，而責仕於子墨子。子墨子曰：「不仕子，子亦聞夫魯語乎？",
+          "en": "In a year, he demanded a position of Mozi. Mozi said: I have not made you an official. But have you not heard the story of Lu?"
+        },
+        {
+          "ref": "41:60",
+          "zh": "魯有昆弟五人者，亓父死，亓長子嗜酒而不葬，亓四弟曰：『子與我葬，當為子沽酒。』勸於善言而葬。",
+          "en": "There were five brothers in Lu whose father passed away. The eldest son loved wine and would not conduct the funeral. The four younger brothers said to him, \"You conduct the funeral for us, and we shall buy wine for you.\" He was persuaded by such an attractive promise and buried (his father)."
+        },
+        {
+          "ref": "41:61",
+          "zh": "已葬，而責酒於其四弟。四弟曰：『吾末予子酒矣，子葬子父，我葬吾父，豈獨吾父哉？子不葬，則人將笑子，故勸子葬也。』",
+          "en": "After the burial he demanded wine of the four brothers. The four brothers told him, \"We will not give you any wine. You are to bury your father and we, ours. Is your father only ours? If you don't bury him people will laugh at you, therefore we urged you to bury him.\""
+        },
+        {
+          "ref": "41:62",
+          "zh": "今子為義，我亦為義，豈獨我義也哉？子不學，則人將笑子，故勸子於學。」",
+          "en": "Now, you have done right and I have done right, is it only my righteousness? If you don't learn, people will laugh at you. Therefore I urged you to learn."
+        },
+        {
+          "ref": "41:63",
+          "zh": "有游於子墨子之門者，子墨子曰：「盍學乎？」對曰：「吾族人無學者。」",
+          "en": "A man visited Mozi's school. Mozi said: Why not come and study? Came the reply, \"None of my family is learned.\""
+        },
+        {
+          "ref": "41:64",
+          "zh": "子墨子曰：「不然，夫好美者，豈曰吾族人莫之好，故不好哉？夫欲富貴者，豈曰我族人莫之欲，故不欲哉？好美、欲富貴者，不視人猶強為之。夫義，天下之大器也，何以視人必強為之？」",
+          "en": "Mozi said: No matter. Does he who loves beauty say, none of my family loves it, therefore I will not? And does he who desires wealth and honour say, none of my family desires them, therefore I will not? Now, in the love of beauty and desire for wealth and honour, one goes ahead regardless of others. And righteousness is the greatest thing in the world. Why should one follow others in doing it?"
+        },
+        {
+          "ref": "41:65",
+          "zh": "有游於子墨子之門者，謂子墨子曰：「先生以鬼神為明知，能為禍人哉福？為善者富之，為暴者禍之。今吾事先生久矣，而福不至，意者先生之言有不善乎？鬼神不明乎？我何故不得福也？」",
+          "en": "A man visited Mozi's school and said to Mozi: \"Sir, you teach that the ghosts and spirits are intelligent and can bring calamity or blessing to man. They will enrich the good and harm the evil. Now, I have served you for a long time. Yet no blessing has come. Can it be that your teaching is not entirely correct, and that the ghosts and spirits are not intelligent? Else why don't I obtain any blessing?\""
+        },
+        {
+          "ref": "41:66",
+          "zh": "子墨子曰：「雖子不得福，吾言何遽不善？而鬼神何遽不明？子亦聞乎匿徒之刑之有刑乎？」對曰：「未之得聞也。」",
+          "en": "Mozi said: Though you have not obtained any blessing, how does that invalidate my teaching and how does that make the ghosts and spirits unintelligent? He replied that he did not know."
+        },
+        {
+          "ref": "41:67",
+          "zh": "子墨子曰：「今有人於此，什子，子能什譽之，而一自譽乎？」對曰：「不能。」",
+          "en": "Mozi continued: Suppose there is a man ten times as virtuous as you are, can you praise him ten times while you praise yourself but once? He answered that he could not."
+        },
+        {
+          "ref": "41:68",
+          "zh": "「有人於此，百子，子能終身譽亓善，而子無一乎？」對曰：「不能。」",
+          "en": "Now suppose there is a man a hundred times as virtuous as you are, can you during your whole life praise him and not praise yourself even once? He answered that he could not."
+        },
+        {
+          "ref": "41:69",
+          "zh": "子墨子曰：「匿一人者猶有罪，今子所匿者若此亓多，將有厚罪者也，何福之求？」",
+          "en": "Mozi said: He who obscured the virtues of one person is guilty. Now, you have obscured the virtues of so many. You must be guilty of very much. Wherewith can you expect blessing?"
+        },
+        {
+          "ref": "41:70",
+          "zh": "子墨子有疾，跌鼻進而問曰：先生以鬼神為明，能為禍福，為善者賞之，為不善者罰之。今先生聖人也，何故有疾？意者先生之言有不善乎？鬼神不明知乎？」",
+          "en": "Mozi was sick. Die Bi came and inquired: \"Sir, you have taught the ghosts and spirits are intelligent and are in control of calamity and blessing. They will reward the good and punish the evil. Now you are a sage. How can you become sick? Can it be that your teaching was not entirely correct, that the ghosts and spirits are after all unintelligent?"
+        },
+        {
+          "ref": "41:71",
+          "zh": "子墨子曰：「雖使我有病，何遽不明？人之所得於病者多方，有得之寒暑，有得之勞苦，百門而閉一門焉，則盜何遽無從入？」",
+          "en": "Mozi said: Though I am sick how (does it follow that the ghosts and spirits) should be unintelligent? There are many ways by which a man can contract diseases. Some are affected by climate, some by fatigue. If there are a hundred gates and only one of them is closed, how is it that the burglar should not be able to get in?"
+        },
+        {
+          "ref": "41:72",
+          "zh": "二三子有復於子墨子學射者，子墨子曰：「不可，夫知者必量亓力所能至而從事焉，國士戰且扶人，猶不可及也。今子非國士也，豈能成學又成射哉？」",
+          "en": "Some of the pupils asked to learn archery with Mozi. Mozi said: Impossible. The wise should measure how far his energy can go and plan his career accordingly. Even a soldier cannot fight and help somebody at the same time. Now you are no soldiers. How can you be both accomplished scholars and accomplished archers?"
+        },
+        {
+          "ref": "41:73",
+          "zh": "二三子復於子墨子曰：「告子曰：『言義而行甚惡。』請棄之。」",
+          "en": "Some of the pupils reported to Mozi that Gaozi proclaimed Mozi to be teaching righteousness but doing wickedness, and urged him to denounce Gaozi."
+        },
+        {
+          "ref": "41:74",
+          "zh": "子墨子曰：「不可，稱我言以毀我行，愈於亡。有人於此，翟甚不仁，尊天、事鬼、愛人，甚不仁，猶愈於亡也。今告子言談甚辯，言仁義而不吾毀，告子毀，猶愈亡也。」",
+          "en": "Mozi said: That would not do. To praise my teaching and blame my conduct is yet better than indifference. Suppose there is some one who declares that Di is quite unmagnanimous, that he reverences Heaven, worships spirits, and loves men - this is yet better than indifference. Now, Gaozi was quite discriminating in his statements. He does not blame me for teaching magnanimity and righteousness. So, blame from Gaozi is yet better than indifference."
+        },
+        {
+          "ref": "41:75",
+          "zh": "二三子復於子墨子曰：「告子勝為仁。」",
+          "en": "Some of the pupils reported to Mozi that Gaozi was zealous in practising magnanimity."
+        },
+        {
+          "ref": "41:76",
+          "zh": "子墨子曰：「未必然也！告子為仁，譬猶跂以為長，隱以為廣，不可久也。」",
+          "en": "Mozi remarked: It may not really be so at all. Gaozi practises magnanimity in the same way as the man who stands on his tip toe to appear tall and spreads himself to appear broad. It cannot last long."
+        },
+        {
+          "ref": "41:77",
+          "zh": "告子謂子墨子曰：「我治國為政。」",
+          "en": "Gaozi said to Mozi that he can administer the country and the government."
+        },
+        {
+          "ref": "41:78",
+          "zh": "子墨子曰：「政者，口言之，身必行之。今子口言之，而身不行，是子之身亂也。子不能治子之身，惡能治國政？子姑亡，子之身亂之矣！」",
+          "en": "Mozi said: To govern is to carry out what one teaches. Now you don't behave according to what you teach, this means that you yourself are in revolt. Being unable to govern one's self, how can one govern the country? Your self will set it in chaos."
+        }
+      ]
+    },
+    {
+      "number": "43",
+      "title": "Gong Shu",
+      "slug": "gong-shu",
+      "passages": [
+        {
+          "ref": "43:1",
+          "zh": "公輸盤為楚造雲梯之械，成，將以攻宋。",
+          "en": "Gong Shu Ban had completed the construction of Cloud-ladders for Chu and was going to attack Song with them."
+        },
+        {
+          "ref": "43:2",
+          "zh": "子墨子聞之，起於齊，行十日十夜而至於郢，見公輸盤。",
+          "en": "Mozi heard of it and set out from Qi. He walked ten days and ten nights and arrived at Ying. He saw Gong Shu Ban."
+        },
+        {
+          "ref": "43:3",
+          "zh": "公輸盤曰：「夫子何命焉為？」",
+          "en": "The latter asked him what he wanted of him."
+        },
+        {
+          "ref": "43:4",
+          "zh": "子墨子曰：「北方有侮臣，願藉子殺之。」",
+          "en": "Mozi said: Some one in the north has humiliated me. I would like to have you kill him."
+        },
+        {
+          "ref": "43:5",
+          "zh": "公輸盤不說。子墨子曰：「請獻十金。」",
+          "en": "Gong Shu Ban was displeased. Mozi persisted, offering him ten jin."
+        },
+        {
+          "ref": "43:6",
+          "zh": "公輸盤曰：「吾義固不殺人。」",
+          "en": "Finally Gong Shu Ban said: \"My principle is incompatible with murdering people.\""
+        },
+        {
+          "ref": "43:7",
+          "zh": "子墨子起，再拜曰：「請說之。吾從北方，聞子為梯，將以攻宋。宋何罪之有？",
+          "en": "Thereupon Mozi rose and bowed twice and spoke: Now, let me explain myself. While in the north I heard you were building ladders to attack Song. Now, of what is Song guilty?"
+        },
+        {
+          "ref": "43:8",
+          "zh": "荊國有餘於地，而不足於民，殺所不足，而爭所有餘，不可謂智。",
+          "en": "The state of Jing has land to spare but is short of people. To destroy what is scarce in order to strive for what is already plenty cannot be said to be wise."
+        },
+        {
+          "ref": "43:9",
+          "zh": "宋無罪而攻之，不可謂仁。",
+          "en": "Since Song is innocent, to attack it cannot be said to be magnanimous."
+        },
+        {
+          "ref": "43:10",
+          "zh": "知而不爭，不可謂忠。爭而不得，不可謂強。",
+          "en": "To fail to make an effort according to what you know cannot be said to be loyal. To make the effort without obtaining (the desired result) cannot be said to be effective."
+        },
+        {
+          "ref": "43:11",
+          "zh": "義不殺少而殺眾，不可謂知類。」",
+          "en": "To hold a principle that forbids the killing of few but allows that of many cannot be said to be understanding the fundamental categories."
+        },
+        {
+          "ref": "43:12",
+          "zh": "公輸盤服。子墨子曰：「然，乎不已乎？」",
+          "en": "Gong Shu Ban became convinced. Mozi argued further: Then why would you not stop it?"
+        },
+        {
+          "ref": "43:13",
+          "zh": "公輸盤曰：「不可。吾既已言之王矣。」",
+          "en": "Gong Shu Ban said that could not be done as he had already promised the Lord."
+        },
+        {
+          "ref": "43:14",
+          "zh": "子墨子曰：「胡不見我於王？」公輸盤曰：「諾」。",
+          "en": "Mozi said: Why not then present me to the Lord? Gong Shu Ban agreed."
+        },
+        {
+          "ref": "43:15",
+          "zh": "子墨子見王，曰：「今有人於此，舍其文軒，鄰有敝轝，而欲竊之；舍其錦繡，鄰有短褐，而欲竊之；舍其粱肉，鄰有糠糟，而欲竊之。此為何若人？」",
+          "en": "Mozi saw the Lord and said: Suppose there is a man who, putting aside his elegant carriage, desires to steal his neighbour's shattered sedan; putting aside his embroidery and finery, desires to steal his neighbour's short jacket; putting aside his meat and grains desires to steal his neighbour's husks. What kind of a man would this be?"
+        },
+        {
+          "ref": "43:16",
+          "zh": "王曰：「必為竊疾矣。」",
+          "en": "The Lord said that he must be suffering from kleptomania."
+        },
+        {
+          "ref": "43:17",
+          "zh": "子墨子曰：「荊之地，方五千里，宋之地，方五百里，此猶文軒之與敝轝也；荊有雲夢，犀兕麋鹿滿之，江漢之魚鱉黿鼉為天下富，宋所為無雉兔狐貍者也，此猶粱肉之與糠糟也；荊有長松、文梓、楩柟、豫章，宋無長木，此猶錦繡之與短褐也。",
+          "en": "Mozi continued: The land of Jing amounts to five thousand li square while that of Song is only five hundred, this is similar to the contrast between the elegant carriage and the shattered sedan. Jing possesses Yun Meng which is full of rhinoceroses and deer. The fish, tortoises and crocodiles in the Yangtse and the Han Rivers are the richest in the empire. While Song is said to possess not even pheasants, rabbits, or foxes. This is similar to the contrast between meat and grains and husks. In Jing there are tall pines, spruces, cedars and camphor trees, while Song has no tall trees at all. This is similar to the contrast between embroidery and finery and the short jacket."
+        },
+        {
+          "ref": "43:18",
+          "zh": "臣以三事之攻宋也，為與此同類，臣見大王之必傷義而不得。」",
+          "en": "When your ministers and generals set out to attack Song, it seems to me there is the same strategy. I can see, my Lord, you will be violating righteousness to no advantage."
+        },
+        {
+          "ref": "43:19",
+          "zh": "王曰：「善哉！雖然，公輸盤為我為雲梯，必取宋。」",
+          "en": "The Lord said: \"That is all very well. But Gong Shu Ban has already constructed the Cloud-ladders for me, and I must capture Song.\""
+        },
+        {
+          "ref": "43:20",
+          "zh": "於是見公輸盤，子墨子解帶為城，以牒為械，公輸盤九設攻城之機變，子墨子九距之，公輸盤之攻械盡，子墨子之守圉有餘。",
+          "en": "And he turned to Gong Shu Ban. Mozi untied his belt and laid out a city with it, and used a small stick for weapon. Gong Shu Ban set up nine different machines of attack. Mozi repulsed him nine times. Gong Shu Ban was at an end with his machines of attack while Mozi was far from being exhausted in defence."
+        },
+        {
+          "ref": "43:21",
+          "zh": "公輸盤詘，而曰：「吾知所以距子矣，吾不言。」",
+          "en": "Gong Shu Ban felt embarassed and declared: \"I know how I can put you down, but I would not tell.\""
+        },
+        {
+          "ref": "43:22",
+          "zh": "子墨子亦曰：「吾知子之所以距我，吾不言。」",
+          "en": "Mozi also said: \"I know how you can put me down, but I would not tell.\""
+        },
+        {
+          "ref": "43:23",
+          "zh": "楚王問其故，子墨子曰：「公輸子之意，不過欲殺臣。殺臣，宋莫能守，可攻也。",
+          "en": "The Lord of Chu asked what it was. Mozi replied: Gong Shuzi's idea is just to have me murdered. (Apparently,) when I was murdered, Song would be powerless at defence. And she would be subject to your attack."
+        },
+        {
+          "ref": "43:24",
+          "zh": "然臣之弟子禽滑釐等三百人，已持臣守圉之器，在宋城上而待楚寇矣。雖殺臣，不能絕也。」",
+          "en": "However, my disciples Qin Hua Li and others numbering three hundred are already armed with my implements of defence waiting on the city wall of Song for the bandits from Chu. Though I be murdered, you cannot exhaust (the defence of Song)."
+        },
+        {
+          "ref": "43:25",
+          "zh": "楚王曰：「善哉！吾請無攻宋矣。」",
+          "en": "The Lord of Chu said: \"Well, then let us not attack Song any more.\""
+        },
+        {
+          "ref": "43:26",
+          "zh": "子墨子歸，過宋，天雨，庇其閭中，守閭者不內也。",
+          "en": "On his way back, Mozi passed through Song. It was raining and he sought shelter in a pass. But the guard of the pass would not let him in."
+        },
+        {
+          "ref": "43:27",
+          "zh": "故曰：「治於神者，眾人不知其功，爭於明者，眾人知之。」",
+          "en": "Thus it is said: \"The merit of the man who cultivates himself before the spirits is not recognized by the multitude. On the other hand, he who strives in the open is recognized.\""
+        }
+      ]
+    }
+  ]
+}

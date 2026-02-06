@@ -1,0 +1,528 @@
+{
+  "id": "zhuangzi",
+  "title": "莊子",
+  "titleEn": "Zhuangzi",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "32",
+    "title": "Lie Yu Kou",
+    "slug": "lie-yu-kou",
+    "passages": [
+      {
+        "ref": "32:1",
+        "zh": "列御寇之齊，中道而反，遇伯昏瞀人。",
+        "en": "Lie Yu-kou had started to go to Qi, but came back when he was half-way to it. He met Bo-hun Wu-ren, who said, 'Why have you come back?'"
+      },
+      {
+        "ref": "32:2",
+        "zh": "伯昏瞀人曰：「奚方而反？」",
+        "en": "His reply was, 'I was frightened.'"
+      },
+      {
+        "ref": "32:3",
+        "zh": "曰：「吾驚焉。」",
+        "en": "'What frightened you?'"
+      },
+      {
+        "ref": "32:4",
+        "zh": "曰：「惡乎驚？」",
+        "en": "'I went into ten soup-shops to get a meal, and in five of them the soup was set before me before (I had paid for it).'"
+      },
+      {
+        "ref": "32:5",
+        "zh": "曰：「吾嘗食於十漿，而五漿先饋。」",
+        "en": "'But what was there in that to frighten you?'"
+      },
+      {
+        "ref": "32:6",
+        "zh": "伯昏瞀人曰：「若是，則汝何為驚已？」",
+        "en": "(Liezi) said, 'Though the inward and true purpose be not set forth, the body like a spy gives some bright display of it."
+      },
+      {
+        "ref": "32:7",
+        "zh": "曰：「夫內誠不解，形諜成光，以外鎮人心，使人輕乎貴老，而齏其所患。",
+        "en": "And this outward demonstration overawes men's minds, and makes men on light grounds treat one as noble or as aged, from which evil to him will be produced."
+      },
+      {
+        "ref": "32:8",
+        "zh": "夫漿特為食羹之貨，多餘之贏，其為利也薄，其為權也輕，而猶若是，而況於萬乘之主乎！",
+        "en": "Now vendors of soup supply their commodity simply as a matter of business, and however much they may dispose of, their profit is but little, and their power is but slight; and yet they treated me as I have said: how much more would the lord of ten thousand chariots do so!"
+      },
+      {
+        "ref": "32:9",
+        "zh": "身勞於國而知盡於事，彼將任我以事而效我以功，吾是以驚。」",
+        "en": "His body burdened with (the cares of his) kingdom, and his knowledge overtasked by its affairs, he would entrust those affairs to me, and exact from me the successful conduct (of its government). It was this which frightened me.'"
+      },
+      {
+        "ref": "32:10",
+        "zh": "伯昏瞀人曰：「善哉觀乎！",
+        "en": "Po-hwan Wu-zan replied, 'Admirable perspicacity!"
+      },
+      {
+        "ref": "32:11",
+        "zh": "汝處已，人將保汝矣。」",
+        "en": "But if you carry yourself as you do, men will flock to you for protection.'"
+      },
+      {
+        "ref": "32:12",
+        "zh": "無幾何而往，則戶外之屨滿矣。",
+        "en": "Not long after, Bo-hun Wu-ren went (to visit Liezi), and found the space outside his door full of shoes."
+      },
+      {
+        "ref": "32:13",
+        "zh": "伯昏瞀人北面而立，敦杖蹙之乎頤，立有間，不言而出。",
+        "en": "There he stood with his face to the north, holding his staff upright, and leaning his chin on it till the skin was wrinkled. After standing so for some time, and without saying a word, he was going away, when the door-keeper went in, and told Liezi."
+      },
+      {
+        "ref": "32:14",
+        "zh": "賓者以告列子，列子提屨，跣而走，暨乎門，曰：「先生既來，曾不發藥乎？」",
+        "en": "The latter (immediately) took up his shoes, and ran barefoot after the visitor. When he overtook him at the (outer) gate, he said, 'Since you, Sir, have come, are you going away without giving me some medicine?'"
+      },
+      {
+        "ref": "32:15",
+        "zh": "曰：「已矣！",
+        "en": "The other replied, 'It is of no use."
+      },
+      {
+        "ref": "32:16",
+        "zh": "吾固告汝曰『人將保汝』，果保汝矣。",
+        "en": "I did tell you that men would flock to you, and they do indeed do so."
+      },
+      {
+        "ref": "32:17",
+        "zh": "非汝能使人保汝，而汝不能使人無保汝也，而焉用之感豫出異也！",
+        "en": "It is not that you can cause men to flock to you, but you cannot keep them from not so coming - of what use is (all my warning)?"
+      },
+      {
+        "ref": "32:18",
+        "zh": "必且有感，搖而本才，又無謂也。",
+        "en": "What influences them and makes them glad is the display of your extraordinary (qualities); but you must also be influenced in your turn, and your proper nature be shaken, and no warning can be addressed to you."
+      },
+      {
+        "ref": "32:19",
+        "zh": "與汝遊者，又莫汝告也，彼所小言，盡人毒也。",
+        "en": "Those who associate with you do not admonish you of this. The small words which they speak are poison to a man."
+      },
+      {
+        "ref": "32:20",
+        "zh": "莫覺莫悟，何相孰也！",
+        "en": "You perceive it not; you understand it not - how can you separate yourself from them?"
+      },
+      {
+        "ref": "32:21",
+        "zh": "巧者勞而知者憂，無能者無所求，飽食而敖遊，汎若不繫之舟，虛而敖遊者也。」",
+        "en": "The clever toil on, and the wise are sad. Those who are without ability seek for nothing. They eat to the full, and wander idly about. They drift like a vessel loosed from its moorings, and aimlessly wander about.'"
+      },
+      {
+        "ref": "32:22",
+        "zh": "鄭人緩也呻吟裘氏之地。",
+        "en": "A man of Zheng, called Huan, learned his books in the neighbourhood of Qiu-shi, and in no longer time than three years became a Confucian scholar, benefiting the three classes of his kindred as the He extends its enriching influence for nine li."
+      },
+      {
+        "ref": "32:23",
+        "zh": "祗三年而緩為儒，潤河九里，澤及三族，使其弟墨。",
+        "en": "He made his younger brother study (the principles of) Mo, and then they two - the scholar and the Mohist - disputed together (about their respective systems), and the father took the side of the younger."
+      },
+      {
+        "ref": "32:24",
+        "zh": "儒、墨相與辯，其父助翟。",
+        "en": "After ten years Huan killed himself."
+      },
+      {
+        "ref": "32:25",
+        "zh": "十年而緩自殺。",
+        "en": "(By and by) he appeared to his father in a dream, saying, 'It was I who made your son become a Mohist; why did you not recognise that good service?"
+      },
+      {
+        "ref": "32:26",
+        "zh": "其父夢之，曰：「使而子為墨者，予也。",
+        "en": "I am become (but) the fruit of a cypress in autumn.'"
+      },
+      {
+        "ref": "32:27",
+        "zh": "闔胡嘗視其良，既為秋柏之實矣！」",
+        "en": "But the Creator, in apportioning the awards of men, does not recompense them for their own doings, but recompenses them for the (use of the) Heavenly in them."
+      },
+      {
+        "ref": "32:28",
+        "zh": "夫造物者之報人也，不報其人而報其人之天。",
+        "en": "It was thus that Huan's brother was led to learn Mohism."
+      },
+      {
+        "ref": "32:29",
+        "zh": "彼故使彼。",
+        "en": "When this Huan thought that it was he who had made his brother different from what he would have been, and proceeded to despise his father, he was like the people of Qi, who, while they drank from a well, tried to keep one another from it."
+      },
+      {
+        "ref": "32:30",
+        "zh": "夫人以己為有以異於人，以賤其親，齊人之井，飲者相捽也。",
+        "en": "Hence it is said, 'Now-a-days all men are Huans.'"
+      },
+      {
+        "ref": "32:31",
+        "zh": "故曰：「今之世皆緩也。」",
+        "en": "From this we perceive that those who possess the characteristics (of the Dao) consider that they do not know them; how much more is it so with those who possess the Dao itself!"
+      },
+      {
+        "ref": "32:32",
+        "zh": "自是，有德者以不知也，而況有道者乎！",
+        "en": "The ancients called such (as Huan) 'men who had escaped the punishment of Heaven.'"
+      },
+      {
+        "ref": "32:33",
+        "zh": "古者謂之遁天之刑。",
+        "en": "The sagely man rests in what is his proper rest; he does not rest in what is not so - the multitude of men rest in what is not their proper rest; they do not rest in their proper rest."
+      },
+      {
+        "ref": "32:34",
+        "zh": "聖人安其所安，不安其所不安；眾人安其所不安，不安其所安。",
+        "en": "Zhuangzi said, 'To know the Dao is easy; not to say (that you know it) is difficult."
+      },
+      {
+        "ref": "32:35",
+        "zh": "莊子曰：「知道易，勿言難。",
+        "en": "To know it and not to speak of it is the way to attain to the Heavenly; to know and to speak of it, is the way to show the Human."
+      },
+      {
+        "ref": "32:36",
+        "zh": "知而不言，所以之天也；知而言之，所以之人也。",
+        "en": "The ancients pursued the Heavenly (belonging to them), and not the Human.'"
+      },
+      {
+        "ref": "32:37",
+        "zh": "古之人，天而不人。」",
+        "en": "Zhu Ping-man learned how to slaughter the dragon from Zhi-li Yi, expending (in doing so) all his wealth of a thousand ounces of silver."
+      },
+      {
+        "ref": "32:38",
+        "zh": "朱泙漫學屠龍於支離益，單千金之家，三年技成，而無所用其巧。",
+        "en": "In three years he became perfect in the art, but he never exercised his skill."
+      },
+      {
+        "ref": "32:39",
+        "zh": "聖人以必不必，故無兵；眾人以不必必之，故多兵。",
+        "en": "The sage looks on what is deemed necessary as unnecessary, and therefore is not at war (in himself). The mass of men deem what is unnecessary to be necessary, and therefore they are often at war (in themselves)."
+      },
+      {
+        "ref": "32:40",
+        "zh": "順於兵，故行有求。",
+        "en": "Therefore those who pursue this method of (internal) war, resort to it in whatever they seek for."
+      },
+      {
+        "ref": "32:41",
+        "zh": "兵，恃之則亡。",
+        "en": "But reliance on such war leads to ruin."
+      },
+      {
+        "ref": "32:42",
+        "zh": "小夫之知，不離苞苴竿牘，敝精神乎蹇淺，而欲兼濟道物，太一形虛。",
+        "en": "The wisdom of the small man does not go beyond (the minutiae of) making presents and writing memoranda, wearying his spirits out in what is trivial and mean. But at the same time he wishes to aid in guiding to (the secret of) the Dao and of (all) things in the incorporeity of the Grand Unity."
+      },
+      {
+        "ref": "32:43",
+        "zh": "若是者，迷惑於宇宙，形累不知太初。",
+        "en": "In this way he goes all astray in regard to (the mysteries of) space and time. The fetters of embodied matter keep him from the knowledge of the Grand Beginning."
+      },
+      {
+        "ref": "32:44",
+        "zh": "彼至人者，歸精神乎無始，而甘冥乎無何有之鄉。",
+        "en": "(On the other hand), the perfect man directs the energy of his spirit to what was before the Beginning, and finds pleasure in the mysteriousness belonging to the region of nothingness."
+      },
+      {
+        "ref": "32:45",
+        "zh": "水流乎無形，發泄乎太清。",
+        "en": "He is like the water which flows on without the obstruction of matter, and expands into the Grand Purity."
+      },
+      {
+        "ref": "32:46",
+        "zh": "悲哉乎！",
+        "en": "Alas for what you do, (0 men)!"
+      },
+      {
+        "ref": "32:47",
+        "zh": "汝為知在毫毛，而不知大寧！",
+        "en": "You occupy yourselves with things trivial as a hair, and remain ignorant of the Grand Rest!"
+      },
+      {
+        "ref": "32:48",
+        "zh": "宋人有曹商者，為宋王使秦。",
+        "en": "There was a man of Song, called Cao Shang, who was sent by the king of Song on a mission to Qin."
+      },
+      {
+        "ref": "32:49",
+        "zh": "其往也，得車數乘；王說之，益車百乘。",
+        "en": "On setting out, he had several carriages with him; and the king (of Qin) was so pleased with him that he gave him another hundred."
+      },
+      {
+        "ref": "32:50",
+        "zh": "反於宋，見莊子曰：「夫處窮閭阨巷，困窘織屨，槁項黃馘者，商之所短也；一悟萬乘之主，而從車百乘者，商之所長也。」",
+        "en": "When he returned to Song, he saw Zhuangzi, and said to him, 'To live in a narrow lane of a poor mean hamlet, wearing sandals amid distress of poverty, with a weazen neck and yellow face - that is what I should find it difficult to do. But as soon as I come to an understanding with the Lord of a myriad carriages, to find myself with a retinue of a hundred carriages - that is wherein I excel.'"
+      },
+      {
+        "ref": "32:51",
+        "zh": "莊子曰：「秦王有病召醫，破癰潰痤者得車一乘，舐痔者得車五乘，所治愈下，得車愈多。",
+        "en": "Zhuangzi replied, 'When the king of Qin is ill, the doctor whom he calls to open an ulcer or squeeze a boil receives a carriage; and he who licks his piles receives five."
+      },
+      {
+        "ref": "32:52",
+        "zh": "子豈治其痔邪？",
+        "en": "The lower the service, the more are the carriages given."
+      },
+      {
+        "ref": "32:53",
+        "zh": "何得車之多也？",
+        "en": "Did you, Sir, lick his piles?"
+      },
+      {
+        "ref": "32:54",
+        "zh": "子行矣！」",
+        "en": "How else should you have got so many carriages? Begone!'"
+      },
+      {
+        "ref": "32:55",
+        "zh": "魯哀公問於顏闔曰：「吾以仲尼為貞幹，國其有瘳乎？」",
+        "en": "Duke Ai of lu asked Yan He, saying, 'If I employ Zhongni as the support of my government, will the evils of the state be thereby cured?'"
+      },
+      {
+        "ref": "32:56",
+        "zh": "曰：「殆哉圾乎！",
+        "en": "The reply was, '(Such a measure) would be perilous! It would be full of hazard!"
+      },
+      {
+        "ref": "32:57",
+        "zh": "仲尼方且飾羽而畫，從事華辭，以支為旨，忍性以視民而不知不信，受乎心，宰乎神，夫何足以上民！",
+        "en": "Zhongni, moreover, will try to ornament a feather and paint it; in the conduct of affairs he uses flowery speeches. A (mere) branch is to him more admirable (than the root); he can bear to misrepresent their nature in instructing the people, and is not conscious of the unreality of his words. He receives (his inspiration) from his own mind, and rules his course from his own spirit: what fitness has he to be set over the people?"
+      },
+      {
+        "ref": "32:58",
+        "zh": "彼宜女與？",
+        "en": "Is such a man suitable for you (as your minister)?"
+      },
+      {
+        "ref": "32:59",
+        "zh": "予頤與？",
+        "en": "Could you give to him the nourishment (of the people)?"
+      },
+      {
+        "ref": "32:60",
+        "zh": "誤而可矣。",
+        "en": "You would do so by mistake (but not on purpose, for a time, but not as a permanency)."
+      },
+      {
+        "ref": "32:61",
+        "zh": "今使民離實學偽，非所以視民也。",
+        "en": "To make the people leave what is real, and learn what is hypocritical - that is not the proper thing to be shown to them; if you take thought for future ages, your better plan will be to give up (the idea of employing Confucius) - else governing will be difficult."
+      },
+      {
+        "ref": "32:62",
+        "zh": "為後世慮，不若休之，難治也。」",
+        "en": "Dealing with men without forgetting yourself is not according to the example of Heaven in diffusing its benefits."
+      },
+      {
+        "ref": "32:63",
+        "zh": "施於人而不忘，非天布也。",
+        "en": "Merchants and traffickers are not to be ranked (with administrative officers) if on an occasion you so rank them, the spirits (of the people) do not acquiesce in your doing so."
+      },
+      {
+        "ref": "32:64",
+        "zh": "商賈不齒，雖以事齒之，神者勿齒。",
+        "en": "The instruments of external punishment are made of metal and wood; those of internal punishment are agitation (of the mind) and (the sense of) transgression."
+      },
+      {
+        "ref": "32:65",
+        "zh": "為外刑者，金與木也；為內刑者，動與過也。",
+        "en": "When small men become subject to the external punishment, the (instruments of) metal and wood deal with them; when they become liable to the internal punishments, the Yin and Yang consume them."
+      },
+      {
+        "ref": "32:66",
+        "zh": "宵人之離外刑者，金木訊之；離內刑者，陰陽食之。",
+        "en": "It is only the true man who can escape both from the external and internal punishment."
+      },
+      {
+        "ref": "32:67",
+        "zh": "夫免乎外內之刑者，唯真人能之。",
+        "en": "Confucius said, 'The minds of men are more difficult of approach than (the position defended by) mountains and rivers, and more difficult to know than Heaven itself."
+      },
+      {
+        "ref": "32:68",
+        "zh": "孔子曰：「凡人心險於山川，難於知天。",
+        "en": "Heaven has its periods of spring and autumn, of winter and summer, and of morning and evening; but man's exterior is thickly veiled, and his feelings lie deep."
+      },
+      {
+        "ref": "32:69",
+        "zh": "天猶有春秋冬夏旦暮之期，人者厚貌深情。",
+        "en": "Thus the demeanour of some is honest-like, and yet they go to excess (in what is mean); others are really gifted, and yet look to be without ability; some seem docile and impressible, but yet they have far-reaching schemes; others look firm, and yet may be twisted about; others look slow, and yet they are hasty."
+      },
+      {
+        "ref": "32:70",
+        "zh": "故有貌愿而益，有長若不肖，有順懁而達，有堅而縵，有緩而釬。",
+        "en": "In this way those who hasten to do what is right as if they were thirsty will anon hurry away from it as if it were fire."
+      },
+      {
+        "ref": "32:71",
+        "zh": "故其就義若渴者，其去義若熱。",
+        "en": "Hence the superior man looks at them when employed at a distance to test their fidelity, and when employed near at hand to test their reverence."
+      },
+      {
+        "ref": "32:72",
+        "zh": "故君子遠使之而觀其忠，近使之而觀其敬，煩使之而觀其能，卒然問焉而觀其知，急與之期而觀其信，委之以財而觀其仁，告之以危而觀其節，醉之以酒而觀其側，雜之以處而觀其色。",
+        "en": "By employing them on difficult services, he tests their ability; by questioning them suddenly, he tests their knowledge; by appointing them a fixed time, he tests their good faith; by entrusting them with wealth, he tests their benevolence; by telling them of danger, he tests their self-command in emergencies; by making them drunk, he tests their tendencies; by placing them in a variety of society, he tests their chastity: by these nine tests the inferior man is discovered.'"
+      },
+      {
+        "ref": "32:73",
+        "zh": "九徵至，不肖人得矣。",
+        "en": "When Kao-fu, the Correct, received the first grade of official rank, he walked with head bowed down; on receiving the second, with bent back; on receiving the third, with body stooping, he ran and hurried along the wall: who would presume not to take him as a model?"
+      },
+      {
+        "ref": "32:74",
+        "zh": "正考父一命而傴，再命而僂，三命而俯，循牆而走，孰敢不軌！",
+        "en": "But one of those ordinary men, on receiving his first appointment, goes along with a haughty stride; on receiving his second, he looks quite elated in his chariot; and on receiving the third, he calls his uncles by their personal names - how very different from Xu (You) in the time (of Yao of) Tang!"
+      },
+      {
+        "ref": "32:75",
+        "zh": "如而夫者，一命而呂鉅，再命而於車上舞，三命而名諸父，孰協唐、許！",
+        "en": "Of all things that injure (men) there is none greater than the practising of virtue with the purpose of the mind, till the mind becomes supercilious."
+      },
+      {
+        "ref": "32:76",
+        "zh": "賊莫大乎德有心而心有眼，及其有眼也而內視，內視而敗矣。",
+        "en": "When it becomes so, the mind (only) looks inwards (on itself), and such looking into itself leads to its ruin."
+      },
+      {
+        "ref": "32:77",
+        "zh": "凶德有五，中德為首。",
+        "en": "This evil quality has five forms, and the chief of them is that which is the central."
+      },
+      {
+        "ref": "32:78",
+        "zh": "何謂中德？",
+        "en": "What do we mean by the central quality?"
+      },
+      {
+        "ref": "32:79",
+        "zh": "中德也者，有以自好也而吡其所不為者也。",
+        "en": "It is that which appears in a man's loving (only) his own views, and reviling whatever he does not do (himself)."
+      },
+      {
+        "ref": "32:80",
+        "zh": "窮有八極，達有三必，形有六府。",
+        "en": "Limiting (men's advance), there are eight extreme conditions; securing (that advance), there are three things necessary; and the person has its six repositories."
+      },
+      {
+        "ref": "32:81",
+        "zh": "美、髯、長、大、壯、麗、勇、敢，八者俱過人也，因以是窮。",
+        "en": "Elegance; a (fine) beard; tallness; size; strength; beauty; bravery; daring; and in all these excelling others: (these are the eight extreme conditions) by which advance is limited."
+      },
+      {
+        "ref": "32:82",
+        "zh": "緣循、偃佒、困畏不若人，三者俱通達。",
+        "en": "Depending on and copying others; stooping in order to rise; and being straitened by the fear of not equalling others: these are the three things that lead to advancing."
+      },
+      {
+        "ref": "32:83",
+        "zh": "知慧外通，勇動多怨，仁義多責。",
+        "en": "Knowledge seeking to reach to all that is external; bold movement producing many resentments; benevolence and righteousness leading to many requisitions; understanding the phenomena of life in an extraordinary degree; understanding all knowledge so as to possess an approach to it; understanding the great condition appointed for him, and following it, and the smaller conditions, and meeting them as they occur: (these are the six repositories of the person)."
+      },
+      {
+        "ref": "32:84",
+        "zh": "達生之情者傀，達於知者肖；達大命者隨，達小命者遭。",
+        "en": "There was a man who, having had an interview with the king of Song, and been presented by him with ten carriages, showed them boastfully to Zhuangzi, as if the latter had been a boy."
+      },
+      {
+        "ref": "32:85",
+        "zh": "人有見宋王者，錫車十乘，以其十乘驕稚莊子。",
+        "en": "Zhuangzi said to him, 'Near the He there was a poor man who supported his family by weaving rushes (to form screens)."
+      },
+      {
+        "ref": "32:86",
+        "zh": "莊子曰：「河上有家貧恃緯蕭而食者，其子沒於淵，得千金之珠。",
+        "en": "His son, when diving in a deep pool, found a pearl worth a thousand ounces of silver."
+      },
+      {
+        "ref": "32:87",
+        "zh": "其父謂其子曰『取石來鍛之！",
+        "en": "The father said, \"Bring a stone, and break it in pieces."
+      },
+      {
+        "ref": "32:88",
+        "zh": "夫千金之珠，必在九重之淵而驪龍頷下，子能得珠者，必遭其睡也。",
+        "en": "A pearl of this value must have been in a pool nine Zhong deep, and under the chin of the Black Dragon. That you were able to get it must have been owing to your finding him asleep."
+      },
+      {
+        "ref": "32:89",
+        "zh": "使驪龍而寤，子尚奚微之有哉！』",
+        "en": "Let him awake, and the consequences to you will not be small!\""
+      },
+      {
+        "ref": "32:90",
+        "zh": "今宋國之深，非直九重之淵也；宋王之猛，非直驪龍也。",
+        "en": "Now the kingdom of Song is deeper than any pool of nine Zhong, and its king is fiercer than the Black Dragon."
+      },
+      {
+        "ref": "32:91",
+        "zh": "子能得車者，必遭其睡也。",
+        "en": "That you were able to get the chariots must have been owing to your finding him asleep."
+      },
+      {
+        "ref": "32:92",
+        "zh": "使宋王而寤，子為齏粉夫！」",
+        "en": "Let him awake, and you will be ground to powder.'"
+      },
+      {
+        "ref": "32:93",
+        "zh": "或聘於莊子，莊子應其使曰：「子見夫犧牛乎？",
+        "en": "Some (ruler) having sent a message of invitation to him, Zhuangzi replied to the messenger, 'Have you seen, Sir, a sacrificial ox?"
+      },
+      {
+        "ref": "32:94",
+        "zh": "衣以文繡，食以芻叔，及其牽而入於太廟，雖欲為孤犢，其可得乎！」",
+        "en": "It is robed with ornamental embroidery, and feasted on fresh grass and beans. But when it is led into the grand ancestral temple, though it wished to be (again) a solitary calf, would that be possible for it?'"
+      },
+      {
+        "ref": "32:95",
+        "zh": "莊子將死，弟子欲厚葬之。",
+        "en": "When Zhuangzi was about to die, his disciples signified their wish to give him a grand burial."
+      },
+      {
+        "ref": "32:96",
+        "zh": "莊子曰：「吾以天地為棺槨，以日月為連璧，星辰為珠璣，萬物為齎送。",
+        "en": "'I shall have heaven and earth,' said he, 'for my coffin and its shell; the sun and moon for my two round symbols of jade; the stars and constellations for my pearls and jewels; and all things assisting as the mourners."
+      },
+      {
+        "ref": "32:97",
+        "zh": "吾葬具豈不備邪？",
+        "en": "Will not the provisions for my burial be complete?"
+      },
+      {
+        "ref": "32:98",
+        "zh": "何以加此！」",
+        "en": "What could you add to them?'"
+      },
+      {
+        "ref": "32:99",
+        "zh": "弟子曰：「吾恐烏鳶之食夫子也。」",
+        "en": "The disciples replied, 'We are afraid that the crows and kites will eat our master.'"
+      },
+      {
+        "ref": "32:100",
+        "zh": "莊子曰：「在上為烏鳶食，在下為螻蟻食，奪彼與此，何其偏也！」",
+        "en": "Zhuangzi rejoined, 'Above, the crows and kites will eat me; below, the mole-crickets and ants will eat me: to take from those and give to these would only show your partiality.'"
+      },
+      {
+        "ref": "32:101",
+        "zh": "以不平平，其平也不平；以不徵徵，其徵也不徵。",
+        "en": "The attempt, with what is not even, to produce what is even will only produce an uneven result; the attempt, with what is uncertain, to make the uncertain certain will leave the uncertainty as it was."
+      },
+      {
+        "ref": "32:102",
+        "zh": "明者唯為之使，神者徵之。",
+        "en": "He who uses only the sight of his eyes is acted on by what he sees; it is the (intuition of the) spirit, that gives the assurance of certainty."
+      },
+      {
+        "ref": "32:103",
+        "zh": "夫明之不勝神也久矣，而愚者恃其所見入於人，其功外也，不亦悲乎！",
+        "en": "That the sight of the eyes is not equal to that intuition of the spirit is a thing long acknowledged. And yet stupid people rely on what they see, and will have it to be the sentiment of all men - all their success being with what is external: is it not sad?"
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "44",
+    "title": "Chapter 44",
+    "slug": "chapter-44",
+    "passages": [
+      {
+        "ref": "44:1",
+        "zh": "名與身孰親？",
+        "en": "(Cautions) Or fame or life, Which do you hold more dear?"
+      },
+      {
+        "ref": "44:2",
+        "zh": "身與貨孰多？",
+        "en": "Or life or wealth, To which would you adhere?"
+      },
+      {
+        "ref": "44:3",
+        "zh": "得與亡孰病？",
+        "en": "Keep life and lose those other things; Keep them and lose your life: - which brings Sorrow and pain more near?"
+      },
+      {
+        "ref": "44:4",
+        "zh": "是故甚愛必大費；",
+        "en": "Thus we may see, Who cleaves to fame Rejects what is more great;"
+      },
+      {
+        "ref": "44:5",
+        "zh": "多藏必厚亡。",
+        "en": "Who loves large stores Gives up the richer state."
+      },
+      {
+        "ref": "44:6",
+        "zh": "知足不辱，知止不殆，可以長久。",
+        "en": "Who is content Needs fear no shame. Who knows to stop Incurs no blame. From danger free Long live shall he."
+      }
+    ]
+  }
+}

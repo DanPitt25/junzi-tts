@@ -1,0 +1,88 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "58",
+    "title": "Dui",
+    "slug": "dui",
+    "passages": [
+      {
+        "ref": "58:1",
+        "zh": "兌：亨，利貞。",
+        "en": "Dui intimates that (under its conditions) there will be progress and attainment. (But) it will be advantageous to be firm and correct."
+      },
+      {
+        "ref": "58:2",
+        "zh": "兌，說也。剛中而柔外，說以利貞，是以順乎天，而應乎人。說以先民，民忘其勞；說以犯難，民忘其死；說之大，民勸矣哉！",
+        "en": "Dui has the meaning of pleased satisfaction. (We have) the strong (lines) in the centre, and the weak (lines) on the outer edge (of the two trigrams), (indicating that) in pleasure what is most advantageous is the maintenance of firm correctness. Through this there will be found an accordance with (the will of) heaven, and a correspondence with (the feelings of) men. When (such) pleasure goes before the people, (and leads them on), they forget their toils; when it animates them in encountering difficulties, they forget (the risk of) death. How great is (the power of) this pleased satisfaction, stimulating in such a way the people!"
+      },
+      {
+        "ref": "58:3",
+        "zh": "麗澤，兌；君子以朋友講習。",
+        "en": "(Two symbols representing) the waters of a marsh, one over the other, form Dui. The superior man, in accordance with this, (encourages) the conversation of friends and (the stimulus of) their (common) practice."
+      },
+      {
+        "ref": "58:4",
+        "zh": "初九：和兌，吉。",
+        "en": "The first NINE, undivided, shows the pleasure of (inward) harmony. There will be good fortune."
+      },
+      {
+        "ref": "58:5",
+        "zh": "和兌之吉，行未疑也。",
+        "en": "'The good fortune attached to the pleasure of (inward) harmony' arises from there being nothing in the conduct (of the subject of the line) to awaken doubt."
+      },
+      {
+        "ref": "58:6",
+        "zh": "九二：孚兌，吉，悔亡。",
+        "en": "The second NINE, undivided, shows the pleasure arising from (inward) sincerity. There will be good fortune. Occasion for repentance will disappear."
+      },
+      {
+        "ref": "58:7",
+        "zh": "孚兌之吉，信志也。",
+        "en": "'The good fortune attached to the pleasure arising from (inward sincerity)' is due to the confidence felt in the object (of the subject of the line)."
+      },
+      {
+        "ref": "58:8",
+        "zh": "六三：來兌，凶。",
+        "en": "The third SIX, divided, shows its subject bringing round himself whatever can give pleasure. There will be evil."
+      },
+      {
+        "ref": "58:9",
+        "zh": "來兌之凶，位不當也。",
+        "en": "'The evil predicated of one's bringing around himself whatever can give pleasure' is shown by the inappropriateness of the place (of the line)."
+      },
+      {
+        "ref": "58:10",
+        "zh": "九四：商兌，未寧，介疾有喜。",
+        "en": "The fourth NINE, undivided, shows its subject deliberating about what to seek his pleasure in, and not at rest. He borders on what would be injurious, but there will be cause for joy."
+      },
+      {
+        "ref": "58:11",
+        "zh": "九四之喜，有慶也。",
+        "en": "'The joy in connexion with (the subject of) the fourth NINE, (undivided): is due to the happiness (which he will produce)."
+      },
+      {
+        "ref": "58:12",
+        "zh": "九五：孚于剝，有厲。",
+        "en": "The fifth NINE, undivided, shows its subject trusting in one who would injure him. The situation is perilous."
+      },
+      {
+        "ref": "58:13",
+        "zh": "孚于剝，位正當也。",
+        "en": "'He trusts in one who would injure him:' - his place is that which is correct and appropriate."
+      },
+      {
+        "ref": "58:14",
+        "zh": "上六：引兌。",
+        "en": "The topmost SIX, divided, shows the pleasure of its subject in leading and attracting others."
+      },
+      {
+        "ref": "58:15",
+        "zh": "上六引兌，未光也。",
+        "en": "'The topmost SIX, (divided), shows the pleasure (of its subject) in leading and attracting others:' - his (virtue) is not yet brilliant."
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "52",
+    "title": "Chapter 52",
+    "slug": "chapter-52",
+    "passages": [
+      {
+        "ref": "52:1",
+        "zh": "天下有始，以為天下母。",
+        "en": "(Returning to the source) (The Dao) which originated all under the sky is to be considered as the mother of them all."
+      },
+      {
+        "ref": "52:2",
+        "zh": "既得其母，以知其子，既知其子，復守其母，沒身不殆。",
+        "en": "When the mother is found, we know what her children should be. When one knows that he is his mother's child, and proceeds to guard (the qualities of) the mother that belong to him, to the end of his life he will be free from all peril."
+      },
+      {
+        "ref": "52:3",
+        "zh": "塞其兌，閉其門，終身不勤。",
+        "en": "Let him keep his mouth closed, and shut up the portals (of his nostrils), and all his life he will be exempt from laborious exertion."
+      },
+      {
+        "ref": "52:4",
+        "zh": "開其兌，濟其事，終身不救。",
+        "en": "Let him keep his mouth open, and (spend his breath) in the promotion of his affairs, and all his life there will be no safety for him."
+      },
+      {
+        "ref": "52:5",
+        "zh": "見小曰明，守柔曰強。",
+        "en": "The perception of what is small is (the secret of) clear-sightedness; the guarding of what is soft and tender is (the secret of) strength."
+      },
+      {
+        "ref": "52:6",
+        "zh": "用其光，復歸其明，無遺身殃；是為習常。",
+        "en": "Who uses well his light, reverting to its (source so) bright, will from his body ward all blight, and hides the unchanging from men's sight."
+      }
+    ]
+  }
+}

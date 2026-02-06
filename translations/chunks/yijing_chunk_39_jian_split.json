@@ -1,0 +1,128 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "39",
+    "title": "Jian",
+    "slug": "jian",
+    "passages": [
+      {
+        "ref": "39:1",
+        "zh": "蹇：利西南，不利東北；",
+        "en": "In (the state indicated by) Jian advantage will be found in the south-west, and the contrary in the north-east."
+      },
+      {
+        "ref": "39:2",
+        "zh": "利見大人，貞吉。",
+        "en": "It will be advantageous (also) to meet with the great man. (In these circumstances), with firmness and correctness, there will be good fortune."
+      },
+      {
+        "ref": "39:3",
+        "zh": "蹇，難也，險在前也。",
+        "en": "Jian denotes difficulty. There is (the trigram expressive of) perilousness in front."
+      },
+      {
+        "ref": "39:4",
+        "zh": "見險而能止，知矣哉！",
+        "en": "When one, seeing the peril, can arrest his steps (in accordance with the significance of the lower trigram), is he not wise?"
+      },
+      {
+        "ref": "39:5",
+        "zh": "蹇利西南，往得中也；",
+        "en": "(The language of) Jian, that 'advantage will be found in the south-west,' refers to the (strong fifth line) advanced and in the central place."
+      },
+      {
+        "ref": "39:6",
+        "zh": "不利東北，其道窮也。",
+        "en": "That 'there will be no advantage in the north-east,' intimates that the way (of dealing with the Jian state) is exhausted."
+      },
+      {
+        "ref": "39:7",
+        "zh": "利見大人，往有功也。",
+        "en": "That 'it will be advantageous to see the great man,' intimates that advance will lead to achievement."
+      },
+      {
+        "ref": "39:8",
+        "zh": "當位貞吉，以正邦也。",
+        "en": "That the places (of the different lines after the first) are those appropriate to them indicates firm correctness and good fortune, with which the regions (of the kingdom) are brought to their normal state."
+      },
+      {
+        "ref": "39:9",
+        "zh": "蹇之時用大矣哉！",
+        "en": "Great indeed is the work to be done in the time of Jian!"
+      },
+      {
+        "ref": "39:10",
+        "zh": "山上有水，蹇；君子以反身修德。",
+        "en": "(The trigram representing) a mountain, and above it that for water, form Jian. The superior man, in accordance with this, turns round (and examines) himself, and cultivates his virtue."
+      },
+      {
+        "ref": "39:11",
+        "zh": "初六：往蹇，來譽。",
+        "en": "From the first SIX, divided, we learn that advance (on the part of its subject) will lead to (greater) difficulties, while remaining stationary will afford ground for praise."
+      },
+      {
+        "ref": "39:12",
+        "zh": "往蹇來譽，宜待也。",
+        "en": "'Advancing will conduct to (greater) difficulties, while remaining stationary will afford ground for praise:' - the proper course is to wait."
+      },
+      {
+        "ref": "39:13",
+        "zh": "六二：王臣蹇蹇，匪躬之故。",
+        "en": "The second SIX, divided, shows the minister of the king struggling with difficulty on difficulty, and not with a view to his own advantage."
+      },
+      {
+        "ref": "39:14",
+        "zh": "王臣蹇蹇，終无尤也。",
+        "en": "'The minister of the king struggles with difficulty on difficulty:' - in the end no blame will be attached to him."
+      },
+      {
+        "ref": "39:15",
+        "zh": "九三：往蹇來反。",
+        "en": "The third NINE, undivided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and returns (to his former associates)."
+      },
+      {
+        "ref": "39:16",
+        "zh": "往蹇來反，內喜之也。",
+        "en": "'He advances, (but only) to (greater) difficulty; he remains stationary, and returns to his former associates:' - they, (represented in) the inner (trigram), rejoice in him."
+      },
+      {
+        "ref": "39:17",
+        "zh": "六四：往蹇來連。",
+        "en": "The fourth SIX, divided, shows its subject advancing, (but only) to (greater) difficulties. He remains stationary, and unites (with the subject of the line above)."
+      },
+      {
+        "ref": "39:18",
+        "zh": "往蹇來連，當位實也。",
+        "en": "'To advance will (only be to) encounter (greater) difficulties; he remains stationary, and unites (with the subject of the line above):' - that is in its proper place and has the solidity (due to it in that position)."
+      },
+      {
+        "ref": "39:19",
+        "zh": "九五：大蹇朋來。",
+        "en": "The fifth NINE, undivided, shows its subject struggling with the greatest difficulties, while friends are coming to help him."
+      },
+      {
+        "ref": "39:20",
+        "zh": "大蹇朋來，以中節也。",
+        "en": "'He struggles with the greatest difficulties, while friends are coming (to help him):' - he is in the central position, and possesses the requisite virtue."
+      },
+      {
+        "ref": "39:21",
+        "zh": "上六：往蹇來碩，吉；利見大人。",
+        "en": "The topmost SIX, divided, shows its subject going forward, (only to increase) the difficulties, while his remaining stationary will be (productive of) great (merit). There will be good fortune, and it will be advantageous to meet with the great man."
+      },
+      {
+        "ref": "39:22",
+        "zh": "往蹇來碩，志在內也。",
+        "en": "'To advance will (only) increase the difficulties, while his remaining stationary will (be productive of) great (merit):' - his aim is to assist the (subject of the line) inside of him."
+      },
+      {
+        "ref": "39:23",
+        "zh": "利見大人，以從貴也。",
+        "en": "'It will be advantageous to meet the great man:' - by his course he follows that noble (lord of the figure)."
+      }
+    ]
+  }
+}

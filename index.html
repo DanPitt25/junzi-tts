@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Classical Chinese Reader</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+SC:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    html, body, #root { height: 100%; width: 100%; }
+    body { background: #110f0b; }
+    ::-webkit-scrollbar { width: 6px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: #3d3428; border-radius: 3px; }
+    ::selection { background: rgba(196, 163, 90, 0.3); }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .loading-spinner {
+      width: 20px; height: 20px;
+      border: 2px solid #3d3428;
+      border-top-color: #c4a35a;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+    @media (max-width: 768px) {
+      .mobile-hide { display: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script>
+"use strict";
+const { useState, useEffect, useRef, useCallback, createElement: h } = window.React;
+const API_BASE = window.location.origin;
+
+// === API Functions ===
+async function fetchCatalog() {
+  const r = await fetch(`${API_BASE}/api/catalog`);
+  return r.json();
+}
+
+async function fetchChapters(bookId) {
+  const r = await fetch(`${API_BASE}/api/chapters?id=${encodeURIComponent(bookId)}`);
+  return r.json();
+}
+
+async function fetchText(bookId, chapterSlug) {
+  const url = chapterSlug
+    ? `${API_BASE}/api/text?id=${encodeURIComponent(bookId)}&chapter=${encodeURIComponent(chapterSlug)}`
+    : `${API_BASE}/api/text?id=${encodeURIComponent(bookId)}`;
+  const r = await fetch(url);
+  return r.json();
+}
+
+// === TTS Hook ===
+function useTTS() {
+  const [serverOnline, setServerOnline] = useState(false);
+  const [playing, setPlaying] = useState(false);
+  const [playingLine, setPlayingLine] = useState(null);
+  const [loadingLine, setLoadingLine] = useState(null);
+  const [voice, setVoice] = useState("yunxi");
+  const [rate, setRate] = useState("-15%");
+  const audioRef = useRef(new Audio());
+  const abortRef = useRef(null);
+  const onEndedRef = useRef(null);
+
+  useEffect(() => {
+    let cancelled = false;
+    const check = async () => {
+      try {
+        const r = await fetch(`${API_BASE}/api/health`, { signal: AbortSignal.timeout(2000) });
+        if (!cancelled) setServerOnline(r.ok);
+      } catch { if (!cancelled) setServerOnline(false); }
+    };
+    check();
+    const iv = setInterval(check, 10000);
+    return () => { cancelled = true; clearInterval(iv); };
+  }, []);
+
+  const stop = useCallback(() => {
+    if (abortRef.current) abortRef.current.abort();
+    audioRef.current.pause();
+    audioRef.current.currentTime = 0;
+    audioRef.current.onended = null;
+    setPlaying(false);
+    setPlayingLine(null);
+    setLoadingLine(null);
+    onEndedRef.current = null;
+  }, []);
+
+  const speak = useCallback(async (text, lineIndex, onEnded) => {
+    stop();
+    if (!serverOnline || !text) return;
+    setLoadingLine(lineIndex);
+    abortRef.current = new AbortController();
+    onEndedRef.current = onEnded || null;
+    try {
+      const url = `${API_BASE}/api/tts?text=${encodeURIComponent(text)}&voice=${voice}&rate=${encodeURIComponent(rate)}`;
+      const response = await fetch(url, { signal: abortRef.current.signal });
+      if (!response.ok) throw new Error("TTS failed");
+      const blob = await response.blob();
+      const audioUrl = URL.createObjectURL(blob);
+      audioRef.current.src = audioUrl;
+      audioRef.current.onended = () => {
+        console.log("[TTS] Audio ended, calling callback:", !!onEndedRef.current);
+        setPlaying(false);
+        setPlayingLine(null);
+        URL.revokeObjectURL(audioUrl);
+        if (onEndedRef.current) onEndedRef.current();
+      };
+      setLoadingLine(null);
+      setPlaying(true);
+      setPlayingLine(lineIndex);
+      await audioRef.current.play();
+    } catch (e) {
+      if (e.name !== "AbortError") console.error("TTS error:", e);
+      setLoadingLine(null);
+      setPlaying(false);
+      setPlayingLine(null);
+    }
+  }, [serverOnline, voice, rate, stop]);
+
+  return { serverOnline, playing, playingLine, loadingLine, voice, setVoice, rate, setRate, speak, stop };
+}
+
+// === Mobile Detection Hook ===
+function useIsMobile(breakpoint = 768) {
+  const [isMobile, setIsMobile] = useState(() => window.innerWidth < breakpoint);
+  useEffect(() => {
+    const handler = () => setIsMobile(window.innerWidth < breakpoint);
+    window.addEventListener("resize", handler);
+    return () => window.removeEventListener("resize", handler);
+  }, [breakpoint]);
+  return isMobile;
+}
+
+// === Components ===
+
+function CharacterPopover({ char, position, onClose }) {
+  const ref = useRef(null);
+  useEffect(() => {
+    const handler = (e) => { if (ref.current && !ref.current.contains(e.target)) onClose(); };
+    document.addEventListener("mousedown", handler);
+    return () => document.removeEventListener("mousedown", handler);
+  }, [onClose]);
+
+  if (/[\u3000-\u303F\uFF00-\uFFEF\u2000-\u206F「」『』（）、。！？：；\s]/.test(char)) return null;
+
+  const popoverWidth = 200;
+  const popoverHeight = 160;
+  const left = Math.max(10, Math.min(position.x - popoverWidth / 2, window.innerWidth - popoverWidth - 10));
+  const top = position.y + 20 + popoverHeight > window.innerHeight
+    ? position.y - popoverHeight - 10
+    : position.y + 20;
+
+  return h("div", { ref, style: {
+    position: "fixed", left, top,
+    background: "#1a1612", border: "1px solid #3d3428", borderRadius: 6,
+    padding: "12px 16px", zIndex: 1000, minWidth: 180, boxShadow: "0 8px 32px rgba(0,0,0,0.5)",
+  }},
+    h("div", { style: { fontSize: 42, textAlign: "center", color: "#e8dcc8", fontFamily: "'Noto Serif SC', serif", lineHeight: 1.3 }}, char),
+    h("div", { style: { borderTop: "1px solid #3d3428", marginTop: 10, paddingTop: 10, fontSize: 14, color: "#8a7e6b", textAlign: "center" }}, "Open full dictionary entry"),
+    h("a", {
+      href: `https://ctext.org/dictionary.pl?if=en&char=${encodeURIComponent(char)}`,
+      target: "_blank", rel: "noopener noreferrer",
+      style: { display: "block", textAlign: "center", marginTop: 10, padding: "10px 0",
+        background: "#2a2418", border: "1px solid #3d3428", borderRadius: 4,
+        color: "#c4a35a", fontSize: 15, textDecoration: "none" }
+    }, "Look up on CTP →")
+  );
+}
+
+function PlayButton({ isPlaying, isLoading, onClick, size = 32 }) {
+  return h("button", {
+    onClick,
+    style: {
+      background: "none", border: `1px solid ${isPlaying ? "#c4a35a" : "#3d3428"}`,
+      borderRadius: "50%", width: size, height: size, cursor: "pointer",
+      display: "flex", alignItems: "center", justifyContent: "center",
+      color: isPlaying ? "#c4a35a" : "#6b6050", transition: "all 0.2s",
+    }
+  },
+    isLoading
+      ? h("span", { style: { fontSize: 8, animation: "pulse 1s infinite" }}, "...")
+      : isPlaying
+        ? h("svg", { width: 10, height: 10, viewBox: "0 0 10 10" },
+            h("rect", { x: 1, y: 1, width: 3, height: 8, fill: "currentColor" }),
+            h("rect", { x: 6, y: 1, width: 3, height: 8, fill: "currentColor" }))
+        : h("svg", { width: 10, height: 10, viewBox: "0 0 10 10" },
+            h("polygon", { points: "2,0 10,5 2,10", fill: "currentColor" }))
+  );
+}
+
+function ReadingLine({ line, index, isActive, onClick, onPlayAudio, tts, showEnglish }) {
+  const [hoveredChar, setHoveredChar] = useState(null);
+  const [popoverPos, setPopoverPos] = useState(null);
+  const [enExpanded, setEnExpanded] = useState(false);
+
+  // Auto-expand translation when line becomes active
+  useEffect(() => {
+    if (isActive && !showEnglish) {
+      setEnExpanded(true);
+    }
+  }, [isActive, showEnglish]);
+
+  const handleClick = useCallback(() => {
+    if (isActive) {
+      // Already focused - play audio
+      onPlayAudio();
+    } else {
+      // Not focused - focus it (translation will auto-show via useEffect)
+      onClick();
+    }
+  }, [isActive, onClick, onPlayAudio]);
+
+  const handleCharClick = useCallback((e, char) => {
+    e.stopPropagation();
+    setHoveredChar(char);
+    setPopoverPos({ x: e.clientX, y: e.clientY });
+  }, []);
+
+  const isLoading = tts.loadingLine === index;
+  const isPlayingThis = tts.playingLine === index && tts.playing;
+  const zhChars = [...(line.zh || "")];
+  const hasEnglish = line.en && line.en.trim();
+  const showEn = isActive && hasEnglish && (showEnglish || enExpanded);
+
+  return h("div", {
+    onClick: handleClick,
+    style: {
+      padding: "20px 24px", cursor: "pointer",
+      borderLeft: `3px solid ${isActive ? "#c4a35a" : "transparent"}`,
+      background: isActive ? "rgba(196, 163, 90, 0.06)" : "transparent",
+      transition: "all 0.3s ease", marginBottom: 2,
+    }
+  },
+    h("div", { style: { display: "flex", alignItems: "flex-start", gap: 16 }},
+      h("div", { style: { display: "flex", flexDirection: "column", alignItems: "center", gap: 8, minWidth: 40, paddingTop: 4 }},
+        h("span", { style: { fontFamily: "'Noto Serif SC', serif", fontSize: 15, color: "#5a5040", userSelect: "none" }}, index + 1),
+        isActive && tts.serverOnline && h(PlayButton, {
+          isPlaying: isPlayingThis, isLoading,
+          onClick: (e) => { e.stopPropagation(); if (isPlayingThis) tts.stop(); else tts.speak(line.zh, index); }
+        })
+      ),
+      h("div", { style: { flex: 1 }},
+        h("div", {
+          style: {
+            fontFamily: "'Noto Serif SC', serif", fontSize: isActive ? 26 : 24,
+            lineHeight: 1.8, color: isActive ? "#e8dcc8" : "#a89b84",
+            letterSpacing: "0.05em", transition: "all 0.3s ease",
+          }
+        },
+          zhChars.map((char, i) => h("span", {
+            key: i,
+            onClick: (e) => handleCharClick(e, char),
+            style: { cursor: "pointer", transition: "color 0.15s" },
+            onMouseEnter: (e) => { if (isActive) e.target.style.color = "#c4a35a"; },
+            onMouseLeave: (e) => { if (isActive) e.target.style.color = ""; },
+          }, char))
+        ),
+        // English toggle button
+        isActive && hasEnglish && !showEnglish && h("button", {
+          onClick: (e) => { e.stopPropagation(); setEnExpanded(!enExpanded); },
+          style: {
+            marginTop: 8, background: "none", border: "none", color: "#6b6050",
+            cursor: "pointer", fontSize: 14, padding: "4px 0",
+            fontFamily: "'EB Garamond', Georgia, serif",
+          }
+        }, enExpanded ? "Hide translation" : "Show translation"),
+        // English text
+        h("div", {
+          style: {
+            fontFamily: "'EB Garamond', Georgia, serif",
+            fontSize: 19, lineHeight: 1.8, color: "#9a8e7b",
+            marginTop: 10,
+            maxHeight: showEn ? "none" : 0, overflow: "hidden", opacity: showEn ? 1 : 0,
+            transition: "all 0.4s ease",
+          }
+        }, line.en || "")
+      )
+    ),
+    hoveredChar && popoverPos && h(CharacterPopover, { char: hoveredChar, position: popoverPos, onClose: () => setHoveredChar(null) })
+  );
+}
+
+function BookSelector({ books, currentBook, onSelect, loading }) {
+  const [expanded, setExpanded] = useState(null);
+
+  return h("div", { style: { padding: "20px 0" }},
+    loading
+      ? h("div", { style: { display: "flex", justifyContent: "center", padding: 40 }},
+          h("div", { className: "loading-spinner" }))
+      : books.map(book => h("div", { key: book.id, style: { marginBottom: 4 }},
+          h("div", {
+            onClick: () => { setExpanded(expanded === book.id ? null : book.id); onSelect(book); },
+            style: {
+              padding: "10px 20px", cursor: "pointer", display: "flex", alignItems: "center", gap: 12,
+              color: currentBook?.id === book.id ? "#c4a35a" : "#8a7e6b", transition: "color 0.2s",
+            },
+            onMouseEnter: (e) => e.currentTarget.style.color = "#c4a35a",
+            onMouseLeave: (e) => { if (currentBook?.id !== book.id) e.currentTarget.style.color = "#8a7e6b"; },
+          },
+            h("span", { style: { fontFamily: "'Noto Serif SC', serif", fontSize: 22 }}, book.title),
+            h("span", { style: { fontFamily: "'EB Garamond', Georgia, serif", fontSize: 16, opacity: 0.7 }}, book.titleEn)
+          )
+        ))
+  );
+}
+
+function ChapterList({ chapters, currentChapter, onSelect, loading }) {
+  if (loading) {
+    return h("div", { style: { display: "flex", justifyContent: "center", padding: 20 }},
+      h("div", { className: "loading-spinner" }));
+  }
+  if (!chapters || chapters.length === 0) {
+    return h("div", { style: { padding: "20px", color: "#5a5040", fontSize: 16, fontStyle: "italic" }},
+      "No chapters found");
+  }
+
+  return h("div", { style: { paddingTop: 10 }},
+    chapters.map((ch, i) => h("div", {
+      key: ch.slug || i,
+      onClick: () => onSelect(ch),
+      style: {
+        padding: "12px 20px", cursor: "pointer",
+        color: currentChapter?.slug === ch.slug ? "#c4a35a" : "#6b6050",
+        fontSize: 17, fontFamily: "'EB Garamond', Georgia, serif",
+        transition: "color 0.2s",
+      },
+      onMouseEnter: (e) => e.currentTarget.style.color = "#c4a35a",
+      onMouseLeave: (e) => { if (currentChapter?.slug !== ch.slug) e.currentTarget.style.color = "#6b6050"; },
+    },
+      h("span", { style: { fontFamily: "'Noto Serif SC', serif", marginRight: 8 }}, ch.title || `Chapter ${i + 1}`)
+    ))
+  );
+}
+
+function TTSPanel({ tts }) {
+  const [open, setOpen] = useState(false);
+  const VOICE_OPTIONS = [
+    { key: "yunxi", label: "雲希 Yunxi" },
+    { key: "xiaoxiao", label: "曉曉 Xiaoxiao" },
+    { key: "yunyang", label: "雲揚 Yunyang" },
+    { key: "xiaoyi", label: "曉伊 Xiaoyi" },
+  ];
+  const RATE_OPTIONS = [
+    { key: "-30%", label: "Slow" },
+    { key: "-15%", label: "Study" },
+    { key: "+0%", label: "Normal" },
+    { key: "+15%", label: "Fast" },
+  ];
+
+  return h("div", { style: { borderTop: "1px solid #2a2418", padding: "12px 20px" }},
+    h("div", {
+      onClick: () => setOpen(!open),
+      style: { display: "flex", alignItems: "center", gap: 8, cursor: "pointer", userSelect: "none" }
+    },
+      h("div", { style: {
+        width: 8, height: 8, borderRadius: "50%",
+        background: tts.serverOnline ? "#5a8a3a" : "#8a3a3a",
+        boxShadow: tts.serverOnline ? "0 0 6px rgba(90,138,58,0.5)" : "0 0 6px rgba(138,58,58,0.5)",
+      }}),
+      h("span", { style: { fontSize: 14, color: "#6b6050" }}, tts.serverOnline ? "TTS Ready" : "TTS Connecting..."),
+      h("span", { style: { marginLeft: "auto", fontSize: 12, color: "#4a4030", transform: open ? "rotate(90deg)" : "rotate(0)", transition: "transform 0.2s" }}, "▶")
+    ),
+    h("div", { style: { maxHeight: open ? 300 : 0, overflow: "hidden", transition: "max-height 0.3s ease" }},
+      h("div", { style: { paddingTop: 12 }},
+        h("div", { style: { fontSize: 12, color: "#5a5040", textTransform: "uppercase", letterSpacing: "0.15em", marginBottom: 10 }}, "Voice"),
+        h("div", { style: { display: "flex", flexWrap: "wrap", gap: 6 }},
+          VOICE_OPTIONS.map(v => h("button", {
+            key: v.key, onClick: () => tts.setVoice(v.key),
+            style: {
+              background: tts.voice === v.key ? "rgba(196,163,90,0.15)" : "transparent",
+              border: `1px solid ${tts.voice === v.key ? "#c4a35a" : "#2a2418"}`, borderRadius: 4,
+              padding: "6px 10px", cursor: "pointer", color: tts.voice === v.key ? "#c4a35a" : "#6b6050",
+              fontSize: 14, fontFamily: "'EB Garamond', Georgia, serif",
+            }
+          }, v.label))
+        ),
+        h("div", { style: { fontSize: 12, color: "#5a5040", textTransform: "uppercase", letterSpacing: "0.15em", marginTop: 14, marginBottom: 10 }}, "Speed"),
+        h("div", { style: { display: "flex", gap: 6 }},
+          RATE_OPTIONS.map(r => h("button", {
+            key: r.key, onClick: () => tts.setRate(r.key),
+            style: {
+              background: tts.rate === r.key ? "rgba(196,163,90,0.15)" : "transparent",
+              border: `1px solid ${tts.rate === r.key ? "#c4a35a" : "#2a2418"}`, borderRadius: 4,
+              padding: "6px 10px", cursor: "pointer", color: tts.rate === r.key ? "#c4a35a" : "#6b6050",
+              fontSize: 14, fontFamily: "'EB Garamond', Georgia, serif",
+            }
+          }, r.label))
+        )
+      )
+    )
+  );
+}
+
+// === Main App ===
+function App() {
+  const [catalog, setCatalog] = useState([]);
+  const [catalogLoading, setCatalogLoading] = useState(true);
+  const [currentBook, setCurrentBook] = useState(null);
+  const [chapters, setChapters] = useState([]);
+  const [chaptersLoading, setChaptersLoading] = useState(false);
+  const [currentChapter, setCurrentChapter] = useState(null);
+  const [passages, setPassages] = useState([]);
+  const [passagesLoading, setPassagesLoading] = useState(false);
+  const [activeLine, setActiveLine] = useState(0);
+  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [autoPlay, setAutoPlay] = useState(false);
+  const [showEnglish, setShowEnglish] = useState(false);
+  const contentRef = useRef(null);
+  const tts = useTTS();
+  const isMobile = useIsMobile();
+
+  const autoPlayRef = useRef(autoPlay);
+  autoPlayRef.current = autoPlay;
+  const passagesRef = useRef(passages);
+  passagesRef.current = passages;
+  const activeLineRef = useRef(activeLine);
+  activeLineRef.current = activeLine;
+  const playLineRef = useRef(null);
+
+  // Load catalog on mount
+  useEffect(() => {
+    fetchCatalog().then(data => {
+      setCatalog(data.books || []);
+      setCatalogLoading(false);
+    }).catch(e => {
+      console.error("Failed to load catalog:", e);
+      setCatalogLoading(false);
+    });
+  }, []);
+
+  // Load chapters when book changes
+  const handleBookSelect = async (book) => {
+    console.log("[Frontend] Book selected:", book.id, book.title);
+    setCurrentBook(book);
+    setCurrentChapter(null);
+    setPassages([]);
+    setChapters([]);
+    setChaptersLoading(true);
+    try {
+      console.log("[Frontend] Fetching chapters for:", book.id);
+      const data = await fetchChapters(book.id);
+      console.log("[Frontend] Chapters response:", data);
+      // New API returns chapters array directly
+      const chapterList = (data.chapters || []).map(ch => ({
+        slug: ch.slug || ch.number,
+        title: ch.title,
+        number: ch.number,
+        passageCount: ch.passageCount
+      }));
+      console.log("[Frontend] Chapters:", chapterList.length, chapterList);
+      setChapters(chapterList);
+    } catch (e) {
+      console.error("Failed to load chapters:", e);
+    }
+    setChaptersLoading(false);
+  };
+
+  // Load text when chapter changes
+  const handleChapterSelect = async (chapter) => {
+    console.log("[Frontend] Chapter selected:", chapter.slug, chapter.title);
+    tts.stop();
+    setCurrentChapter(chapter);
+    setPassages([]);
+    setActiveLine(0);
+    setAutoPlay(false);
+    setPassagesLoading(true);
+    if (isMobile) setSidebarOpen(false); // Auto-close sidebar on mobile
+    if (contentRef.current) contentRef.current.scrollTop = 0;
+    try {
+      console.log("[Frontend] Fetching text for:", currentBook.id, chapter.slug);
+      const data = await fetchText(currentBook.id, chapter.slug);
+      console.log("[Frontend] Text response:", data);
+      setPassages(data.passages || []);
+    } catch (e) {
+      console.error("Failed to load text:", e);
+    }
+    setPassagesLoading(false);
+  };
+
+  const playLineWithAutoAdvance = useCallback((text, lineIndex) => {
+    console.log("[Auto] Starting line", lineIndex);
+    setActiveLine(lineIndex); // Sync visual highlight with playback
+    tts.speak(text, lineIndex, () => {
+      console.log("[Auto] Callback for line", lineIndex, "autoPlay:", autoPlayRef.current);
+      if (!autoPlayRef.current) return;
+      const ps = passagesRef.current;
+      if (lineIndex < ps.length - 1) {
+        const next = lineIndex + 1;
+        setTimeout(() => {
+          if (playLineRef.current && autoPlayRef.current) {
+            playLineRef.current(ps[next].zh, next);
+          }
+        }, 400);
+      } else {
+        setAutoPlay(false);
+      }
+    });
+  }, [tts]);
+  playLineRef.current = playLineWithAutoAdvance;
+
+  // Keyboard nav
+  const handleKeyDown = useCallback((e) => {
+    const ps = passagesRef.current;
+    if (!ps.length) return;
+    if (e.key === "ArrowDown" || e.key === "j") {
+      e.preventDefault();
+      if (!autoPlayRef.current) tts.stop();
+      setActiveLine(prev => Math.min(prev + 1, ps.length - 1));
+    } else if (e.key === "ArrowUp" || e.key === "k") {
+      e.preventDefault();
+      if (!autoPlayRef.current) tts.stop();
+      setActiveLine(prev => Math.max(prev - 1, 0));
+    } else if (e.key === " " && tts.serverOnline && ps.length) {
+      e.preventDefault();
+      if (tts.playing) { tts.stop(); setAutoPlay(false); }
+      else tts.speak(ps[activeLineRef.current]?.zh, activeLineRef.current);
+    } else if (e.key === "Escape") {
+      tts.stop();
+      setAutoPlay(false);
+    }
+  }, [tts]);
+
+  useEffect(() => {
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [handleKeyDown]);
+
+  useEffect(() => {
+    const el = document.getElementById(`line-${activeLine}`);
+    if (el) el.scrollIntoView({ behavior: "smooth", block: "center" });
+  }, [activeLine]);
+
+  const progress = passages.length ? ((activeLine + 1) / passages.length) * 100 : 0;
+
+  return h("div", {
+    style: {
+      display: "flex", height: "100vh", width: "100vw",
+      background: "#110f0b", color: "#a89b84",
+      fontFamily: "'EB Garamond', Georgia, serif", overflow: "hidden",
+    }
+  },
+    // Mobile backdrop
+    isMobile && sidebarOpen && h("div", {
+      onClick: () => setSidebarOpen(false),
+      style: {
+        position: "fixed", top: 0, left: 0, right: 0, bottom: 0,
+        background: "rgba(0,0,0,0.6)", zIndex: 99,
+      }
+    }),
+    // Sidebar
+    h("div", {
+      style: isMobile ? {
+        position: "fixed", top: 0, left: 0, bottom: 0,
+        width: sidebarOpen ? "85vw" : 0, maxWidth: 360,
+        background: "#15130e", borderRight: sidebarOpen ? "1px solid #2a2418" : "none",
+        overflow: "hidden", transition: "all 0.3s ease", display: "flex", flexDirection: "column",
+        zIndex: 100,
+      } : {
+        width: sidebarOpen ? 320 : 0, minWidth: sidebarOpen ? 320 : 0,
+        background: "#15130e", borderRight: sidebarOpen ? "1px solid #2a2418" : "none",
+        overflow: "hidden", transition: "all 0.3s ease", display: "flex", flexDirection: "column",
+      }
+    },
+      h("div", { style: { padding: "24px 20px 16px", borderBottom: "1px solid #2a2418" }},
+        h("div", { style: { fontSize: 13, textTransform: "uppercase", letterSpacing: "0.2em", color: "#5a5040", marginBottom: 6 }}, "Classical Chinese Reader"),
+        h("div", { style: { fontFamily: "'Noto Serif SC', serif", fontSize: 18, color: "#c4a35a" }}, "經典研讀")
+      ),
+      h("div", { style: { flex: 1, overflowY: "auto" }},
+        currentBook
+          ? h("div", null,
+              h("div", {
+                onClick: () => { setCurrentBook(null); setChapters([]); setCurrentChapter(null); setPassages([]); },
+                style: { padding: "14px 20px", cursor: "pointer", color: "#6b6050", fontSize: 15, borderBottom: "1px solid #2a2418", display: "flex", alignItems: "center", gap: 10 }
+              },
+                h("span", null, "←"),
+                h("span", null, "Back to texts")
+              ),
+              h("div", { style: { padding: "18px 20px", borderBottom: "1px solid #2a2418" }},
+                h("div", { style: { fontFamily: "'Noto Serif SC', serif", fontSize: 24, color: "#c4a35a" }}, currentBook.title),
+                h("div", { style: { fontSize: 16, color: "#6b6050", fontStyle: "italic", marginTop: 6 }}, currentBook.titleEn)
+              ),
+              h(ChapterList, { chapters, currentChapter, onSelect: handleChapterSelect, loading: chaptersLoading })
+            )
+          : h(BookSelector, { books: catalog, currentBook, onSelect: handleBookSelect, loading: catalogLoading })
+      ),
+      h(TTSPanel, { tts }),
+      h("div", { style: { padding: "14px 20px", borderTop: "1px solid #2a2418", fontSize: 14, color: "#4a4030" }},
+        "Powered by the Chinese Text Project",
+        h("br"),
+        h("a", { href: "https://ctext.org", target: "_blank", rel: "noopener noreferrer", style: { color: "#6b6050", textDecoration: "none", fontSize: 14 }}, "ctext.org")
+      )
+    ),
+
+    // Main content
+    h("div", { style: { flex: 1, display: "flex", flexDirection: "column", overflow: "hidden" }},
+      // Header
+      h("div", {
+        style: {
+          padding: isMobile ? "12px 16px" : "16px 24px", borderBottom: "1px solid #2a2418",
+          display: "flex", alignItems: "center", gap: isMobile ? 12 : 16, background: "#13110d",
+        }
+      },
+        h("button", {
+          onClick: () => setSidebarOpen(!sidebarOpen),
+          style: { background: "none", border: "1px solid #3d3428", borderRadius: 4, color: "#8a7e6b", cursor: "pointer", padding: isMobile ? "8px 12px" : "4px 8px", fontSize: 14, lineHeight: 1 }
+        }, sidebarOpen ? "←" : "☰"),
+        h("div", { style: { display: "flex", alignItems: "baseline", gap: 12, flex: 1, minWidth: 0, overflow: "hidden" }},
+          currentBook
+            ? h("span", { style: { fontFamily: "'Noto Serif SC', serif", fontSize: isMobile ? 20 : 26, color: "#e8dcc8", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }},
+                currentBook.title,
+                currentChapter && ` · ${currentChapter.title || ""}`)
+            : h("span", { style: { fontSize: isMobile ? 16 : 20, color: "#5a5040", fontStyle: "italic" }}, "Select a text"),
+          !isMobile && currentBook && h("span", { style: { fontSize: 16, color: "#6b6050", fontStyle: "italic", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }},
+            currentBook.titleEn)
+        ),
+        passages.length > 0 && h("div", { style: { display: "flex", alignItems: "center", gap: isMobile ? 8 : 16 }},
+          h("span", { style: { fontSize: 14, color: "#5a5040", whiteSpace: "nowrap" }}, `${activeLine + 1}/${passages.length}`),
+          !isMobile && h("div", { style: { width: 100, height: 3, background: "#2a2418", borderRadius: 2, overflow: "hidden" }},
+            h("div", { style: { width: `${progress}%`, height: "100%", background: "linear-gradient(90deg, #c4a35a, #8a6e2f)", borderRadius: 2, transition: "width 0.3s ease" }}))
+        )
+      ),
+
+      // Reading area
+      h("div", { ref: contentRef, style: { flex: 1, overflowY: "auto", padding: "20px 0" }},
+        passagesLoading
+          ? h("div", { style: { display: "flex", justifyContent: "center", alignItems: "center", height: "100%" }},
+              h("div", { className: "loading-spinner" }))
+          : passages.length === 0
+            ? h("div", { style: { display: "flex", justifyContent: "center", alignItems: "center", height: "100%", color: "#5a5040", fontStyle: "italic", fontSize: 18 }},
+                currentChapter ? "No text found" : "Select a text and chapter from the sidebar")
+            : h("div", { style: { maxWidth: 800, margin: "0 auto" }},
+                passages.map((line, i) => h("div", { key: i, id: `line-${i}` },
+                  h(ReadingLine, {
+                    line, index: i, isActive: activeLine === i, tts, showEnglish,
+                    onClick: () => { setActiveLine(i); },
+                    onPlayAudio: () => { tts.speak(line.zh, i); }
+                  })
+                )),
+                h("div", { style: { textAlign: "center", padding: "40px 20px", color: "#5a5040", fontStyle: "italic", fontSize: 16 }}, "End of chapter")
+              )
+      ),
+
+      // Footer
+      passages.length > 0 && h("div", {
+        style: {
+          padding: isMobile ? "10px 12px" : "12px 24px", borderTop: "1px solid #2a2418", background: "#13110d",
+          display: "flex", alignItems: "center", justifyContent: "center", gap: isMobile ? 8 : 10, flexWrap: "wrap",
+        }
+      },
+        !isMobile && h("button", {
+          onClick: () => { if (!autoPlay) tts.stop(); setActiveLine(Math.max(0, activeLine - 1)); },
+          disabled: activeLine === 0,
+          style: { background: "none", border: "1px solid #3d3428", borderRadius: 4, color: activeLine === 0 ? "#2a2418" : "#8a7e6b", cursor: activeLine === 0 ? "default" : "pointer", padding: "10px 16px", fontSize: 15, fontFamily: "'EB Garamond', Georgia, serif" }
+        }, "↑ Prev"),
+
+        tts.serverOnline && h("button", {
+          onClick: () => { if (tts.playing) tts.stop(); else tts.speak(passages[activeLine]?.zh, activeLine); },
+          style: { background: tts.playing ? "rgba(196,163,90,0.15)" : "none", border: `1px solid ${tts.playing ? "#c4a35a" : "#3d3428"}`, borderRadius: 4, color: tts.playing ? "#c4a35a" : "#8a7e6b", cursor: "pointer", padding: isMobile ? "12px 20px" : "10px 16px", fontSize: isMobile ? 15 : 15, fontFamily: "'EB Garamond', Georgia, serif" }
+        }, tts.loadingLine !== null ? "..." : tts.playing ? "Pause" : "Play"),
+
+        !isMobile && tts.serverOnline && h("button", {
+          onClick: () => {
+            const next = !autoPlay;
+            setAutoPlay(next);
+            if (next && !tts.playing) playLineWithAutoAdvance(passages[activeLine]?.zh, activeLine);
+            if (!next) tts.stop();
+          },
+          style: { background: autoPlay ? "rgba(196,163,90,0.15)" : "none", border: `1px solid ${autoPlay ? "#c4a35a" : "#3d3428"}`, borderRadius: 4, color: autoPlay ? "#c4a35a" : "#8a7e6b", cursor: "pointer", padding: "10px 16px", fontSize: 15, fontFamily: "'EB Garamond', Georgia, serif" }
+        }, `Auto ${autoPlay ? "On" : "Off"}`),
+
+        h("button", {
+          onClick: () => setShowEnglish(!showEnglish),
+          style: { background: showEnglish ? "rgba(196,163,90,0.15)" : "none", border: `1px solid ${showEnglish ? "#c4a35a" : "#3d3428"}`, borderRadius: 4, color: showEnglish ? "#c4a35a" : "#8a7e6b", cursor: "pointer", padding: isMobile ? "12px 20px" : "10px 16px", fontSize: isMobile ? 15 : 15, fontFamily: "'EB Garamond', Georgia, serif" }
+        }, "English"),
+
+        !isMobile && h("div", { style: { padding: "10px 14px", fontSize: 14, color: "#5a5040", border: "1px solid #2a2418", borderRadius: 4, background: "#1a1612" }},
+          h("span", { style: { color: "#6b6050" }}, "space"), " play ",
+          h("span", { style: { color: "#4a4030" }}, "|"), " ",
+          h("span", { style: { color: "#6b6050" }}, "j/k"), " nav"
+        ),
+
+        !isMobile && h("button", {
+          onClick: () => { if (!autoPlay) tts.stop(); setActiveLine(Math.min(passages.length - 1, activeLine + 1)); },
+          disabled: activeLine === passages.length - 1,
+          style: { background: "none", border: "1px solid #3d3428", borderRadius: 4, color: activeLine === passages.length - 1 ? "#2a2418" : "#8a7e6b", cursor: activeLine === passages.length - 1 ? "default" : "pointer", padding: "10px 16px", fontSize: 15, fontFamily: "'EB Garamond', Georgia, serif" }
+        }, "Next ↓")
+      )
+    )
+  );
+}
+
+window.ReactDOM.createRoot(document.getElementById("root")).render(h(App));
+  </script>
+</body>
+</html>

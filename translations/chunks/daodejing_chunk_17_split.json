@@ -1,0 +1,48 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "17",
+    "title": "Chapter 17",
+    "slug": "chapter-17",
+    "passages": [
+      {
+        "ref": "17:1",
+        "zh": "太上，下知有之；",
+        "en": "(The unadulterated influence) In the highest antiquity, (the people) did not know that there were (their rulers)."
+      },
+      {
+        "ref": "17:2",
+        "zh": "其次，親而譽之；",
+        "en": "In the next age they loved them and praised them."
+      },
+      {
+        "ref": "17:3",
+        "zh": "其次，畏之；",
+        "en": "In the next they feared them;"
+      },
+      {
+        "ref": "17:4",
+        "zh": "其次，侮之。",
+        "en": "in the next they despised them."
+      },
+      {
+        "ref": "17:5",
+        "zh": "信不足，焉有不信焉。",
+        "en": "Thus it was that when faith (in the Dao) was deficient (in the rulers) a want of faith in them ensued (in the people)."
+      },
+      {
+        "ref": "17:6",
+        "zh": "悠兮，其貴言。",
+        "en": "How irresolute did those (earliest rulers) appear, showing (by their reticence) the importance which they set upon their words!"
+      },
+      {
+        "ref": "17:7",
+        "zh": "功成事遂，百姓皆謂我自然。",
+        "en": "Their work was done and their undertakings were successful, while the people all said, 'We are as we are, of ourselves!'"
+      }
+    ]
+  }
+}

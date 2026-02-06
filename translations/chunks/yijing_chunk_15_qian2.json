@@ -1,0 +1,18 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "15",
+    "title": "Qian2",
+    "slug": "qian2",
+    "passages": [
+      {
+        "ref": "15:1",
+        "zh": "大哉乾元，萬物資始，乃統天。雲行雨施，品物流形。大明始終，六位時成，時乘六龍以御天。乾道變化，各正性命，保合大和，乃利貞。首出庶物，萬國咸寧。",
+        "en": "Vast is the 'great and originating (power)' indicated by Qian! All things owe to it their beginning: - it contains all the meaning belonging to (the name) heaven. The clouds move and the rain is distributed; the various things appear in their developed forms. (The sages) grandly understand (the connexion between) the end and the beginning, and how (the indications of) the six lines (in the hexagram) are accomplished, (each) in its season. (Accordingly) they mount (the carriage) drawn by those six dragons at the proper times, and drive through the sky. The method of Qian is to change and transform, so that everything obtains its correct nature as appointed (by the mind of Heaven); and (thereafter the conditions of) great harmony are preserved in union. The result is 'what is advantageous, and correct and firm. (The sage) appears aloft, high above all things, and the myriad states all enjoy repose."
+      }
+    ]
+  }
+}

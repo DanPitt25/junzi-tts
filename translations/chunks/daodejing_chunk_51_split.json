@@ -1,0 +1,38 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "51",
+    "title": "Chapter 51",
+    "slug": "chapter-51",
+    "passages": [
+      {
+        "ref": "51:1",
+        "zh": "道生之，德畜之，物形之，勢成之。",
+        "en": "(The operation (of the Dao) in nourishing things) All things are produced by the Dao, and nourished by its outflowing operation. They receive their forms according to the nature of each, and are completed according to the circumstances of their condition."
+      },
+      {
+        "ref": "51:2",
+        "zh": "是以萬物莫不尊道而貴德。",
+        "en": "Therefore all things without exception honour the Dao, and exalt its outflowing operation."
+      },
+      {
+        "ref": "51:3",
+        "zh": "道之尊，德之貴，夫莫之命常自然。",
+        "en": "This honouring of the Dao and exalting of its operation is not the result of any ordination, but always a spontaneous tribute."
+      },
+      {
+        "ref": "51:4",
+        "zh": "故道生之，德畜之；長之育之；亭之毒之；養之覆之。",
+        "en": "Thus it is that the Dao produces (all things), nourishes them, brings them to their full growth, nurses them, completes them, matures them, maintains them, and overspreads them."
+      },
+      {
+        "ref": "51:5",
+        "zh": "生而不有，為而不恃，長而不宰，是謂玄德。",
+        "en": "It produces them and makes no claim to the possession of them; it carries them through their processes and does not vaunt its ability in doing so; it brings them to maturity and exercises no control over them; - this is called its mysterious operation."
+      }
+    ]
+  }
+}

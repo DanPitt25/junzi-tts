@@ -1,0 +1,38 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "80",
+    "title": "Chapter 80",
+    "slug": "chapter-80",
+    "passages": [
+      {
+        "ref": "80:1",
+        "zh": "小國寡民。",
+        "en": "(Standing alone) In a little state with a small population, I would so order it, that, though there were individuals with the abilities of ten or a hundred men, there should be no employment of them;"
+      },
+      {
+        "ref": "80:2",
+        "zh": "使有什伯之器而不用；使民重死而不遠徙。",
+        "en": "I would make the people, while looking on death as a grievous thing, yet not remove elsewhere (to avoid it)."
+      },
+      {
+        "ref": "80:3",
+        "zh": "雖有舟輿，無所乘之，雖有甲兵，無所陳之。",
+        "en": "Though they had boats and carriages, they should have no occasion to ride in them; though they had buff coats and sharp weapons, they should have no occasion to don or use them."
+      },
+      {
+        "ref": "80:4",
+        "zh": "使民復結繩而用之，甘其食，美其服，安其居，樂其俗。",
+        "en": "I would make the people return to the use of knotted cords (instead of the written characters). They should think their (coarse) food sweet; their (plain) clothes beautiful; their (poor) dwellings places of rest; and their common (simple) ways sources of enjoyment."
+      },
+      {
+        "ref": "80:5",
+        "zh": "鄰國相望，雞犬之聲相聞，民至老死，不相往來。",
+        "en": "There should be a neighbouring state within sight, and the voices of the fowls and dogs should be heard all the way from it to us, but I would make the people to old age, even to death, not have any intercourse with it."
+      }
+    ]
+  }
+}

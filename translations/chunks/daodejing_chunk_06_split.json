@@ -1,0 +1,28 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "6",
+    "title": "Chapter 6",
+    "slug": "chapter-6",
+    "passages": [
+      {
+        "ref": "6:1",
+        "zh": "谷神不死，是謂玄牝。",
+        "en": "(The completion of material forms) The valley spirit dies not, aye the same; the female mystery thus do we name."
+      },
+      {
+        "ref": "6:2",
+        "zh": "玄牝之門，是謂天地根。",
+        "en": "Its gate, from which at first they issued forth, is called the root from which grew heaven and earth."
+      },
+      {
+        "ref": "6:3",
+        "zh": "綿綿若存，用之不勤。",
+        "en": "Long and unbroken does its power remain, used gently, and without the touch of pain."
+      }
+    ]
+  }
+}

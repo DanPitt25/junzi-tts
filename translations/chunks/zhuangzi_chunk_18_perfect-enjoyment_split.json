@@ -1,0 +1,453 @@
+{
+  "id": "zhuangzi",
+  "title": "莊子",
+  "titleEn": "Zhuangzi",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "18",
+    "title": "Perfect Enjoyment",
+    "slug": "perfect-enjoyment",
+    "passages": [
+      {
+        "ref": "18:1",
+        "zh": "天下有至樂無有哉？",
+        "en": "Under the sky is perfect enjoyment to be found or not?"
+      },
+      {
+        "ref": "18:2",
+        "zh": "有可以活身者無有哉？",
+        "en": "Are there any who can preserve themselves alive or not?"
+      },
+      {
+        "ref": "18:3",
+        "zh": "今奚為奚據？",
+        "en": "If there be, what do they do? What do they maintain?"
+      },
+      {
+        "ref": "18:4",
+        "zh": "奚避奚處？",
+        "en": "What do they avoid? What do they attend to?"
+      },
+      {
+        "ref": "18:5",
+        "zh": "奚就奚去？",
+        "en": "Where do they resort to? Where do they keep from?"
+      },
+      {
+        "ref": "18:6",
+        "zh": "奚樂奚惡？",
+        "en": "What do they delight in? What do they dislike?"
+      },
+      {
+        "ref": "18:7",
+        "zh": "夫天下之所尊者，富貴壽善也；所樂者，身安、厚味、美服、好色、音聲也；所下者，貧賤夭惡也；所苦者，身不得安逸，口不得厚味，形不得美服，目不得好色，耳不得音聲；若不得者，則大憂以懼。",
+        "en": "What the world honours is riches, dignities, lonevity, and being deemed able. What it delights in is rest for the body, rich flavours, fine garments, beautiful colours, and pleasant music. What it looks down on are poverty and mean condition, short life and being deemed feeble. What men consider bitter experiences are that their bodies do not get rest and ease, that their mouths do not get food of rich flavour, that their persons are not finely clothed, that their eyes do not see beautiful colours, and that their ears do not listen to pleasant music. If they do not got these things, they are very sorrowful, and go on to be troubled with fears."
+      },
+      {
+        "ref": "18:8",
+        "zh": "其為形也亦愚哉！",
+        "en": "Their thoughts are all about the body - are they not silly?"
+      },
+      {
+        "ref": "18:9",
+        "zh": "夫富者，苦身疾作，多積財而不得盡用，其為形也亦外矣。",
+        "en": "Now the rich embitter their lives by their incessant labours; they accumulate more wealth than they can use: while they act thus for the body, they make it external to themselves."
+      },
+      {
+        "ref": "18:10",
+        "zh": "夫貴者，夜以繼日，思慮善否，其為形也亦疏矣。",
+        "en": "Those who seek for honours carry their pursuit of them from the day into the night, full of anxiety about their methods whether they are skilful or not: while they act thus for the body they treat it as if it were indifferent to them."
+      },
+      {
+        "ref": "18:11",
+        "zh": "人之生也，與憂俱生，壽者惛惛，久憂不死，何苦也！",
+        "en": "The birth of man is at the same time the birth of his sorrow; and if he live long he becomes more and more stupid, and the longer is his anxiety that he may not die; how great is his bitterness!"
+      },
+      {
+        "ref": "18:12",
+        "zh": "其為形也亦遠矣。",
+        "en": "-- while he thus acts for his body, it is for a distant result."
+      },
+      {
+        "ref": "18:13",
+        "zh": "烈士為天下見善矣，未足以活身。",
+        "en": "Meritorious officers are regarded by the world as good; but (their goodness) is not sufficient to keep their persons alive."
+      },
+      {
+        "ref": "18:14",
+        "zh": "吾未知善之誠善邪，誠不善邪？",
+        "en": "I do not know whether the goodness ascribed to them be really good or really not good."
+      },
+      {
+        "ref": "18:15",
+        "zh": "若以為善矣，不足活身；以為不善矣，足以活人。",
+        "en": "If indeed it be considered good, it is not sufficient to preserve their persons alive; if it be deemed not good, it is sufficient to preserve other men alive."
+      },
+      {
+        "ref": "18:16",
+        "zh": "故曰：「忠諫不聽，蹲循勿爭。」",
+        "en": "Hence it is said, 'When faithful remonstrances are not listened to, (the remonstrant) should sit still, let (his ruler) take his course, and not strive with him.'"
+      },
+      {
+        "ref": "18:17",
+        "zh": "故夫子胥爭之以殘其形，不爭，名亦不成。",
+        "en": "Therefore when Zi-xu strove with (his ruler), he brought on himself the mutilation of his body. If he had not so striven, he would not have acquired his fame."
+      },
+      {
+        "ref": "18:18",
+        "zh": "誠有善無有哉？",
+        "en": "Was such (goodness) really good or was it not?"
+      },
+      {
+        "ref": "18:19",
+        "zh": "今俗之所為與其所樂，吾又未知樂之果樂邪，果不樂邪？",
+        "en": "As to what the common people now do, and what they find their enjoyment in, I do not know whether the enjoyment be really enjoyment or really not."
+      },
+      {
+        "ref": "18:20",
+        "zh": "吾觀夫俗之所樂，舉群趣者，誙誙然如將不得已，而皆曰樂者，吾未之樂也，亦未之不樂也。",
+        "en": "I see them in their pursuit of it following after all their aims as if with the determination of death, and as if they could not stop in their course; but what they call enjoyment would not be so to me, while yet I do not say that there is no enjoyment in it."
+      },
+      {
+        "ref": "18:21",
+        "zh": "果有樂無有哉？",
+        "en": "Is there indeed such enjoyment, or is there not?"
+      },
+      {
+        "ref": "18:22",
+        "zh": "吾以無為誠樂矣，又俗之所大苦也。",
+        "en": "I consider doing nothing (to obtain it) to be the great enjoyment, while ordinarily people consider it to be a great evil."
+      },
+      {
+        "ref": "18:23",
+        "zh": "故曰：「至樂無樂，至譽無譽。」",
+        "en": "Hence it is said, 'Perfect enjoyment is to be without enjoyment; the highest praise is to be without praise.'"
+      },
+      {
+        "ref": "18:24",
+        "zh": "天下是非果未可定也。",
+        "en": "The right and the wrong (on this point of enjoyment) cannot indeed be determined according to (the view of) the world."
+      },
+      {
+        "ref": "18:25",
+        "zh": "雖然，無為可以定是非。",
+        "en": "Nevertheless, this doing nothing (to obtain it) may determine the right and the wrong."
+      },
+      {
+        "ref": "18:26",
+        "zh": "至樂活身，唯無為幾存。",
+        "en": "Since perfect enjoyment is (held to be) the keeping the body alive, it is only by this doing nothing that that end is likely to be secured."
+      },
+      {
+        "ref": "18:27",
+        "zh": "請嘗試言之。",
+        "en": "Allow me to try and explain this (more fully)."
+      },
+      {
+        "ref": "18:28",
+        "zh": "天無為以之清，地無為以之寧，故兩無為相合，萬物皆化。",
+        "en": "Heaven does nothing, and thence comes its serenity; Earth does nothing, and thence comes its rest. By the union of these two inactivities, all things are produced."
+      },
+      {
+        "ref": "18:29",
+        "zh": "芒乎芴乎，而無從出乎！",
+        "en": "How vast and imperceptible is the process!-- they seem to come from nowhere!"
+      },
+      {
+        "ref": "18:30",
+        "zh": "芴乎芒乎，而無有象乎！",
+        "en": "How imperceptible and vast!-- there is no visible image of it!"
+      },
+      {
+        "ref": "18:31",
+        "zh": "萬物職職，皆從無為殖。",
+        "en": "All things in all their variety grow from this Inaction."
+      },
+      {
+        "ref": "18:32",
+        "zh": "故曰：「天地無為也，而無不為也。」",
+        "en": "Hence it is said, 'Heaven and Earth do nothing, and yet there is nothing that they do not do.'"
+      },
+      {
+        "ref": "18:33",
+        "zh": "人也，孰能得無為哉！",
+        "en": "But what man is there that can attain to this inaction?"
+      },
+      {
+        "ref": "18:34",
+        "zh": "莊子妻死，惠子弔之，莊子則方箕踞鼓盆而歌。",
+        "en": "When Zhuangzi's wife died, Huizi went to condole with him, and, finding him squatted on the ground, drumming on the basin, and singing."
+      },
+      {
+        "ref": "18:35",
+        "zh": "惠子曰：「與人居長子，老身死，不哭亦足矣，又鼓盆而歌，不亦甚乎！」",
+        "en": "Huizi said to him, 'When a wife has lived with her husband, and brought up children, and then dies in her old age, not to wail for her is enough. When you go on to drum on this basin and sing, is it not an excessive (and strange) demonstration?'"
+      },
+      {
+        "ref": "18:36",
+        "zh": "莊子曰：「不然。",
+        "en": "Zhuangzi replied, 'It is not so."
+      },
+      {
+        "ref": "18:37",
+        "zh": "是其始死也，我獨何能無概然！",
+        "en": "When she first died, was it possible for me to be singular and not affected by the event?"
+      },
+      {
+        "ref": "18:38",
+        "zh": "察其始而本無生，非徒無生也，而本無形，非徒無形也，而本無氣。",
+        "en": "But I reflected on the commencement of her being. She had not yet been born to life; not only had she no life, but she had no bodily form; not only had she no bodily form, but she had no breath."
+      },
+      {
+        "ref": "18:39",
+        "zh": "雜乎芒芴之間，變而有氣，氣變而有形，形變而有生，今又變而之死，是相與為春秋冬夏四時行也。",
+        "en": "During the intermingling of the waste and dark chaos, there ensued a change, and there was breath; another change, and there was the bodily form; another change, and there came birth and life. There is now a change again, and she is dead. The relation between these things is like the procession of the four seasons from spring to autumn, from winter to summer."
+      },
+      {
+        "ref": "18:40",
+        "zh": "人且偃然寢於巨室，而我噭噭然隨而哭之，自以為不通乎命，故止也。」",
+        "en": "There now she lies with her face up, sleeping in the Great Chamber; and if I were to fall sobbing and going on to wall for her, I should think that I did not understand what was appointed (for all). I therefore restrained myself!'"
+      },
+      {
+        "ref": "18:41",
+        "zh": "支離叔與滑介叔觀於冥伯之丘，崑崙之虛，黃帝之所休。",
+        "en": "Mr. Deformed and Mr. One-foot were looking at the mound-graves of the departed in the wild of Kun-lun, where Huang-Di had entered into his rest."
+      },
+      {
+        "ref": "18:42",
+        "zh": "俄而柳生其左肘，其意蹶蹶然惡之。",
+        "en": "Suddenly a tumour began to grow on their left wrists, which made them look distressed as if they disliked it."
+      },
+      {
+        "ref": "18:43",
+        "zh": "支離叔曰：「子惡之乎？」",
+        "en": "The former said to the other, 'Do you dread it?'"
+      },
+      {
+        "ref": "18:44",
+        "zh": "滑介叔曰：「亡。",
+        "en": "'No,' replied he, 'why should I dread it?"
+      },
+      {
+        "ref": "18:45",
+        "zh": "予何惡？",
+        "en": ""
+      },
+      {
+        "ref": "18:46",
+        "zh": "生者，假借也；假之而生生者，塵垢也。",
+        "en": "Life is a borrowed thing. The living frame thus borrowed is but so much dust."
+      },
+      {
+        "ref": "18:47",
+        "zh": "死生為晝夜。",
+        "en": "Life and death are like day and night."
+      },
+      {
+        "ref": "18:48",
+        "zh": "且吾與子觀化而化及我，我又何惡焉？」",
+        "en": "And you and I were looking at (the graves of) those who have undergone their change. If my change is coming to me, why should I dislike it?'"
+      },
+      {
+        "ref": "18:49",
+        "zh": "莊子之楚，見空髑髏，髐然有形，撽以馬捶，因而問之曰：「夫子貪生失理，而為此乎？",
+        "en": "When Zhuangzi went to Chu, he saw an empty skull, bleached indeed, but still retaining its shape. Tapping it with his horse-switch, he asked it, saying, 'Did you, Sir, in your greed of life, fail in the lessons of reason, and come to this?"
+      },
+      {
+        "ref": "18:50",
+        "zh": "將子有亡國之事，斧鉞之誅，而為此乎？",
+        "en": "Or did you do so, in the service of a perishing state, by the punishment of the axe?"
+      },
+      {
+        "ref": "18:51",
+        "zh": "將子有不善之行，愧遺父母妻子之醜，而為此乎？",
+        "en": "Or was it through your evil conduct, reflecting disgrace on your parents and on your wife and children?"
+      },
+      {
+        "ref": "18:52",
+        "zh": "將子有凍餒之患，而為此乎？",
+        "en": "Or was it through your hard endurances of cold and hunger?"
+      },
+      {
+        "ref": "18:53",
+        "zh": "將子之春秋故及此乎？」",
+        "en": "Or was it that you had completed your term of life?'"
+      },
+      {
+        "ref": "18:54",
+        "zh": "於是語卒，援髑髏枕而臥。",
+        "en": "Having given expression to these questions, he took up the skull, and made a pillow of it when he went to sleep."
+      },
+      {
+        "ref": "18:55",
+        "zh": "夜半，髑髏見夢曰：「子之談者似辯士。",
+        "en": "At midnight the skull appeared to him in a dream, and said, 'What you said to me was after the fashion of an orator."
+      },
+      {
+        "ref": "18:56",
+        "zh": "視子所言，皆生人之累也，死則無此矣。",
+        "en": "All your words were about the entanglements of men in their lifetime. There are none of those things after death."
+      },
+      {
+        "ref": "18:57",
+        "zh": "子欲聞死之說乎？」",
+        "en": "Would you like to hear me, Sir, tell you about death?'"
+      },
+      {
+        "ref": "18:58",
+        "zh": "莊子曰：「然。」",
+        "en": "'I should,' said Zhuangzi."
+      },
+      {
+        "ref": "18:59",
+        "zh": "髑髏曰：「死，無君於上，無臣於下，亦無四時之事，從然以天地為春秋，雖南面王樂，不能過也。」",
+        "en": "The skull resumed: 'In death there are not (the distinctions of) ruler above and minister below. There are none of the phenomena of the four seasons. Tranquil and at ease, our years are those of heaven and earth. No king in his court has greater enjoyment than we have.'"
+      },
+      {
+        "ref": "18:60",
+        "zh": "莊子不信，曰：「吾使司命復生子形，為子骨肉肌膚，反子父母妻子、閭里、知識，子欲之乎？」",
+        "en": "Zhuangzi did not believe it, and said, 'If I could get the Ruler of our Destiny to restore your body to life with its bones and flesh and skin, and to give you back your father and mother, your wife and children, and all your village acquaintances, would you wish me to do so?'"
+      },
+      {
+        "ref": "18:61",
+        "zh": "髑髏深矉蹙頞曰：「吾安能棄南面王樂而復為人間之勞乎？」",
+        "en": "The skull stared fixedly at him, knitted its brows, and said, 'How should I cast away the enjoyment of my royal court, and undertake again the toils of life among mankind?'"
+      },
+      {
+        "ref": "18:62",
+        "zh": "顏淵東之齊，孔子有憂色。",
+        "en": "When Yan Yuan went eastwards to Qi, Confucius wore a look of sorrow."
+      },
+      {
+        "ref": "18:63",
+        "zh": "子貢下席而問曰：「小子敢問：回東之齊，夫子有憂色，何邪？」",
+        "en": "Zi-gong left his mat, and asked him, saying, 'Your humble disciple ventures to ask how it is that the going eastwards of Hui to Qi has given you such a look of sadness.'"
+      },
+      {
+        "ref": "18:64",
+        "zh": "孔子曰：「善哉汝問！",
+        "en": "Confucius said, 'Your question is good."
+      },
+      {
+        "ref": "18:65",
+        "zh": "昔者管子有言，丘甚善之，曰：『褚小者不可以懷大，綆短者不可以汲深。』",
+        "en": "Formerly Guanzi used words of which I very much approve. He said, \"A small bag cannot be made to contain what is large; a short rope cannot be used to draw water from a deep well.\""
+      },
+      {
+        "ref": "18:66",
+        "zh": "夫若是者，以為命有所成而形有所適也，夫不可損益。",
+        "en": "So it is, and man's appointed lot is definitely determined, and his body is adapted for definite ends, so that neither the one nor the other can be augmented or diminished."
+      },
+      {
+        "ref": "18:67",
+        "zh": "吾恐回與齊侯言堯、舜、黃帝之道，而重以燧人、神農之言。",
+        "en": "I am afraid that Hui will talk with the marquis of Qi about the ways of Huang-Di, Yao, and Shun, and go on to relate the words of Sui-ren and Shen Nong."
+      },
+      {
+        "ref": "18:68",
+        "zh": "彼將內求於己而不得，不得則惑，人惑則死。",
+        "en": "The marquis will seek (for the correspondence of what he is told) in himself; and, not finding it there, will suspect the speaker; and that speaker, being suspected, will be put to death."
+      },
+      {
+        "ref": "18:69",
+        "zh": "且女獨不聞邪？",
+        "en": "And have you not heard this?"
+      },
+      {
+        "ref": "18:70",
+        "zh": "昔者海鳥止於魯郊，魯侯御而觴之於廟，奏九韶以為樂，具太牢以為善。",
+        "en": "Formerly a sea-bird alighted in the suburban country of Lu. The marquis went out to meet it, (brought it) to the ancestral temple, and prepared to banquet it there. The Jiu-shao was performed to afford it music; an ox, a sheep, and a pig were killed to supply the food."
+      },
+      {
+        "ref": "18:71",
+        "zh": "鳥乃眩視憂悲，不敢食一臠，不敢飲一杯，三日而死。",
+        "en": "The bird, however, looked at everything with dim eyes, and was very sad. It did not venture to eat a single bit of flesh, nor to drink a single cupful; and in three days it died."
+      },
+      {
+        "ref": "18:72",
+        "zh": "此以己養養鳥也，非以鳥養養鳥也。",
+        "en": "The marquis was trying to nourish the bird with what he used for himself, and not with the nourishment proper for a bird."
+      },
+      {
+        "ref": "18:73",
+        "zh": "夫以鳥養養鳥者，宜栖之深林，遊之壇陸，浮之江湖，食之鰍鰷，隨行列而止，委蛇而處。",
+        "en": "They who would nourish birds as they ought to be nourished should let them perch in the deep forests, or roam over sandy plains; float on the rivers and lakes; feed on the eels and small fish; wing their flight in regular order and then stop; and be free and at ease in their resting-places."
+      },
+      {
+        "ref": "18:74",
+        "zh": "彼唯人言之惡聞，奚以夫譊譊為乎！",
+        "en": "It was a distress to that bird to hear men speak; what did it care for all the noise and hubbub made about it?"
+      },
+      {
+        "ref": "18:75",
+        "zh": "咸池、九韶之樂，張之洞庭之野，鳥聞之而飛，獸聞之而走，魚聞之而下入，人卒聞之，相與還而觀之。",
+        "en": "If the music of the Jiu-shao or the Xian-chi were performed in the wild of the Dong-ting lake, birds would fly away, and beasts would run off when they heard it, and fishes would dive down to the bottom of the water; while men, when they hear it, would come all round together, and look on."
+      },
+      {
+        "ref": "18:76",
+        "zh": "魚處水而生，人處水而死，故必相與異，其好惡故異也。",
+        "en": "Fishes live and men die in the water. They are different in constitution, and therefore differ in their likes and dislikes."
+      },
+      {
+        "ref": "18:77",
+        "zh": "故先聖不一其能，不同其事。",
+        "en": "Hence it was that the ancient sages did not require (from all) the same ability, nor demand the same performances."
+      },
+      {
+        "ref": "18:78",
+        "zh": "名止於實，義設於適，是之謂條達而福持。」",
+        "en": "They gave names according to the reality of what was done, and gave their approbation where it was specially suitable. This was what was called the method of universal adaptation and of sure success.'"
+      },
+      {
+        "ref": "18:79",
+        "zh": "列子行食於道，從見百歲髑髏，攓蓬而指之曰：「唯予與汝知而未嘗死，未嘗生也。",
+        "en": "Liezi (once) upon a journey took a meal by the road-side. There he saw a skull a hundred years old, and, pulling away the bush (under which it lay), he pointed to it and said, 'It is only you and I who know that you are not dead, and that (aforetime) you were not alive."
+      },
+      {
+        "ref": "18:80",
+        "zh": "若果養乎？",
+        "en": "Do you indeed really find (in death) the nourishment (which you like)?"
+      },
+      {
+        "ref": "18:81",
+        "zh": "予果歡乎？」",
+        "en": "Do I really find (in life my proper) enjoyment?"
+      },
+      {
+        "ref": "18:82",
+        "zh": "種有幾，得水則為㡭，得水土之際則為蛙蠙之衣，生於陵屯則為陵舄，陵舄得鬱棲則為烏足，烏足之根為蠐螬，其葉為蝴蝶。",
+        "en": "The seeds (of things) are multitudinous and minute. On the surface of the water they form a membranous texture. When they reach to where the land and water join they become the (lichens which we call the) clothes of frogs and oysters. Coming to life on mounds and heights, they become the plantain; and, receiving manure, appear as crows' feet. The roots of the crow's foot become grubs, and its leaves, butterflies."
+      },
+      {
+        "ref": "18:83",
+        "zh": "胡蝶，胥也化而為蟲，生於灶下，其狀若脫，其名為鴝掇。",
+        "en": "This butterfly, known by the name of xu, is changed into an insect, and comes to life under a furnace. Then it has the form of a moth, and is named the Qu-duo."
+      },
+      {
+        "ref": "18:84",
+        "zh": "鴝掇千日為鳥，其名曰乾餘骨。",
+        "en": "The Qu-duo after a thousand days becomes a bird, called the gan-yu-gu."
+      },
+      {
+        "ref": "18:85",
+        "zh": "乾餘骨之沬為斯彌，斯彌為食醯。",
+        "en": "Its saliva becomes the si-mi, and this again the shi-xi (or pickle-eater)."
+      },
+      {
+        "ref": "18:86",
+        "zh": "頤輅生乎食醯，黃軦生乎九猷，瞀芮生乎腐蠸。",
+        "en": "The yi-lu is produced from the pickle-eater; the huang-kuang from the jiu-you; the mou-rui from the fu-quan."
+      },
+      {
+        "ref": "18:87",
+        "zh": "羊奚比乎不筍，久竹生青寧，青寧生程，程生馬，馬生人，人又反入於機。",
+        "en": "The yang-xi uniting with a bamboo, which has long ceased to put forth sprouts, produces the qing-ning; the qing-ning, the panther; the panther, the horse; and the horse, the man."
+      },
+      {
+        "ref": "18:88",
+        "zh": "萬物皆出於機，皆入於機。",
+        "en": "Man then again enters into the great Machinery (of Evolution), from which all things come forth (at birth), and which they enter at death."
+      }
+    ]
+  }
+}

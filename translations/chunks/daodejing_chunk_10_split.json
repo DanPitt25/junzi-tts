@@ -1,0 +1,48 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "10",
+    "title": "Chapter 10",
+    "slug": "chapter-10",
+    "passages": [
+      {
+        "ref": "10:1",
+        "zh": "載營魄抱一，能無離乎？",
+        "en": "(Possibilities through the Dao) When the intelligent and animal souls are held together in one embrace, they can be kept from separating."
+      },
+      {
+        "ref": "10:2",
+        "zh": "專氣致柔，能嬰兒乎？",
+        "en": "When one gives undivided attention to the (vital) breath, and brings it to the utmost degree of pliancy, he can become as a (tender) babe."
+      },
+      {
+        "ref": "10:3",
+        "zh": "滌除玄覽，能無疵乎？",
+        "en": "When he has cleansed away the most mysterious sights (of his imagination), he can become without a flaw."
+      },
+      {
+        "ref": "10:4",
+        "zh": "愛民治國，能無知乎？",
+        "en": "In loving the people and ruling the state, cannot he proceed without any (purpose of) action?"
+      },
+      {
+        "ref": "10:5",
+        "zh": "天門開闔，能為雌乎？",
+        "en": "In the opening and shutting of his gates of heaven, cannot he do so as a female bird?"
+      },
+      {
+        "ref": "10:6",
+        "zh": "明白四達，能無知乎？",
+        "en": "While his intelligence reaches in every direction, cannot he (appear to) be without knowledge?"
+      },
+      {
+        "ref": "10:7",
+        "zh": "生之、畜之，生而不有，為而不恃，長而不宰，是謂玄德。",
+        "en": "(The Dao) produces (all things) and nourishes them; it produces them and does not claim them as its own; it does all, and yet does not boast of it; it presides over all, and yet does not control them. This is what is called 'The mysterious Quality' (of the Dao)."
+      }
+    ]
+  }
+}

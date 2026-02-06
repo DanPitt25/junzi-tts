@@ -1,0 +1,38 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "37",
+    "title": "Chapter 37",
+    "slug": "chapter-37",
+    "passages": [
+      {
+        "ref": "37:1",
+        "zh": "道常無為而無不為。",
+        "en": "(The exercise of government) The Dao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do."
+      },
+      {
+        "ref": "37:2",
+        "zh": "侯王若能守之，萬物將自化。",
+        "en": "If princes and kings were able to maintain it, all things would of themselves be transformed by them."
+      },
+      {
+        "ref": "37:3",
+        "zh": "化而欲作，吾將鎮之以無名之樸。",
+        "en": "If this transformation became to me an object of desire, I would express the desire by the nameless simplicity."
+      },
+      {
+        "ref": "37:4",
+        "zh": "無名之樸，夫亦將無欲。",
+        "en": "Simplicity without a name is free from all external aim."
+      },
+      {
+        "ref": "37:5",
+        "zh": "不欲以靜，天下將自定。",
+        "en": "With no desire, at rest and still, all things go right as of their will."
+      }
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "12",
+    "title": "Chapter 12",
+    "slug": "chapter-12",
+    "passages": [
+      {
+        "ref": "12:1",
+        "zh": "五色令人目盲；",
+        "en": "(The repression of the desires) Colour's five hues from the eyes their sight will take;"
+      },
+      {
+        "ref": "12:2",
+        "zh": "五音令人耳聾；",
+        "en": "Music's five notes the ears as deaf can make;"
+      },
+      {
+        "ref": "12:3",
+        "zh": "五味令人口爽；",
+        "en": "The flavours five deprive the mouth of taste;"
+      },
+      {
+        "ref": "12:4",
+        "zh": "馳騁田獵，令人心發狂；",
+        "en": "The chariot course, and the wild hunting waste make mad the mind;"
+      },
+      {
+        "ref": "12:5",
+        "zh": "難得之貨，令人行妨。",
+        "en": "and objects rare and strange, sought for, men's conduct will to evil change."
+      },
+      {
+        "ref": "12:6",
+        "zh": "是以聖人為腹不為目，故去彼取此。",
+        "en": "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes. He puts from him the latter, and prefers to seek the former."
+      }
+    ]
+  }
+}

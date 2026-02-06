@@ -1,0 +1,43 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "42",
+    "title": "Chapter 42",
+    "slug": "chapter-42",
+    "passages": [
+      {
+        "ref": "42:1",
+        "zh": "道生一，一生二，二生三，三生萬物。",
+        "en": "(The transformations of the Dao) The Dao produced One; One produced Two; Two produced Three; Three produced All things."
+      },
+      {
+        "ref": "42:2",
+        "zh": "萬物負陰而抱陽，沖氣以為和。",
+        "en": "All things leave behind them the Obscurity (out of which they have come), and go forward to embrace the Brightness (into which they have emerged), while they are harmonised by the Breath of Vacancy."
+      },
+      {
+        "ref": "42:3",
+        "zh": "人之所惡，唯孤、寡、不穀，而王公以為稱。",
+        "en": "What men dislike is to be orphans, to have little virtue, to be as carriages without naves; and yet these are the designations which kings and princes use for themselves."
+      },
+      {
+        "ref": "42:4",
+        "zh": "故物或損之而益，或益之而損。",
+        "en": "So it is that some things are increased by being diminished, and others are diminished by being increased."
+      },
+      {
+        "ref": "42:5",
+        "zh": "人之所教，我亦教之。",
+        "en": "What other men (thus) teach, I also teach."
+      },
+      {
+        "ref": "42:6",
+        "zh": "強梁者不得其死，吾將以為教父。",
+        "en": "The violent and strong do not die their natural death. I will make this the basis of my teaching."
+      }
+    ]
+  }
+}

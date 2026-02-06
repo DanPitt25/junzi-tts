@@ -1,0 +1,328 @@
+{
+  "id": "analects",
+  "title": "論語",
+  "titleEn": "Analects",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "9",
+    "title": "Zi Han",
+    "slug": "zi-han",
+    "passages": [
+      {
+        "ref": "9:1",
+        "zh": "子罕言利，與命，與仁。",
+        "en": "The subjects of which the Master seldom spoke were: profitableness, and also the appointments of Heaven, and perfect virtue."
+      },
+      {
+        "ref": "9:2",
+        "zh": "達巷黨人曰：「大哉孔子！博學而無所成名。」",
+        "en": "A man of the village of Da Xiang said, \"Great indeed is the philosopher Kong! His learning is extensive, and yet he does not render his name famous by any particular thing.\""
+      },
+      {
+        "ref": "9:3",
+        "zh": "子聞之，謂門弟子曰：「吾何執？執御乎？執射乎？吾執御矣。」",
+        "en": "The Master heard the observation, and said to his disciples, \"What shall I practice? Shall I practice charioteering, or shall I practice archery? I will practice charioteering.\""
+      },
+      {
+        "ref": "9:4",
+        "zh": "子曰：「麻冕，禮也；今也純，儉。吾從眾。",
+        "en": "The Master said, \"The linen cap is that prescribed by the rules of ceremony, but now a silk one is worn. It is economical, and I follow the common practice."
+      },
+      {
+        "ref": "9:5",
+        "zh": "拜下，禮也；今拜乎上，泰也。雖違眾，吾從下。」",
+        "en": "Bowing below the hall is prescribed by the rules of ceremony, but now the practice is to bow only after ascending it. That is arrogant. I continue to bow below the hall, though I oppose the common practice.\""
+      },
+      {
+        "ref": "9:6",
+        "zh": "子絕四：毋意，毋必，毋固，毋我。",
+        "en": "There were four things from which the Master was entirely free. He had no foregone conclusions, no arbitrary predeterminations, no obstinacy, and no egoism."
+      },
+      {
+        "ref": "9:7",
+        "zh": "子畏於匡。",
+        "en": "The Master was put in fear in Kuang."
+      },
+      {
+        "ref": "9:8",
+        "zh": "曰：「文王既沒，文不在茲乎？",
+        "en": "He said, \"After the death of King Wen, was not the cause of truth lodged here in me?"
+      },
+      {
+        "ref": "9:9",
+        "zh": "天之將喪斯文也，後死者不得與於斯文也；",
+        "en": "If Heaven had wished to let this cause of truth perish, then I, a future mortal, should not have got such a relation to that cause."
+      },
+      {
+        "ref": "9:10",
+        "zh": "天之未喪斯文也，匡人其如予何？」",
+        "en": "While Heaven does not let the cause of truth perish, what can the people of Kuang do to me?\""
+      },
+      {
+        "ref": "9:11",
+        "zh": "大宰問於子貢曰：「夫子聖者與？何其多能也？」",
+        "en": "A high officer asked Zi Gong, saying, \"May we not say that your Master is a sage? How various is his ability!\""
+      },
+      {
+        "ref": "9:12",
+        "zh": "子貢曰：「固天縱之將聖，又多能也。」",
+        "en": "Zi Gong said, \"Certainly Heaven has endowed him unlimitedly. He is about a sage. And, moreover, his ability is various.\""
+      },
+      {
+        "ref": "9:13",
+        "zh": "子聞之，曰：「大宰知我乎！吾少也賤，故多能鄙事。",
+        "en": "The Master heard of the conversation and said, \"Does the high officer know me? When I was young, my condition was low, and therefore I acquired my ability in many things, but they were mean matters."
+      },
+      {
+        "ref": "9:14",
+        "zh": "君子多乎哉？不多也。」",
+        "en": "Must the superior man have such variety of ability? He does not need variety of ability.\""
+      },
+      {
+        "ref": "9:15",
+        "zh": "牢曰：「子云，『吾不試，故藝』。」",
+        "en": "Lao said, \"The Master said, 'Having no official employment, I acquired many arts.'\""
+      },
+      {
+        "ref": "9:16",
+        "zh": "子曰：「吾有知乎哉？無知也。",
+        "en": "The Master said, \"Am I indeed possessed of knowledge? I am not knowing."
+      },
+      {
+        "ref": "9:17",
+        "zh": "有鄙夫問於我，空空如也，我叩其兩端而竭焉。」",
+        "en": "But if a mean person, who appears quite empty-like, ask anything of me, I set it forth from one end to the other, and exhaust it.\""
+      },
+      {
+        "ref": "9:18",
+        "zh": "子曰：「鳳鳥不至，河不出圖，吾已矣夫！」",
+        "en": "The Master said, \"The Feng bird does not come; the river sends forth no map - it is all over with me!\""
+      },
+      {
+        "ref": "9:19",
+        "zh": "子見齊衰者、冕衣裳者與瞽者，見之，雖少必作；",
+        "en": "When the Master saw a person in a mourning dress, or any one with the cap and upper and lower garments of full dress, or a blind person, on observing them approaching, though they were younger than himself, he would rise up,"
+      },
+      {
+        "ref": "9:20",
+        "zh": "過之，必趨。",
+        "en": "and if he had to pass by them, he would do so hastily."
+      },
+      {
+        "ref": "9:21",
+        "zh": "顏淵喟然歎曰：「仰之彌高，鑽之彌堅；",
+        "en": "Yan Yuan, in admiration of the Master's doctrines, sighed and said, \"I looked up to them, and they seemed to become more high; I tried to penetrate them, and they seemed to become more firm;"
+      },
+      {
+        "ref": "9:22",
+        "zh": "瞻之在前，忽焉在後。",
+        "en": "I looked at them before me, and suddenly they seemed to be behind."
+      },
+      {
+        "ref": "9:23",
+        "zh": "夫子循循然善誘人，博我以文，約我以禮。",
+        "en": "The Master, by orderly method, skillfully leads men on. He enlarged my mind with learning, and taught me the restraints of propriety."
+      },
+      {
+        "ref": "9:24",
+        "zh": "欲罷不能，既竭吾才，如有所立卓爾。",
+        "en": "When I wish to give over the study of his doctrines, I cannot do so, and having exerted all my ability, there seems something to stand right up before me;"
+      },
+      {
+        "ref": "9:25",
+        "zh": "雖欲從之，末由也已。」",
+        "en": "but though I wish to follow and lay hold of it, I really find no way to do so.\""
+      },
+      {
+        "ref": "9:26",
+        "zh": "子疾病，子路使門人為臣。",
+        "en": "The Master being very ill, Zi Lu wished the disciples to act as ministers to him."
+      },
+      {
+        "ref": "9:27",
+        "zh": "病閒，曰：「久矣哉！由之行詐也，無臣而為有臣。",
+        "en": "During a remission of his illness, he said, \"Long has the conduct of You been deceitful! By pretending to have ministers when I have them not, whom should I impose upon?"
+      },
+      {
+        "ref": "9:28",
+        "zh": "吾誰欺？欺天乎？",
+        "en": "Should I impose upon Heaven?"
+      },
+      {
+        "ref": "9:29",
+        "zh": "且予與其死於臣之手也，無寧死於二三子之手乎？",
+        "en": "Moreover, than that I should die in the hands of ministers, is it not better that I should die in the hands of you, my disciples?"
+      },
+      {
+        "ref": "9:30",
+        "zh": "且予縱不得大葬，予死於道路乎？」",
+        "en": "And though I may not get a great burial, shall I die upon the road?\""
+      },
+      {
+        "ref": "9:31",
+        "zh": "子貢曰：「有美玉於斯，韞匵而藏諸？求善賈而沽諸？」",
+        "en": "Zi Gong said, \"There is a beautiful gem here. Should I lay it up in a case and keep it? or should I seek for a good price and sell it?\""
+      },
+      {
+        "ref": "9:32",
+        "zh": "子曰：「沽之哉！沽之哉！我待賈者也。」",
+        "en": "The Master said, \"Sell it! Sell it! But I would wait for one to offer the price.\""
+      },
+      {
+        "ref": "9:33",
+        "zh": "子欲居九夷。",
+        "en": "The Master was wishing to go and live among the nine wild tribes of the east."
+      },
+      {
+        "ref": "9:34",
+        "zh": "或曰：「陋，如之何！」",
+        "en": "Some one said, \"They are rude. How can you do such a thing?\""
+      },
+      {
+        "ref": "9:35",
+        "zh": "子曰：「君子居之，何陋之有？」",
+        "en": "The Master said, \"If a superior man dwelt among them, what rudeness would there be?\""
+      },
+      {
+        "ref": "9:36",
+        "zh": "子曰：「吾自衛反魯，然後樂正，雅頌各得其所。」",
+        "en": "The Master said, \"I returned from Wei to Lu, and then the music was reformed, and the pieces in the Royal songs and Praise songs all found their proper places.\""
+      },
+      {
+        "ref": "9:37",
+        "zh": "子曰：「出則事公卿，入則事父兄，喪事不敢不勉，不為酒困，何有於我哉？」",
+        "en": "The Master said, \"Abroad, to serve the high ministers and nobles; at home, to serve one's father and elder brothers; in all duties to the dead, not to dare not to exert one's self; and not to be overcome of wine - which one of these things do I attain to?\""
+      },
+      {
+        "ref": "9:38",
+        "zh": "子在川上，曰：「逝者如斯夫！不舍晝夜。」",
+        "en": "The Master standing by a stream, said, \"It passes on just like this, not ceasing day or night!\""
+      },
+      {
+        "ref": "9:39",
+        "zh": "子曰：「吾未見好德如好色者也。」",
+        "en": "The Master said, \"I have not seen one who loves virtue as he loves beauty.\""
+      },
+      {
+        "ref": "9:40",
+        "zh": "子曰：「譬如為山，未成一簣，止，吾止也；",
+        "en": "The Master said, \"The prosecution of learning may be compared to what may happen in raising a mound. If there want but one basket of earth to complete the work, and I stop, the stopping is my own work."
+      },
+      {
+        "ref": "9:41",
+        "zh": "譬如平地，雖覆一簣，進，吾往也。」",
+        "en": "It may be compared to throwing down the earth on the level ground. Though but one basketful is thrown at a time, the advancing with it is my own going forward.\""
+      },
+      {
+        "ref": "9:42",
+        "zh": "子曰：「語之而不惰者，其回也與！」",
+        "en": "The Master said, \"Never flagging when I set forth anything to him - ah! that is Hui.\""
+      },
+      {
+        "ref": "9:43",
+        "zh": "子謂顏淵，曰：「惜乎！吾見其進也，未見其止也。」",
+        "en": "The Master said of Yan Yuan, \"Alas! I saw his constant advance. I never saw him stop in his progress.\""
+      },
+      {
+        "ref": "9:44",
+        "zh": "子曰：「苗而不秀者有矣夫！",
+        "en": "The Master said, \"There are cases in which the blade springs, but the plant does not go on to flower!"
+      },
+      {
+        "ref": "9:45",
+        "zh": "秀而不實者有矣夫！」",
+        "en": "There are cases where it flowers but no fruit is subsequently produced!\""
+      },
+      {
+        "ref": "9:46",
+        "zh": "子曰：「後生可畏，焉知來者之不如今也？",
+        "en": "The Master said, \"A youth is to be regarded with respect. How do we know that his future will not be equal to our present?"
+      },
+      {
+        "ref": "9:47",
+        "zh": "四十、五十而無聞焉，斯亦不足畏也已。」",
+        "en": "If he reach the age of forty or fifty, and has not made himself heard of, then indeed he will not be worth being regarded with respect.\""
+      },
+      {
+        "ref": "9:48",
+        "zh": "子曰：「法語之言，能無從乎？改之為貴。",
+        "en": "The Master said, \"Can men refuse to assent to the words of strict admonition? But it is reforming the conduct because of them which is valuable."
+      },
+      {
+        "ref": "9:49",
+        "zh": "巽與之言，能無說乎？繹之為貴。",
+        "en": "Can men refuse to be pleased with words of gentle advice? But it is unfolding their aim which is valuable."
+      },
+      {
+        "ref": "9:50",
+        "zh": "說而不繹，從而不改，吾末如之何也已矣。」",
+        "en": "If a man be pleased with these words, but does not unfold their aim, and assents to those, but does not reform his conduct, I can really do nothing with him.\""
+      },
+      {
+        "ref": "9:51",
+        "zh": "子曰：「主忠信，毋友不如己者，過則勿憚改。」",
+        "en": "The Master said, \"Hold faithfulness and sincerity as first principles. Have no friends not equal to yourself. When you have faults, do not fear to abandon them.\""
+      },
+      {
+        "ref": "9:52",
+        "zh": "子曰：「三軍可奪帥也，匹夫不可奪志也。」",
+        "en": "The Master said, \"The commander of the forces of a large state may be carried off, but the will of even a common man cannot be taken from him.\""
+      },
+      {
+        "ref": "9:53",
+        "zh": "子曰：「衣敝縕袍，與衣狐貉者立，而不恥者，其由也與？",
+        "en": "The Master said, \"Dressed himself in a tattered robe quilted with hemp, yet standing by the side of men dressed in furs, and not ashamed - ah! it is You who is equal to this!"
+      },
+      {
+        "ref": "9:54",
+        "zh": "『不忮不求，何用不臧？』」",
+        "en": "He dislikes none, he covets nothing - what can he do but what is good!\""
+      },
+      {
+        "ref": "9:55",
+        "zh": "子路終身誦之。",
+        "en": "Zi Lu kept continually repeating these words of the ode,"
+      },
+      {
+        "ref": "9:56",
+        "zh": "子曰：「是道也，何足以臧？」",
+        "en": "when the Master said, \"Those things are by no means sufficient to constitute perfect excellence.\""
+      },
+      {
+        "ref": "9:57",
+        "zh": "子曰：「歲寒，然後知松柏之後彫也。」",
+        "en": "The Master said, \"When the year becomes cold, then we know how the pine and the cypress are the last to lose their leaves.\""
+      },
+      {
+        "ref": "9:58",
+        "zh": "子曰：「知者不惑，仁者不憂，勇者不懼。」",
+        "en": "The Master said, \"The wise are free from perplexities; the virtuous from anxiety; and the bold from fear.\""
+      },
+      {
+        "ref": "9:59",
+        "zh": "子曰：「可與共學，未可與適道；",
+        "en": "The Master said, \"There are some with whom we may study in common, but we shall find them unable to go along with us to principles."
+      },
+      {
+        "ref": "9:60",
+        "zh": "可與適道，未可與立；",
+        "en": "Perhaps we may go on with them to principles, but we shall find them unable to get established in those along with us."
+      },
+      {
+        "ref": "9:61",
+        "zh": "可與立，未可與權。」",
+        "en": "Or if we may get so established along with them, we shall find them unable to weigh occurring events along with us.\""
+      },
+      {
+        "ref": "9:62",
+        "zh": "「唐棣之華，偏其反而。豈不爾思？室是遠而。」",
+        "en": "\"How the flowers of the aspen-plum flutter and turn! Do I not think of you? But your house is distant.\""
+      },
+      {
+        "ref": "9:63",
+        "zh": "子曰：「未之思也，夫何遠之有？」",
+        "en": "The Master said, \"It is the want of thought about it. How is it distant?\""
+      }
+    ]
+  }
+}

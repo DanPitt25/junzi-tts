@@ -1,0 +1,993 @@
+{
+  "id": "mengzi",
+  "title": "孟子",
+  "titleEn": "Mencius",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "4",
+    "title": "Gong Sun Chou II",
+    "slug": "gong-sun-chou-ii",
+    "passages": [
+      {
+        "ref": "4:1",
+        "zh": "孟子曰：「天時不如地利，地利不如人和。",
+        "en": "Mencius said, 'Opportunities of time vouchsafed by Heaven are not equal to advantages of situation afforded by the Earth, and advantages of situation afforded by the Earth are not equal to the union arising from the accord of Men."
+      },
+      {
+        "ref": "4:2",
+        "zh": "三里之城，七里之郭，環而攻之而不勝。",
+        "en": "There is a city, with an inner wall of three li in circumference, and an outer wall of seven. The enemy surround and attack it, but they are not able to take it."
+      },
+      {
+        "ref": "4:3",
+        "zh": "夫環而攻之，必有得天時者矣；然而不勝者，是天時不如地利也。",
+        "en": "Now, to surround and attack it, there must have been vouchsafed to them by Heaven the opportunity of time, and in such case their not taking it is because opportunities of time vouchsafed by Heaven are not equal to advantages of situation afforded by the Earth."
+      },
+      {
+        "ref": "4:4",
+        "zh": "城非不高也，池非不深也，兵革非不堅利也，米粟非不多也；委而去之，是地利不如人和也。",
+        "en": "There is a city, whose walls are distinguished for their height, and whose moats are distinguished for their depth, where the arms of its defenders, offensive and defensive, are distinguished for their strength and sharpness, and the stores of rice and other grain are very large. Yet it is obliged to be given up and abandoned. This is because advantages of situation afforded by the Earth are not equal to the union arising from the accord of Men."
+      },
+      {
+        "ref": "4:5",
+        "zh": "故曰：域民不以封疆之界，固國不以山谿之險，威天下不以兵革之利。",
+        "en": "In accordance with these principles it is said, \"A people is bounded in, not by the limits of dykes and borders; a State is secured, not by the strengths of mountains and rivers; the kingdom is overawed, not by the sharpness and strength of arms.\""
+      },
+      {
+        "ref": "4:6",
+        "zh": "得道者多助，失道者寡助。",
+        "en": "He who finds the proper course has many to assist him. He who loses the proper course has few to assist him."
+      },
+      {
+        "ref": "4:7",
+        "zh": "寡助之至，親戚畔之；多助之至，天下順之。",
+        "en": "When this - the being assisted by few - reaches its extreme point, his own relations revolt from the prince. When the being assisted by many reaches its highest point, the whole kingdom becomes obedient to the prince."
+      },
+      {
+        "ref": "4:8",
+        "zh": "以天下之所順，攻親戚之所畔；故君子有不戰，戰必勝矣。」",
+        "en": "When one to whom the whole kingdom is prepared to be obedient, attacks those from whom their own relations revolt, what must be the result? Therefore, the true ruler will prefer not to fight; but if he do fight, he must overcome.'"
+      },
+      {
+        "ref": "4:9",
+        "zh": "孟子將朝王，王使人來曰：「寡人如就見者也，有寒疾，不可以風。",
+        "en": "As Mencius was about to go to court to see the king, the king sent a person to him with this message: 'I was wishing to come and see you. But I have got a cold, and may not expose myself to the wind."
+      },
+      {
+        "ref": "4:10",
+        "zh": "朝將視朝，不識可使寡人得見乎？」",
+        "en": "In the morning I will hold my court. I do not know whether you will give me the opportunity of seeing you then.'"
+      },
+      {
+        "ref": "4:11",
+        "zh": "對曰：「不幸而有疾，不能造朝。」",
+        "en": "Mencius replied, 'Unfortunately, I am unwell, and not able to go to the court.'"
+      },
+      {
+        "ref": "4:12",
+        "zh": "明日，出吊於東郭氏，公孫丑曰：「昔者辭以病，今日吊，或者不可乎！」",
+        "en": "Next day, he went out to pay a visit of condolence to some one of the Dong Guo family, when Gong Sun Chou said to him, 'Yesterday, you declined going to the court on the ground of being unwell, and to-day you are going to pay a visit of condolence. May this not be regarded as improper?'"
+      },
+      {
+        "ref": "4:13",
+        "zh": "曰：「昔者疾，今日愈，如之何不吊？」",
+        "en": "'Yesterday,' said Mencius, 'I was unwell; to-day, I am better - why should I not pay this visit?'"
+      },
+      {
+        "ref": "4:14",
+        "zh": "王使人問疾，醫來。",
+        "en": "In the mean time, the king sent a messenger to inquire about his sickness, and also a physician."
+      },
+      {
+        "ref": "4:15",
+        "zh": "孟仲子對曰：「昔者有王命，有采薪之憂，不能造朝。",
+        "en": "Meng Zhong replied to them, 'Yesterday, when the king's order came, he was feeling a little unwell, and could not go to the court."
+      },
+      {
+        "ref": "4:16",
+        "zh": "今病小愈，趨造於朝，我不識能至否乎？」",
+        "en": "To-day he was a little better, and hastened to go to court. I do not know whether he can have reached it by this time or not.'"
+      },
+      {
+        "ref": "4:17",
+        "zh": "使數人要於路，曰：「請必無歸，而造於朝！」",
+        "en": "Having said this, he sent several men to look for Mencius on the way, and say to him, 'I beg that, before you return home, you will go to the court.'"
+      },
+      {
+        "ref": "4:18",
+        "zh": "不得已而之景丑氏宿焉。",
+        "en": "On this, Mencius felt himself compelled to go to Jing Chou's, and there stop the night."
+      },
+      {
+        "ref": "4:19",
+        "zh": "景子曰：「內則父子，外則君臣，人之大倫也。",
+        "en": "Mr. Jing said to him, 'In the family, there is the relation of father and son; abroad, there is the relation of prince and minister. These are the two great relations among men."
+      },
+      {
+        "ref": "4:20",
+        "zh": "父子主恩，君臣主敬。",
+        "en": "Between father and son the ruling principle is kindness. Between prince and minister the ruling principle is respect."
+      },
+      {
+        "ref": "4:21",
+        "zh": "丑見王之敬子也，未見所以敬王也。」",
+        "en": "I have seen the respect of the king to you, Sir, but I have not seen in what way you show respect to him.'"
+      },
+      {
+        "ref": "4:22",
+        "zh": "曰：「惡！",
+        "en": "Mencius replied, 'Oh!"
+      },
+      {
+        "ref": "4:23",
+        "zh": "是何言也！",
+        "en": "what words are these?"
+      },
+      {
+        "ref": "4:24",
+        "zh": "齊人無以仁義與王言者，豈以仁義為不美也？",
+        "en": "Among the people of Qi there is no one who speaks to the king about benevolence and righteousness. Are they thus silent because they do not think that benevolence and righteousness are admirable?"
+      },
+      {
+        "ref": "4:25",
+        "zh": "其心曰『是何足與言仁義也』云爾，則不敬莫大乎是。",
+        "en": "No, but in their hearts they say, \"This man is not fit to be spoken with about benevolence and righteousness.\" Thus they manifest a disrespect than which there can be none greater."
+      },
+      {
+        "ref": "4:26",
+        "zh": "我非堯舜之道，不敢以陳於王前，故齊人莫如我敬王也。」",
+        "en": "I do not dare to set forth before the king any but the ways of Yao and Shun. There is therefore no man of Qi who respects the king so much as I do.'"
+      },
+      {
+        "ref": "4:27",
+        "zh": "景子曰：「否，非此之謂也。",
+        "en": "Mr. Jing said, 'Not so. That was not what I meant."
+      },
+      {
+        "ref": "4:28",
+        "zh": "禮曰：『父召，無諾；君命召，不俟駕。』",
+        "en": "In the Book of Rites it is said, \"When a father calls, the answer must be without a moment's hesitation. When the prince's order calls, the carriage must not be waited for.\""
+      },
+      {
+        "ref": "4:29",
+        "zh": "固將朝也，聞王命而遂不果，宜與夫禮若不相似然。」",
+        "en": "You were certainly going to the court, but when you heard the king's order, then you did not carry your purpose out. This does seem as if it were not in accordance with that rule of propriety.'"
+      },
+      {
+        "ref": "4:30",
+        "zh": "曰：「豈謂是與？",
+        "en": "Mencius answered him, 'How can you give that meaning to my conduct?"
+      },
+      {
+        "ref": "4:31",
+        "zh": "曾子曰：『晉楚之富，不可及也。",
+        "en": "The philosopher Zeng said, \"The wealth of Jin and Chu cannot be equalled."
+      },
+      {
+        "ref": "4:32",
+        "zh": "彼以其富，我以吾仁；彼以其爵，我以吾義，吾何慊乎哉？』",
+        "en": "Let their rulers have their wealth - I have my benevolence. Let them have their nobility - I have my righteousness. Wherein should I be dissatisfied as inferior to them?\""
+      },
+      {
+        "ref": "4:33",
+        "zh": "夫豈不義而曾子言之？",
+        "en": "Now shall we say that these sentiments are not right? Seeing that the philosopher Zeng spoke them,"
+      },
+      {
+        "ref": "4:34",
+        "zh": "是或一道也。",
+        "en": "there is in them, I apprehend, a real principle."
+      },
+      {
+        "ref": "4:35",
+        "zh": "天下有達尊三：爵一，齒一，德一。",
+        "en": "In the kingdom there are three things universally acknowledged to be honourable. Nobility is one of them; age is one of them; virtue is one of them."
+      },
+      {
+        "ref": "4:36",
+        "zh": "朝廷莫如爵，鄉黨莫如齒，輔世長民莫如德。",
+        "en": "In courts, nobility holds the first place of the three; in villages, age holds the first place; and for helping one's generation and presiding over the people, the other two are not equal to virtue."
+      },
+      {
+        "ref": "4:37",
+        "zh": "惡得有其一，以慢其二哉？",
+        "en": "How can the possession of only one of these be presumed on to despise one who possesses the other two?"
+      },
+      {
+        "ref": "4:38",
+        "zh": "故將大有為之君，必有所不召之臣。",
+        "en": "Therefore a prince who is to accomplish great deeds will certainly have ministers whom he does not call to go to him."
+      },
+      {
+        "ref": "4:39",
+        "zh": "欲有謀焉，則就之。",
+        "en": "When he wishes to consult with them, he goes to them."
+      },
+      {
+        "ref": "4:40",
+        "zh": "其尊德樂道，不如是不足與有為也。",
+        "en": "The prince who does not honour the virtuous, and delight in their ways of doing, to this extent, is not worth having to do with."
+      },
+      {
+        "ref": "4:41",
+        "zh": "故湯之於伊尹，學焉而後臣之，故不勞而王；桓公之於管仲，學焉而後臣之，故不勞而霸。",
+        "en": "Accordingly, there was the behaviour of Tang to Yi Yin: he first learned of him, and then employed him as his minister; and so without difficulty he became sovereign. There was the behaviour of the duke Huan to Guan Zhong: he first learned of him, and then employed him as his minister; and so without difficulty he became chief of all the princes."
+      },
+      {
+        "ref": "4:42",
+        "zh": "今天下地醜德齊，莫能相尚。",
+        "en": "Now throughout the kingdom, the territories of the princes are of equal extent, and in their achievements they are on a level. Not one of them is able to exceed the others."
+      },
+      {
+        "ref": "4:43",
+        "zh": "無他，好臣其所教，而不好臣其所受教。",
+        "en": "This is from no other reason, but that they love to make ministers of those whom they teach, and do not love to make ministers of those by whom they might be taught."
+      },
+      {
+        "ref": "4:44",
+        "zh": "湯之於伊尹，桓公之於管仲，則不敢召。",
+        "en": "So did Tang behave to Yi Yin, and the duke Huan to Guan Zhong, that they would not venture to call them to go to them."
+      },
+      {
+        "ref": "4:45",
+        "zh": "管仲且猶不可召，而況不為管仲者乎？」",
+        "en": "If Guan Zhong might not be called to him by his prince, how much less may he be called, who would not play the part of Guan Zhong!'"
+      },
+      {
+        "ref": "4:46",
+        "zh": "陳臻問曰：「前日於齊，王餽兼金一百而不受；於宋，餽七十鎰而受；於薛，餽五十鎰而受。",
+        "en": "Chen Zhen asked Mencius, saying, 'Formerly, when you were in Qi, the king sent you a present Of 2,400 taels of fine silver, and you refused to accept it. When you were in Song, 1,680 taels were sent to you, which you accepted; and when you were in Xue, 1,200 taels were sent, which you likewise accepted."
+      },
+      {
+        "ref": "4:47",
+        "zh": "前日之不受是，則今日之受非也；今日之受是，則前日之不受非也。",
+        "en": "If your declining to accept the gift in the first case was right, your accepting it in the latter cases was wrong. If your accepting it in the latter cases was right, your declining to do so in the first case was wrong."
+      },
+      {
+        "ref": "4:48",
+        "zh": "夫子必居一於此矣。」",
+        "en": "You must accept, Master, one of these alternatives.'"
+      },
+      {
+        "ref": "4:49",
+        "zh": "孟子曰：「皆是也。",
+        "en": "Mencius said, 'I did right in all the cases."
+      },
+      {
+        "ref": "4:50",
+        "zh": "當在宋也，予將有遠行。",
+        "en": "When I was in Song, I was about to take a long journey."
+      },
+      {
+        "ref": "4:51",
+        "zh": "行者必以贐，辭曰：『餽贐。』予何為不受？",
+        "en": "Travellers must be provided with what is necessary for their expenses. The prince's message was, 'A present against travelling-expenses.\" Why should I have declined the gift?"
+      },
+      {
+        "ref": "4:52",
+        "zh": "當在薛也，予有戒心。",
+        "en": "When I was in Xue, I was apprehensive for my safety, and taking measures for my protection."
+      },
+      {
+        "ref": "4:53",
+        "zh": "辭曰：『聞戒。』故為兵餽之，予何為不受？",
+        "en": "The message was, \"I have heard that you are taking measures to protect yourself, and send this to help you in procuring arms.\" Why should I have declined the gift?"
+      },
+      {
+        "ref": "4:54",
+        "zh": "若於齊，則未有處也。",
+        "en": "But when I was in Qi, I had no occasion for money."
+      },
+      {
+        "ref": "4:55",
+        "zh": "無處而餽之，是貨之也。",
+        "en": "To send a man a gift when he has no occasion for it, is to bribe him."
+      },
+      {
+        "ref": "4:56",
+        "zh": "焉有君子而可以貨取乎？」",
+        "en": "How is it possible that a superior man should be taken with a bribe?'"
+      },
+      {
+        "ref": "4:57",
+        "zh": "孟子之平陸。",
+        "en": "Mencius having gone to Ping Lu,"
+      },
+      {
+        "ref": "4:58",
+        "zh": "謂其大夫曰：「子之持戟之士，一日而三失伍，則去之否乎？」",
+        "en": "addressed the governor of it, saying, 'If one of your spearmen should lose his place in the ranks three times in one day, would you, Sir, put him to death or not?'"
+      },
+      {
+        "ref": "4:59",
+        "zh": "曰：「不待三。」",
+        "en": "'I would not wait for three times to do so,' was the reply."
+      },
+      {
+        "ref": "4:60",
+        "zh": "「然則子之失伍也亦多矣。",
+        "en": "Mencius said, 'Well then, you, Sir, have likewise lost your place in the ranks many times."
+      },
+      {
+        "ref": "4:61",
+        "zh": "凶年饑歲，子之民，老羸轉於溝壑，壯者散而之四方者，幾千人矣。」",
+        "en": "In bad calamitous years, and years of famine, the old and feeble of your people, who have been found lying in the ditches and water-channels, and the able-bodied, who have been scattered about to the four quarters, have amounted to several thousand.'"
+      },
+      {
+        "ref": "4:62",
+        "zh": "曰：「此非距心之所得為也。」",
+        "en": "The governor replied, 'That is a state of things in which it does not belong to me Ju Xin to act.'"
+      },
+      {
+        "ref": "4:63",
+        "zh": "曰：「今有受人之牛羊而為之牧之者，則必為之求牧與芻矣。",
+        "en": "'Here,' said Mencius, 'is a man who receives charge of the cattle and sheep of another, and undertakes to feed them for him - of course he must search for pasture-ground and grass for them."
+      },
+      {
+        "ref": "4:64",
+        "zh": "求牧與芻而不得，則反諸其人乎？",
+        "en": "If, after searching for those, he cannot find them, will he return his charge to the owner?"
+      },
+      {
+        "ref": "4:65",
+        "zh": "抑亦立而視其死與？」",
+        "en": "or will he stand by and see them die?'"
+      },
+      {
+        "ref": "4:66",
+        "zh": "曰：「此則距心之罪也。」",
+        "en": "'Herein,' said the officer, 'I am guilty.'"
+      },
+      {
+        "ref": "4:67",
+        "zh": "他日，見於王曰：「王之為都者，臣知五人焉。",
+        "en": "Another day, Mencius had an audience of the king, and said to him, 'Of the governors of your Majesty's cities I am acquainted with five,"
+      },
+      {
+        "ref": "4:68",
+        "zh": "知其罪者，惟孔距心。",
+        "en": "but the only one of them who knows his faults is Kong Ju Xin.'"
+      },
+      {
+        "ref": "4:69",
+        "zh": "為王誦之。」",
+        "en": "He then repeated the conversation to the king,"
+      },
+      {
+        "ref": "4:70",
+        "zh": "王曰：「此則寡人之罪也。」",
+        "en": "who said, 'In this matter, I am the guilty one.'"
+      },
+      {
+        "ref": "4:71",
+        "zh": "孟子謂蚔鼃曰：「子之辭靈丘而請士師，似也，為其可以言也。",
+        "en": "Mencius said to Qi Wa, 'There seemed to be reason in your declining the governorship of Ling Qiu, and requesting to be appointed chief criminal judge, because the latter office would afford you the opportunity of speaking your views."
+      },
+      {
+        "ref": "4:72",
+        "zh": "今既數月矣，未可以言與？」",
+        "en": "Now several months have elapsed, and have you yet found nothing of which you might speak?'"
+      },
+      {
+        "ref": "4:73",
+        "zh": "蚔鼃諫於王而不用，致為臣而去。",
+        "en": "On this, Qi Wa remonstrated on some matter with the king, and, his counsel not being taken, resigned his office and went away."
+      },
+      {
+        "ref": "4:74",
+        "zh": "齊人曰：「所以為蚔鼃，則善矣；所以自為，則吾不知也。」",
+        "en": "The people of Qi said, 'In the course which he marked out for Qi Wa he did well, but we do not know as to the course which he pursues for himself.'"
+      },
+      {
+        "ref": "4:75",
+        "zh": "公都子以告。",
+        "en": "His disciple Gong Du told him these remarks."
+      },
+      {
+        "ref": "4:76",
+        "zh": "曰：「吾聞之也：有官守者，不得其職則去；有言責者，不得其言則去。",
+        "en": "Mencius said, 'I have heard that he who is in charge of an office, when he is prevented from fulfilling its duties, ought to take his departure, and that he on whom is the responsibility of giving his opinion, when he finds his words unattended to, ought to do the same."
+      },
+      {
+        "ref": "4:77",
+        "zh": "我無官守，我無言責也，則吾進退，豈不綽綽然有餘裕哉？」",
+        "en": "But I am in charge of no office; on me devolves no duty of speaking out my opinion - may not I therefore act freely and without any constraint, either in going forward or in retiring?'"
+      },
+      {
+        "ref": "4:78",
+        "zh": "孟子為卿於齊，出吊於滕，王使蓋大夫王驩為輔行。",
+        "en": "Mencius, occupying the position of a high dignitary in Qi, went on a mission of condolence to Teng. The king also sent Wang Huan, the governor of Gai, as assistant-commissioner."
+      },
+      {
+        "ref": "4:79",
+        "zh": "王驩朝暮見，反齊滕之路，未嘗與之言行事也。",
+        "en": "Wang Huan, morning and evening, waited upon Mencius, who, during all the way to Teng and back, never spoke to him about the business of their mission."
+      },
+      {
+        "ref": "4:80",
+        "zh": "公孫丑曰：「齊卿之位，不為小矣；齊滕之路，不為近矣。",
+        "en": "Gong Sun Chou said to Mencius, 'The position of a high dignitary of Qi is not a small one; the road from Qi to Teng is not short."
+      },
+      {
+        "ref": "4:81",
+        "zh": "反之而未嘗與言行事，何也？」",
+        "en": "How was it that during all the way there and back, you never spoke to Huan about the matters of your mission?'"
+      },
+      {
+        "ref": "4:82",
+        "zh": "曰：「夫既或治之，予何言哉？」",
+        "en": "Mencius replied, 'There were the proper officers who attended to them. What occasion had I to speak to him about them?'"
+      },
+      {
+        "ref": "4:83",
+        "zh": "孟子自齊葬於魯，反於齊，止於嬴。",
+        "en": "Mencius went from Qi to Lu to bury his mother. On his return to Qi, he stopped at Ying,"
+      },
+      {
+        "ref": "4:84",
+        "zh": "充虞請曰：「前日不知虞之不肖，使虞敦匠事。",
+        "en": "where Chong Yu begged to put a question to him, and said, 'Formerly, in ignorance of my incompetency, you employed me to superintend the making of the coffin."
+      },
+      {
+        "ref": "4:85",
+        "zh": "嚴，虞不敢請。",
+        "en": "As you were then pressed by the urgency of the business, I did not venture to put any question to you."
+      },
+      {
+        "ref": "4:86",
+        "zh": "今願竊有請也，木若以美然。」",
+        "en": "Now, however, I wish to take the liberty to submit the matter. The wood of the coffin, it appeared to me, was too good.'"
+      },
+      {
+        "ref": "4:87",
+        "zh": "曰：「古者棺槨無度，中古棺七寸，槨稱之。",
+        "en": "Mencius replied, 'Anciently, there was no rule for the size of either the inner or the outer coffin. In middle antiquity, the inner coffin was made seven inches thick, and the outer one the same."
+      },
+      {
+        "ref": "4:88",
+        "zh": "自天子達於庶人。",
+        "en": "This was done by all, from the sovereign to the common people,"
+      },
+      {
+        "ref": "4:89",
+        "zh": "非直為觀美也，然後盡於人心。",
+        "en": "and not simply for the beauty of the appearance, but because they thus satisfied the natural feelings of their hearts."
+      },
+      {
+        "ref": "4:90",
+        "zh": "不得，不可以為悅；無財，不可以為悅。",
+        "en": "If prevented by statutory regulations from making their coffins in this way, men cannot have the feeling of pleasure. If they have not the money to make them in this way, they cannot have the feeling of pleasure."
+      },
+      {
+        "ref": "4:91",
+        "zh": "得之為有財，古之人皆用之，吾何為獨不然？",
+        "en": "When they were not prevented, and had the money, the ancients all used this style. Why should I alone not do so?"
+      },
+      {
+        "ref": "4:92",
+        "zh": "且比化者，無使土親膚，於人心獨無恔乎？",
+        "en": "And moreover, is there no satisfaction to the natural feelings of a man, in preventing the earth from getting near to the bodies of his dead?"
+      },
+      {
+        "ref": "4:93",
+        "zh": "吾聞之君子：不以天下儉其親。」",
+        "en": "I have heard that the superior man will not for all the world be niggardly to his parents.'"
+      },
+      {
+        "ref": "4:94",
+        "zh": "沈同以其私問曰：「燕可伐與？」",
+        "en": "Shen Tong, on his own impulse, asked Mencius, saying, 'May Yan be smitten?'"
+      },
+      {
+        "ref": "4:95",
+        "zh": "孟子曰：「可。",
+        "en": "Mencius replied, 'It may."
+      },
+      {
+        "ref": "4:96",
+        "zh": "子噲不得與人燕，子之不得受燕於子噲。",
+        "en": "Zi Kuai had no right to give Yan to another man, and Zi Zhi had no right to receive Yan from Zi Kuai."
+      },
+      {
+        "ref": "4:97",
+        "zh": "有仕於此，而子悅之，不告於王而私與之吾子之祿爵；夫士也，亦無王命而私受之於子，則可乎？",
+        "en": "Suppose there were an officer here, with whom you, Sir, were pleased, and that, without informing the king, you were privately to give to him your salary and rank; and suppose that this officer, also without the king's orders, were privately to receive them from you - would such a transaction be allowable?"
+      },
+      {
+        "ref": "4:98",
+        "zh": "何以異於是？」",
+        "en": "And where is the difference between the case of Yan and this?'"
+      },
+      {
+        "ref": "4:99",
+        "zh": "齊人伐燕。",
+        "en": "The people of Qi smote Yan."
+      },
+      {
+        "ref": "4:100",
+        "zh": "或問曰：「勸齊伐燕，有諸？」",
+        "en": "Some one asked Mencius, saying, 'Is it really the case that you advised Qi to smite Yan?'"
+      },
+      {
+        "ref": "4:101",
+        "zh": "曰：「未也。",
+        "en": "He replied, 'No."
+      },
+      {
+        "ref": "4:102",
+        "zh": "沈同問『燕可伐與』？",
+        "en": "Shen Tong asked me whether Yan might be smitten,"
+      },
+      {
+        "ref": "4:103",
+        "zh": "吾應之曰『可』，彼然而伐之也。",
+        "en": "and I answered him, \"It may.\" They accordingly went and smote it."
+      },
+      {
+        "ref": "4:104",
+        "zh": "彼如曰『孰可以伐之』？",
+        "en": "If he had asked me, \"Who may smite it?\""
+      },
+      {
+        "ref": "4:105",
+        "zh": "則將應之曰：『為天吏，則可以伐之。』",
+        "en": "I would have answered him, \"He who is the minister of Heaven may smite it.\""
+      },
+      {
+        "ref": "4:106",
+        "zh": "今有殺人者，或問之曰『人可殺與』？",
+        "en": "Suppose the case of a murderer, and that one asks me, \"May this man be put to death?\""
+      },
+      {
+        "ref": "4:107",
+        "zh": "則將應之曰『可』。",
+        "en": "I will answer him, \"He may.\""
+      },
+      {
+        "ref": "4:108",
+        "zh": "彼如曰『孰可以殺之』？",
+        "en": "If he ask me, \"Who may put him to death?\""
+      },
+      {
+        "ref": "4:109",
+        "zh": "則將應之曰：『為士師，則可以殺之。』",
+        "en": "I will answer him, \"The chief criminal judge may put him to death.\""
+      },
+      {
+        "ref": "4:110",
+        "zh": "今以燕伐燕，何為勸之哉？」",
+        "en": "But now with one Yan to smite another Yan - how should I have advised this?'"
+      },
+      {
+        "ref": "4:111",
+        "zh": "燕人畔。",
+        "en": "The people of Yan having rebelled,"
+      },
+      {
+        "ref": "4:112",
+        "zh": "王曰：「吾甚慚於孟子。」",
+        "en": "the king of Qi said, 'I feel very much ashamed when I think of Mencius.'"
+      },
+      {
+        "ref": "4:113",
+        "zh": "陳賈曰：「王無患焉。",
+        "en": "Chen Jia said to him, 'Let not your Majesty be grieved."
+      },
+      {
+        "ref": "4:114",
+        "zh": "王自以為與周公，孰仁且智？」",
+        "en": "Whether does your Majesty consider yourself or Zhou Gong the more benevolent and wise?'"
+      },
+      {
+        "ref": "4:115",
+        "zh": "王曰：「惡！",
+        "en": "The king replied, 'Oh!"
+      },
+      {
+        "ref": "4:116",
+        "zh": "是何言也？」",
+        "en": "what words are those?'"
+      },
+      {
+        "ref": "4:117",
+        "zh": "曰：「周公使管叔監殷，管叔以殷畔。",
+        "en": "'The duke of Zhou,' said Jia, 'appointed Guan Shu to oversee the heir of Yin, but Guan Shu with the power of the Yin State rebelled."
+      },
+      {
+        "ref": "4:118",
+        "zh": "知而使之，是不仁也；不知而使之，是不智也。",
+        "en": "If knowing that this would happen he appointed Guan Shu, he was deficient in benevolence. If he appointed him, not knowing that it would happen, he was deficient in knowledge."
+      },
+      {
+        "ref": "4:119",
+        "zh": "仁智，周公未之盡也，而況於王乎？",
+        "en": "If the duke of Zhou was not completely benevolent and wise, how much less can your Majesty be expected to be so!"
+      },
+      {
+        "ref": "4:120",
+        "zh": "賈請見而解之。」",
+        "en": "I beg to go and see Mencius, and relieve your Majesty from that feeling.'"
+      },
+      {
+        "ref": "4:121",
+        "zh": "見孟子，問曰：「周公何人也？」",
+        "en": "Chen Jia accordingly saw Mencius, and asked him, saying, 'What kind of man was the duke of Zhou?'"
+      },
+      {
+        "ref": "4:122",
+        "zh": "曰：「古聖人也。」",
+        "en": "'An ancient sage,' was the reply."
+      },
+      {
+        "ref": "4:123",
+        "zh": "曰：「使管叔監殷，管叔以殷畔也，有諸？」",
+        "en": "'Is it the fact, that he appointed Guan Shu to oversee the heir of Yin, and that Guan Shu with the State of Yin rebelled?'"
+      },
+      {
+        "ref": "4:124",
+        "zh": "曰：「然。」",
+        "en": "'It is.'"
+      },
+      {
+        "ref": "4:125",
+        "zh": "曰：「周公知其將畔而使之與？」",
+        "en": "'Did the duke of Zhou know that he would rebel, and purposely appoint him to that office?'"
+      },
+      {
+        "ref": "4:126",
+        "zh": "曰：「不知也。」",
+        "en": "Mencius said, 'He did not know.'"
+      },
+      {
+        "ref": "4:127",
+        "zh": "「然則聖人且有過與？」",
+        "en": "'Then, though a sage, he still fell into error?'"
+      },
+      {
+        "ref": "4:128",
+        "zh": "曰：「周公，弟也；管叔，兄也。",
+        "en": "'The duke of Zhou,' answered Mencius, 'was the younger brother. Guan Shu was his elder brother."
+      },
+      {
+        "ref": "4:129",
+        "zh": "周公之過，不亦宜乎？",
+        "en": "Was not the error of Zhou Gong in accordance with what is right?"
+      },
+      {
+        "ref": "4:130",
+        "zh": "且古之君子，過則改之；今之君子，過則順之。",
+        "en": "Moreover, when the superior men of old had errors, they reformed them. The superior men of the present time, when they have errors, persist in them."
+      },
+      {
+        "ref": "4:131",
+        "zh": "古之君子，其過也，如日月之食，民皆見之；及其更也，民皆仰之。",
+        "en": "The errors of the superior men of old were like eclipses of the sun and moon. All the people witnessed them, and when they had reformed them, all the people looked up to them with their former admiration."
+      },
+      {
+        "ref": "4:132",
+        "zh": "今之君子，豈徒順之，又從為之辭。」",
+        "en": "But do the superior men of the present day only persist in their errors? They go on to apologize for them likewise.'"
+      },
+      {
+        "ref": "4:133",
+        "zh": "孟子致為臣而歸。",
+        "en": "Mencius gave up his office, and made arrangements for returning to his native State."
+      },
+      {
+        "ref": "4:134",
+        "zh": "王就見孟子，曰：「前日願見而不可得，得侍，同朝甚喜。",
+        "en": "The king came to visit him, and said, 'Formerly, I wished to see you, but in vain. Then, I got the opportunity of being by your side, and all my court joyed exceedingly along with me."
+      },
+      {
+        "ref": "4:135",
+        "zh": "今又棄寡人而歸，不識可以繼此而得見乎？」",
+        "en": "Now again you abandon me, and are returning home. I do not know if hereafter I may expect to have another opportunity of seeing you.'"
+      },
+      {
+        "ref": "4:136",
+        "zh": "對曰：「不敢請耳，固所願也。」",
+        "en": "Mencius replied, 'I dare not request permission to visit you at any particular time, but, indeed, it is what I desire.'"
+      },
+      {
+        "ref": "4:137",
+        "zh": "他日，王謂時子曰：「我欲中國而授孟子室，養弟子以萬鍾，使諸大夫國人皆有所矜式。",
+        "en": "Another day, the king said to the officer Shi, 'I wish to give Mencius a house, somewhere in the middle of the kingdom, and to support his disciples with an allowance of 10,000 zhong, that all the officers and the people may have such an example to reverence and imitate."
+      },
+      {
+        "ref": "4:138",
+        "zh": "子盍為我言之？」",
+        "en": "Had you not better tell him this for me?'"
+      },
+      {
+        "ref": "4:139",
+        "zh": "時子因陳子而以告孟子，陳子以時子之言告孟子。",
+        "en": "Shi took advantage to convey this message by means of the disciple Chen, who reported his words to Mencius."
+      },
+      {
+        "ref": "4:140",
+        "zh": "孟子曰：「然。",
+        "en": "Mencius said, 'Yes;"
+      },
+      {
+        "ref": "4:141",
+        "zh": "夫時子惡知其不可也？",
+        "en": "but how should the officer Shi know that the thing could not be?"
+      },
+      {
+        "ref": "4:142",
+        "zh": "如使予欲富，辭十萬而受萬，是為欲富乎？",
+        "en": "Suppose that I wanted to be rich, having formerly declined 100,000 zhong, would my now accepting 10,000 be the conduct of one desiring riches?"
+      },
+      {
+        "ref": "4:143",
+        "zh": "季孫曰：『異哉子叔疑！",
+        "en": "Ji Sun said, \"A strange man was Zi Shu Yi."
+      },
+      {
+        "ref": "4:144",
+        "zh": "使己為政，不用，則亦已矣，又使其子弟為卿。",
+        "en": "He pushed himself into the service of government. His prince declining to employ him, he had to retire indeed, but he again schemed that his son or younger brother should be made a high officer."
+      },
+      {
+        "ref": "4:145",
+        "zh": "人亦孰不欲富貴？",
+        "en": "Who indeed is there of men but wishes for riches and honour?"
+      },
+      {
+        "ref": "4:146",
+        "zh": "而獨於富貴之中，有私龍斷焉。』",
+        "en": "But he only, among the seekers of these, tried to monopolize the conspicuous mound.\""
+      },
+      {
+        "ref": "4:147",
+        "zh": "古之為市也，以其所有易其所無者，有司者治之耳。",
+        "en": "\"Of old time, the market-dealers exchanged the articles which they had for others which they had not, and simply had certain officers to keep order among them."
+      },
+      {
+        "ref": "4:148",
+        "zh": "有賤丈夫焉，必求龍斷而登之，以左右望而罔市利。",
+        "en": "It happened that there was a mean fellow, who made it a point to look out for a conspicuous mound, and get up upon it. Thence he looked right and left, to catch in his net the whole gain of the market."
+      },
+      {
+        "ref": "4:149",
+        "zh": "人皆以為賤，故從而征之。",
+        "en": "The people all thought his conduct mean, and therefore they proceeded to lay a tax upon his wares."
+      },
+      {
+        "ref": "4:150",
+        "zh": "征商，自此賤丈夫始矣。",
+        "en": "The taxing of traders took its rise from this mean fellow.\"'"
+      },
+      {
+        "ref": "4:151",
+        "zh": "孟子去齊，宿於晝。",
+        "en": "Mencius, having taken his leave of Qi, was passing the night in Zhou."
+      },
+      {
+        "ref": "4:152",
+        "zh": "有欲為王留行者，坐而言。",
+        "en": "A person who wished to detain him on behalf of the king, came and sat down, and began to speak to him."
+      },
+      {
+        "ref": "4:153",
+        "zh": "不應，隱几而臥。",
+        "en": "Mencius gave him no answer, but leant upon his stool and slept."
+      },
+      {
+        "ref": "4:154",
+        "zh": "客不悅曰：「弟子齊宿而後敢言，夫子臥而不聽，請勿復敢見矣。」",
+        "en": "The visitor was displeased, and said, 'I passed the night in careful vigil, before I would venture to speak to you, and you, Master, sleep and do not listen to me. Allow me to request that I may not again presume to see you.'"
+      },
+      {
+        "ref": "4:155",
+        "zh": "曰：「坐！",
+        "en": "Mencius replied, 'Sit down, and I will explain the case clearly to you."
+      },
+      {
+        "ref": "4:156",
+        "zh": "我明語子。",
+        "en": "Formerly, if the duke Mou had not kept a person by the side of Zi Si, he could not have induced Zi Si to remain with him."
+      },
+      {
+        "ref": "4:157",
+        "zh": "昔者魯繆公無人乎子思之側，則不能安子思；泄柳、申詳，無人乎繆公之側，則不能安其身。",
+        "en": "If Xie Liu and Shen Xiang had not had a remembrancer by the side of the duke Mou, he would not have been able to make them feel at home and remain with him."
+      },
+      {
+        "ref": "4:158",
+        "zh": "子為長者慮，而不及子思，子絕長者乎？",
+        "en": "You anxiously form plans with reference to me, but you do not treat me as Zi Si was treated."
+      },
+      {
+        "ref": "4:159",
+        "zh": "長者絕子乎？」",
+        "en": "Is it you, Sir, who cut me? Or is it I who cut you?"
+      },
+      {
+        "ref": "4:160",
+        "zh": "孟子去齊。",
+        "en": "When Mencius had left Qi,"
+      },
+      {
+        "ref": "4:161",
+        "zh": "尹士語人曰：「不識王之不可以為湯武，則是不明也；識其不可，然且至，則是干澤也。",
+        "en": "Yin Shi spoke about him to others, saying, 'If he did not know that the king could not be made a Tang or a Wu, that showed his want of intelligence. If he knew that he could not be made such, and came notwithstanding, that shows he was seeking his own benefit."
+      },
+      {
+        "ref": "4:162",
+        "zh": "千里而見王，不遇故去。",
+        "en": "He came a thousand li to wait on the king; because he did not find in him a ruler to suit him, he took his leave,"
+      },
+      {
+        "ref": "4:163",
+        "zh": "三宿而後出晝，是何濡滯也？",
+        "en": "but how dilatory and lingering was his departure, stopping three nights before he quitted Zhou!"
+      },
+      {
+        "ref": "4:164",
+        "zh": "士則茲不悅。」",
+        "en": "I am dissatisfied on account of this.'"
+      },
+      {
+        "ref": "4:165",
+        "zh": "高子以告。",
+        "en": "The disciple Gao informed Mencius of these remarks."
+      },
+      {
+        "ref": "4:166",
+        "zh": "曰：「夫尹士惡知予哉？",
+        "en": "Mencius said, 'How should Yin Shi know me!"
+      },
+      {
+        "ref": "4:167",
+        "zh": "千里而見王，是予所欲也；不遇故去，豈予所欲哉？",
+        "en": "When I came a thousand li to wait on the king, it was what I desired to do. When I went away because I did not find in him a ruler to suit me, was that what I desired to do?"
+      },
+      {
+        "ref": "4:168",
+        "zh": "予不得已也。",
+        "en": "I felt myself constrained to do it."
+      },
+      {
+        "ref": "4:169",
+        "zh": "予三宿而出晝，於予心猶以為速。",
+        "en": "When I stopped three nights before I quitted Zhou, in my own mind I still considered my departure speedy."
+      },
+      {
+        "ref": "4:170",
+        "zh": "王庶幾改之。",
+        "en": "I was hoping that the king might change."
+      },
+      {
+        "ref": "4:171",
+        "zh": "王如改諸，則必反予。",
+        "en": "If the king had changed, he would certainly have recalled me."
+      },
+      {
+        "ref": "4:172",
+        "zh": "夫出晝而王不予追也，予然後浩然有歸志。",
+        "en": "When I quitted Zhou, and the king had not sent after me, then, and not till then, was my mind resolutely bent on returning to Cao."
+      },
+      {
+        "ref": "4:173",
+        "zh": "予雖然，豈舍王哉？",
+        "en": "But, notwithstanding that, how can it be said that I give up the king?"
+      },
+      {
+        "ref": "4:174",
+        "zh": "王由足用為善。",
+        "en": "The king, after all, is one who may be made to do what is good."
+      },
+      {
+        "ref": "4:175",
+        "zh": "王如用予，則豈徒齊民安，天下之民舉安。",
+        "en": "If he were to use me, would it be for the happiness of the people of Qi only? It would be for the happiness of the people of the whole kingdom."
+      },
+      {
+        "ref": "4:176",
+        "zh": "王庶幾改之，予日望之。",
+        "en": "I am hoping that the king will change. I am daily hoping for this."
+      },
+      {
+        "ref": "4:177",
+        "zh": "予豈若是小丈夫然哉？",
+        "en": "Am I like one of your little-minded people?"
+      },
+      {
+        "ref": "4:178",
+        "zh": "諫於其君而不受，則怒，悻悻然見於其面。",
+        "en": "They will remonstrate with their prince, and on their remonstrance not being accepted, they get angry; and, with their passion displayed in their countenance, they take their leave,"
+      },
+      {
+        "ref": "4:179",
+        "zh": "去則窮日之力而後宿哉？」",
+        "en": "and travel with all their strength for a whole day, before they will stop for the night.'"
+      },
+      {
+        "ref": "4:180",
+        "zh": "尹士聞之曰：「士誠小人也。」",
+        "en": "When Yin Shi heard this explanation, he said, 'I am indeed a small man.'"
+      },
+      {
+        "ref": "4:181",
+        "zh": "孟子去齊。",
+        "en": "When Mencius left Qi,"
+      },
+      {
+        "ref": "4:182",
+        "zh": "充虞路問曰：「夫子若有不豫色然。",
+        "en": "Chong Yu questioned him upon the way, saying, 'Master, you look like one who carries an air of dissatisfaction in his countenance."
+      },
+      {
+        "ref": "4:183",
+        "zh": "前日虞聞諸夫子曰：『君子不怨天，不尤人。』」",
+        "en": "But formerly I heard you say, \"The superior man does not murmur against Heaven, nor grudge against men.\"'"
+      },
+      {
+        "ref": "4:184",
+        "zh": "曰：「彼一時，此一時也。",
+        "en": "Mencius said, 'That was one time, and this is another."
+      },
+      {
+        "ref": "4:185",
+        "zh": "五百年必有王者興，其間必有名世者。",
+        "en": "It is a rule that a true royal sovereign should arise in the course of five hundred years, and that during that time there should be men illustrious in their generation."
+      },
+      {
+        "ref": "4:186",
+        "zh": "由周而來，七百有餘歲矣。",
+        "en": "From the commencement of the Zhou dynasty till now, more than seven hundred years have elapsed."
+      },
+      {
+        "ref": "4:187",
+        "zh": "以其數則過矣，以其時考之則可矣。",
+        "en": "Judging numerically, the date is past. Examining the character of the present time, we might expect the rise of such individuals in it."
+      },
+      {
+        "ref": "4:188",
+        "zh": "夫天，未欲平治天下也；如欲平治天下，當今之世，舍我其誰也？",
+        "en": "But Heaven does not yet wish that the kingdom should enjoy tranquillity and good order. If it wished this, who is there besides me to bring it about?"
+      },
+      {
+        "ref": "4:189",
+        "zh": "吾何為不豫哉？」",
+        "en": "How should I be otherwise than dissatisfied?'"
+      },
+      {
+        "ref": "4:190",
+        "zh": "孟子去齊，居休。",
+        "en": "When Mencius left Qi, he dwelt in Xiu."
+      },
+      {
+        "ref": "4:191",
+        "zh": "公孫丑問曰：「仕而不受祿，古之道乎？」",
+        "en": "There Gong Sun Chou asked him, saying, 'Was it the way of the ancients to hold office without receiving salary?'"
+      },
+      {
+        "ref": "4:192",
+        "zh": "曰：「非也。",
+        "en": "Mencius replied, 'No;"
+      },
+      {
+        "ref": "4:193",
+        "zh": "於崇，吾得見王。",
+        "en": "when I first saw the king in Chong,"
+      },
+      {
+        "ref": "4:194",
+        "zh": "退而有去志，不欲變，故不受也。",
+        "en": "it was my intention, on retiring from the interview, to go away. Because I did not wish to change this intention, I declined to receive any salary."
+      },
+      {
+        "ref": "4:195",
+        "zh": "繼而有師命，不可以請。",
+        "en": "Immediately after, there came orders for the collection of troops, when it would have been improper for me to beg permission to leave."
+      },
+      {
+        "ref": "4:196",
+        "zh": "久於齊，非我志也。」",
+        "en": "But to remain so long in Qi was not my purpose.'"
+      }
+    ]
+  }
+}

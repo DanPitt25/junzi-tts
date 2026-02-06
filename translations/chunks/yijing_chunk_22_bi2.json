@@ -1,0 +1,18 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "22",
+    "title": "Bi2",
+    "slug": "bi2",
+    "passages": [
+      {
+        "ref": "22:1",
+        "zh": "比，吉也，比，輔也，下順從也。原筮元永貞，无咎，以剛中也。不寧方來，上下應也。後夫凶，其道窮也。",
+        "en": "'Bi indicates that there is good fortune:' - (the name) Bi denotes help; (and we see in the figure) inferiors docilely following (their superior). 'Let (the principal party intended in it) reexamine himself, (as if) by divination, whether his virtue be great, unintermitting, and firm; - if it be so, there will be no error: - all this follows from the position of the strong line in the centre (of the upper trigram). 'Those who have not rest will come to him:' - high and low will respond to its subject. 'With those who are (too) late in coming it will be ill:' - (for them) the way (of good fortune here indicated) has been exhausted."
+      }
+    ]
+  }
+}

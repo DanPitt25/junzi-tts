@@ -1,0 +1,33 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "36",
+    "title": "Chapter 36",
+    "slug": "chapter-36",
+    "passages": [
+      {
+        "ref": "36:1",
+        "zh": "將欲歙之，必固張之；將欲弱之，必固強之；將欲廢之，必固興之；將欲奪之，必固與之。",
+        "en": "(Minimising the light) When one is about to take an inspiration, he is sure to make a (previous) expiration; when he is going to weaken another, he will first strengthen him; when he is going to overthrow another, he will first have raised him up; when he is going to despoil another, he will first have made gifts to him:"
+      },
+      {
+        "ref": "36:2",
+        "zh": "是謂微明。",
+        "en": "- this is called 'Hiding the light (of his procedure).'"
+      },
+      {
+        "ref": "36:3",
+        "zh": "柔弱勝剛強。",
+        "en": "The soft overcomes the hard; and the weak the strong."
+      },
+      {
+        "ref": "36:4",
+        "zh": "魚不可脫於淵，國之利器不可以示人。",
+        "en": "Fishes should not be taken from the deep; instruments for the profit of a state should not be shown to the people."
+      }
+    ]
+  }
+}

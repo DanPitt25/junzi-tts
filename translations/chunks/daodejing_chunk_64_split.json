@@ -1,0 +1,58 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "64",
+    "title": "Chapter 64",
+    "slug": "chapter-64",
+    "passages": [
+      {
+        "ref": "64:1",
+        "zh": "其安易持，其未兆易謀。",
+        "en": "(Guarding the minute) That which is at rest is easily kept hold of; before a thing has given indications of its presence, it is easy to take measures against it;"
+      },
+      {
+        "ref": "64:2",
+        "zh": "其脆易泮，其微易散。",
+        "en": "that which is brittle is easily broken; that which is very small is easily dispersed."
+      },
+      {
+        "ref": "64:3",
+        "zh": "為之於未有，治之於未亂。",
+        "en": "Action should be taken before a thing has made its appearance; order should be secured before disorder has begun."
+      },
+      {
+        "ref": "64:4",
+        "zh": "合抱之木，生於毫末；九層之臺，起於累土；千里之行，始於足下。",
+        "en": "The tree which fills the arms grew from the tiniest sprout; the tower of nine storeys rose from a (small) heap of earth; the journey of a thousand li commenced with a single step."
+      },
+      {
+        "ref": "64:5",
+        "zh": "為者敗之，執者失之。",
+        "en": "He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold."
+      },
+      {
+        "ref": "64:6",
+        "zh": "是以聖人無為故無敗；無執故無失。",
+        "en": "The sage does not act (so), and therefore does no harm; he does not lay hold (so), and therefore does not lose his hold."
+      },
+      {
+        "ref": "64:7",
+        "zh": "民之從事，常於幾成而敗之。",
+        "en": "(But) people in their conduct of affairs are constantly ruining them when they are on the eve of success."
+      },
+      {
+        "ref": "64:8",
+        "zh": "慎終如始，則無敗事，",
+        "en": "If they were careful at the end, as (they should be) at the beginning, they would not so ruin them."
+      },
+      {
+        "ref": "64:9",
+        "zh": "是以聖人欲不欲，不貴難得之貨；學不學，復衆人之所過，以輔萬物之自然，而不敢為。",
+        "en": "Therefore the sage desires what (other men) do not desire, and does not prize things difficult to get; he learns what (other men) do not learn, and turns back to what the multitude of men have passed by. Thus he helps the natural development of all things, and does not dare to act (with an ulterior purpose of his own)."
+      }
+    ]
+  }
+}

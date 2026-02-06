@@ -1,0 +1,23 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "40",
+    "title": "Chapter 40",
+    "slug": "chapter-40",
+    "passages": [
+      {
+        "ref": "40:1",
+        "zh": "反者道之動；弱者道之用。",
+        "en": "(Dispensing with the use (of means)) The movement of the Dao by contraries proceeds; And weakness marks the course of Dao's mighty deeds."
+      },
+      {
+        "ref": "40:2",
+        "zh": "天下萬物生於有，有生於無。",
+        "en": "All things under heaven sprang from It as existing (and named); that existence sprang from It as non-existent (and not named)."
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "63",
+    "title": "Chapter 63",
+    "slug": "chapter-63",
+    "passages": [
+      {
+        "ref": "63:1",
+        "zh": "為無為，事無事，味無味。",
+        "en": "(Thinking in the beginning) (It is the way of the Dao) to act without (thinking of) acting; to conduct affairs without (feeling the) trouble of them; to taste without discerning any flavour;"
+      },
+      {
+        "ref": "63:2",
+        "zh": "大小多少，報怨以德。",
+        "en": "to consider what is small as great, and a few as many; and to recompense injury with kindness."
+      },
+      {
+        "ref": "63:3",
+        "zh": "圖難於其易，為大於其細；",
+        "en": "(The master of it) anticipates things that are difficult while they are easy, and does things that would become great while they are small."
+      },
+      {
+        "ref": "63:4",
+        "zh": "天下難事，必作於易，天下大事，必作於細。",
+        "en": "All difficult things in the world are sure to arise from a previous state in which they were easy, and all great things from one in which they were small."
+      },
+      {
+        "ref": "63:5",
+        "zh": "是以聖人終不為大，故能成其大。",
+        "en": "Therefore the sage, while he never does what is great, is able on that account to accomplish the greatest things."
+      },
+      {
+        "ref": "63:6",
+        "zh": "夫輕諾必寡信，多易必多難。",
+        "en": "He who lightly promises is sure to keep but little faith; he who is continually thinking things easy is sure to find them difficult."
+      },
+      {
+        "ref": "63:7",
+        "zh": "是以聖人猶難之，故終無難矣。",
+        "en": "Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties."
+      }
+    ]
+  }
+}

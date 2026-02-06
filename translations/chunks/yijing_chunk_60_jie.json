@@ -1,0 +1,88 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "60",
+    "title": "Jie",
+    "slug": "jie",
+    "passages": [
+      {
+        "ref": "60:1",
+        "zh": "解：利西南，无所往，其來復吉。有攸往，夙吉。",
+        "en": "In (the state indicated by) Jie advantage will be found in the south-west. If no (further) operations be called for, there will be good fortune in coming back (to the old conditions). If some operations be called for, there will be good fortune in the early conducting of them."
+      },
+      {
+        "ref": "60:2",
+        "zh": "解，險以動，動而免乎險，解。解利西南，往得眾也。其來復吉，乃得中也。有攸往夙吉，往有功也。天地解，而雷雨作，雷雨作，而百果草木皆甲坼，解之時大矣哉！",
+        "en": "In Jie we have (the trigram expressive of) peril going on to that expressive of movement. By movement there is an escape from the peril: - (this is the meaning of) Jie. 'In (the state indicated by) Jie, advantage will be found in the south-west:' - the movement (thus) intimated will win all. That 'there will be good fortune in coming back (to the old conditions)' shows that such action is that of the due medium. That 'if some operations be necessary, there will be good fortune in the early conducting of them' shows that such operations will be successful. When heaven and earth are freed (from the grasp of winter), we have thunder and rain. When these come, the buds of the plants and trees that produce the various fruits begin to burst. Great indeed are the phenomena in the time intimated by Jie."
+      },
+      {
+        "ref": "60:3",
+        "zh": "雷雨作，解；君子以赦過宥罪。",
+        "en": "(The trigram representing) thunder and that for rain, with these phenomena in a state of manifestation, form Jie. The superior man, in accordance with this, forgives errors, and deals gently with crimes."
+      },
+      {
+        "ref": "60:4",
+        "zh": "初六：无咎。",
+        "en": "The first SIX, divided, shows that its subject will commit no error."
+      },
+      {
+        "ref": "60:5",
+        "zh": "剛柔之際，義无咎也。",
+        "en": "The strong (fourth) line and the weak line here are in correlation: - we judge rightly in saying that 'its subject will commit no error.'"
+      },
+      {
+        "ref": "60:6",
+        "zh": "九二：田獲三狐，得黃矢，貞吉。",
+        "en": "The second NINE, undivided, shows its subject catch, in hunting, three foxes, and obtain the yellow (= golden) arrows. With firm correctness there will be good fortune."
+      },
+      {
+        "ref": "60:7",
+        "zh": "九二貞吉，得中道也。",
+        "en": "'The good fortune springing from the firm correctness of the second NINE, (undivided),' is due to its subject holding the due mean."
+      },
+      {
+        "ref": "60:8",
+        "zh": "六三：負且乘，致寇至，貞吝。",
+        "en": "The third SIX, divided, shows a porter with his burden, (yet) riding in a carriage. He will (only) tempt robbers to attack him. However firm and correct he may (try to) be, there will be cause for regret."
+      },
+      {
+        "ref": "60:9",
+        "zh": "負且乘，亦可醜也，自我致戎，又誰咎也。",
+        "en": "For 'a porter with his burden to be riding in a carriage' is a thing to be ashamed of. 'It is he himself that tempts the robbers to come:' - on whom besides can we lay the blame? (See Appendix III, i, 48.)"
+      },
+      {
+        "ref": "60:10",
+        "zh": "九四：解而拇，朋至斯孚。",
+        "en": "(To the subject of) the fourth NINE, undivided, (it is said), 'Remove your toes. Friends will (then) come, between you and whom there will be mutual confidence.'"
+      },
+      {
+        "ref": "60:11",
+        "zh": "解而拇，未當位也。",
+        "en": "'Remove your toes:' - the places (of this line and of the third and first) are all inappropriate to them."
+      },
+      {
+        "ref": "60:12",
+        "zh": "六五：君子維有解，吉；有孚于小人。",
+        "en": "The fifth SIX, divided, shows (its subject), the superior man (= the ruler), executing his function of removing (whatever is injurious to the idea of the hexagram), in which case there will he good fortune, and confidence in him will be shown even by the small men."
+      },
+      {
+        "ref": "60:13",
+        "zh": "君子有解，小人退也。",
+        "en": "When 'the superior man executes his function of removing (whatever is injurious to the idea of the hexagram),' small men will of themselves retire."
+      },
+      {
+        "ref": "60:14",
+        "zh": "上六：公用射隼于高墉之上，獲之，无不利。",
+        "en": "In the sixth SIX, divided, we see a feudal prince (with his bow) shooting at a falcon on the top of a high wall, and hitting it. (The effect of his action) will be in every way advantageous."
+      },
+      {
+        "ref": "60:15",
+        "zh": "公用射隼，以解悖也。",
+        "en": "'A prince with his bow shoots a falcon:' - thus he removes (the promoters of) rebellion."
+      }
+    ]
+  }
+}

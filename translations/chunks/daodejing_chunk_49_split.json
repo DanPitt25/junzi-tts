@@ -1,0 +1,53 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "49",
+    "title": "Chapter 49",
+    "slug": "chapter-49",
+    "passages": [
+      {
+        "ref": "49:1",
+        "zh": "聖人無常心，以百姓心為心。",
+        "en": "(The quality of indulgence) The sage has no invariable mind of his own; he makes the mind of the people his mind."
+      },
+      {
+        "ref": "49:2",
+        "zh": "善者，吾善之；",
+        "en": "To those who are good (to me), I am good;"
+      },
+      {
+        "ref": "49:3",
+        "zh": "不善者，吾亦善之；",
+        "en": "and to those who are not good (to me), I am also good;"
+      },
+      {
+        "ref": "49:4",
+        "zh": "德善。",
+        "en": "- and thus (all) get to be good."
+      },
+      {
+        "ref": "49:5",
+        "zh": "信者，吾信之；",
+        "en": "To those who are sincere (with me), I am sincere;"
+      },
+      {
+        "ref": "49:6",
+        "zh": "不信者，吾亦信之；",
+        "en": "and to those who are not sincere (with me), I am also sincere;"
+      },
+      {
+        "ref": "49:7",
+        "zh": "德信。",
+        "en": "- and thus (all) get to be sincere."
+      },
+      {
+        "ref": "49:8",
+        "zh": "聖人在天下，歙歙為天下渾其心，百姓皆注其耳目，聖人皆孩之。",
+        "en": "The sage has in the world an appearance of indecision, and keeps his mind in a state of indifference to all. The people all keep their eyes and ears directed to him, and he deals with them all as his children."
+      }
+    ]
+  }
+}

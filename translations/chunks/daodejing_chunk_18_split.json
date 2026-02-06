@@ -1,0 +1,33 @@
+{
+  "id": "daodejing",
+  "title": "道德經",
+  "titleEn": "Dao De Jing",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "18",
+    "title": "Chapter 18",
+    "slug": "chapter-18",
+    "passages": [
+      {
+        "ref": "18:1",
+        "zh": "大道廢，有仁義；",
+        "en": "(The decay of manners) When the Great Dao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue."
+      },
+      {
+        "ref": "18:2",
+        "zh": "智慧出，有大偽；",
+        "en": "(Then) appeared wisdom and shrewdness, and there ensued great hypocrisy."
+      },
+      {
+        "ref": "18:3",
+        "zh": "六親不和，有孝慈；",
+        "en": "When harmony no longer prevailed throughout the six kinships, filial sons found their manifestation;"
+      },
+      {
+        "ref": "18:4",
+        "zh": "國家昏亂，有忠臣。",
+        "en": "when the states and clans fell into disorder, loyal ministers appeared."
+      }
+    ]
+  }
+}

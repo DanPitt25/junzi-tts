@@ -1,0 +1,88 @@
+{
+  "id": "yijing",
+  "title": "易經",
+  "titleEn": "Book of Changes (I Ching)",
+  "source": "Chinese Text Project (ctext.org) - James Legge translation",
+  "chapter": {
+    "number": "52",
+    "title": "Gen",
+    "slug": "gen",
+    "passages": [
+      {
+        "ref": "52:1",
+        "zh": "艮：艮其背，不獲其身，行其庭，不見其人，无咎。",
+        "en": "When one's resting is like that of the back, and he loses all consciousness of self; when he walks in his courtyard, and does not see any (of the persons) in it,--there will be no error."
+      },
+      {
+        "ref": "52:2",
+        "zh": "艮，止也。時止則止，時行則行，動靜不失其時，其道光明。艮其止，止其所也。上下敵應，不相與也。是以不獲其身，行其庭不見其人，无咎也。",
+        "en": "Gen denotes stopping or resting; - resting when it is the time to rest, and acting when it is the time to act. When one's movements and restings all take place at the proper time for them, his way (of proceeding) is brilliant and intelligent. Resting in one's resting-point is resting in one's proper place. The upper and lower (lines of the hexagram) exactly correspond to each other, but are without any interaction; hence it is said that '(the subject of the hexagram) has no consciousness of self; that when he walks in his courtyard, he does not see (any of) the persons in it; and that there will be no error.'"
+      },
+      {
+        "ref": "52:3",
+        "zh": "兼山，艮；君子以思不出其位。",
+        "en": "(Two trigrams representing) a mountain, one over the other, form Gen. The superior man, in accordance with this, does not go in his thoughts beyond the (duties of the) position in which he is."
+      },
+      {
+        "ref": "52:4",
+        "zh": "初六：艮其趾，无咎，利永貞。",
+        "en": "The first SIX, divided, shows its subject keeping his toes at rest. There will be no error; but it will be advantageous for him to be persistently firm and correct."
+      },
+      {
+        "ref": "52:5",
+        "zh": "艮其趾，未失正也。",
+        "en": "'He keeps his toes at rest:' - he does not fail in what is correct (according to the idea of the figure)."
+      },
+      {
+        "ref": "52:6",
+        "zh": "六二：艮其腓，不拯其隨，其心不快。",
+        "en": "The second SIX, divided, shows its subject keeping the calves of his legs at rest. He cannot help (the subject of the line above) whom he follows, and is dissatisfied in his mind."
+      },
+      {
+        "ref": "52:7",
+        "zh": "不拯其隨，未退聽也。",
+        "en": "'He cannot help him whom he follows:'(he whom he follows) will not retreat to listen to him."
+      },
+      {
+        "ref": "52:8",
+        "zh": "九三：艮其限，列其夤，厲薰心。",
+        "en": "The third NINE, undivided, shows its subject keeping his loins at rest, and separating the ribs (from the body below). The situation is perilous, and the heart glows with suppressed excitement."
+      },
+      {
+        "ref": "52:9",
+        "zh": "艮其限，危薰心也。",
+        "en": "'He keeps the loins at rest:' - the danger (from his doing so) produces a glowing, heat in the heart."
+      },
+      {
+        "ref": "52:10",
+        "zh": "六四：艮其身，无咎。",
+        "en": "The fourth SIX, divided, shows its subject keeping his trunk at rest. There will be no error."
+      },
+      {
+        "ref": "52:11",
+        "zh": "艮其身，止諸躬也。",
+        "en": "'He keeps the trunk of his body at rest:' - he keeps himself free (from agitation)."
+      },
+      {
+        "ref": "52:12",
+        "zh": "六五：艮其輔，言有序，悔亡。",
+        "en": "S. The fifth SIX, divided, shows its subject keeping his jawbones at rest, so that his words are (all) orderly. Occasion for repentance will disappear."
+      },
+      {
+        "ref": "52:13",
+        "zh": "艮其輔，以中正也。",
+        "en": "'He keeps his cheek bones at rest:' - in harmony with his central position he acts correctly."
+      },
+      {
+        "ref": "52:14",
+        "zh": "上九：敦艮，吉。",
+        "en": "The sixth NINE, undivided, shows its subject devotedly maintaining his restfulness. There will be good fortune."
+      },
+      {
+        "ref": "52:15",
+        "zh": "敦艮之吉，以厚終也。",
+        "en": "'There is good fortune through his devotedly maintaining his restfulness:' - to the end he shows himself generous and good."
+      }
+    ]
+  }
+}
